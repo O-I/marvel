@@ -1,3 +1,6 @@
+require 'pry'
+require 'json'
+require 'faraday'
 require 'marvel/configuration'
 
 module Marvel
