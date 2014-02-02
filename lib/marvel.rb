@@ -1,3 +1,5 @@
+require 'marvel/client'
+
 module Marvel
   class << self
     # Alias for Marvel::Client.new
