@@ -7,13 +7,14 @@ module Marvel
   class Client
     include Marvel::Configuration
 
-    BASE_URL = 'https://gateway.marvel.com/'
+    BASE_URL = 'https://gateway.marvel.com/v1/public/'
 
     def initialize
       reset
     end
 
     # TODO; MODULARIZE THIS!!!
+    # TODO; Refactor — tons of duplication
 
     # Characters: 
 
@@ -23,22 +24,22 @@ module Marvel
     end
 
     # fetches a single character by id
-    def get_character
+    def get_character(id)
       # v1/public/characters/{characterId}
     end
 
     # fetches lists of comics filtered by a character id
-    def get_comics_by_character_id
+    def get_comics_by_character_id(id)
       # v1/public/characters/{characterId}/comics
     end
 
     # fetches lists of events filtered by a character id
-    def get_events_by_character_id
+    def get_events_by_character_id(id)
       # v1/public/characters/{characterId}/events
     end
 
     # fetches lists of stories filtered by a character id
-    def get_stories_by_character_id
+    def get_stories_by_character_id(id)
       # v1/public/characters/{characterId}/stories
     end
 
@@ -50,27 +51,27 @@ module Marvel
     end
 
     # fetches a single comic by id
-    def get_comic
+    def get_comic(id)
       # v1/public/comics/{comicId}
     end
 
     # fetches lists of characters filtered by a comic id
-    def get_characters_by_comic_id
+    def get_characters_by_comic_id(id)
       # v1/public/comics/{comicId}/characters
     end
 
     # fetches lists of creators filtered by a comic id
-    def get_creators_by_comic_id
+    def get_creators_by_comic_id(id)
       # v1/public/comics/{comicId}/creators
     end
 
     # fetches lists of events filtered by a comic id
-    def get_events_by_comic_id
+    def get_events_by_comic_id(id)
       # v1/public/comics/{comicId}/events
     end
 
     # fetches lists of stories filtered by a comic id
-    def get_stories_by_comic_id
+    def get_stories_by_comic_id(id)
       # v1/public/comics/{comicId}/stories
     end
 
@@ -82,22 +83,22 @@ module Marvel
     end
 
     # fetches a single creator by id
-    def get_creator
+    def get_creator(id)
       # v1/public/creators/{creatorId}
     end
 
     # fetches lists of comics filtered by a creator id
-    def get_comics_by_creator_id
+    def get_comics_by_creator_id(id)
       # v1/public/creators/{creatorId}/comics
     end
 
     # fetches lists of events filtered by a creator id
-    def get_events_by_creator_id
+    def get_events_by_creator_id(id)
       # v1/public/creators/{creatorId}/events
     end
 
     # fetches lists of stories filtered by a creator id
-    def get_stories_by_creator_id
+    def get_stories_by_creator_id(id)
       # v1/public/creators/{creatorId}/stories
     end
 
@@ -109,27 +110,27 @@ module Marvel
     end
 
     # fetches a single event by id
-    def get_event
+    def get_event(id)
       # v1/public/events/{eventId}
     end
 
      # fetches lists of characters filtered by an event id
-    def get_characters_by_event_id
+    def get_characters_by_event_id(id)
       # v1/public/events/{eventId}/characters
     end
 
     # fetches lists of comics filtered by an event id
-    def get_comics_by_event_id
+    def get_comics_by_event_id(id)
       # v1/public/events/{eventId}/comics
     end
 
     # fetches lists of creators filtered by an event id
-    def get_creators_by_event_id
+    def get_creators_by_event_id(id)
       # v1/public/events/{eventId}/creators
     end
 
     # fetches lists of stories filtered by an event id
-    def get_stories_by_event_id
+    def get_stories_by_event_id(id)
       # v1/public/events/{eventId}/stories
     end
 
@@ -142,32 +143,32 @@ module Marvel
     end
 
     # fetches a single comic series by id
-    def get_series
+    def get_series_by_id(id)
       # v1/public/series/{seriesId}
     end
 
      # fetches lists of characters filtered by a series id
-    def get_characters_by_series_id
+    def get_characters_by_series_id(id)
       # v1/public/series/{seriesId}/characters
     end
 
     # fetches lists of comics filtered by a series id
-    def get_comics_by_series_id
+    def get_comics_by_series_id(id)
       # v1/public/series/{seriesId}/comics
     end
 
     # fetches lists of creators filtered by a series id
-    def get_creators_by_series_id
+    def get_creators_by_series_id(id)
       # v1/public/series/{seriesId}/creators
     end
 
     # fetches lists of events filtered by a series id
-    def get_events_by_series_id
+    def get_events_by_series_id(id)
       # v1/public/series/{seriesId}/events
     end
 
     # fetches lists of stories filtered by a series id
-    def get_stories_by_series_id
+    def get_stories_by_series_id(id)
       # v1/public/series/{seriesId}/stories
     end
 
@@ -179,27 +180,27 @@ module Marvel
     end
 
     # fetches a single comic story by id
-    def get_story
+    def get_story(id)
       # v1/public/stories/{storyId}
     end
 
      # fetches lists of characters filtered by a story id
-    def get_characters_by_story_id
+    def get_characters_by_story_id(id)
       # v1/public/stories/{storyId}/characters
     end
 
     # fetches lists of comics filtered by a story id
-    def get_comics_by_story_id
+    def get_comics_by_story_id(id)
       # v1/public/stories/{storyId}/comics
     end
 
     # fetches lists of creators filtered by a story id
-    def get_creators_by_story_id
+    def get_creators_by_story_id(id)
       # v1/public/stories/{storyId}/creators
     end
 
     # fetches lists of events filtered by a story id
-    def get_events_by_story_id
+    def get_events_by_story_id(id)
       # v1/public/stories/{storyId}/events
     end
   end
