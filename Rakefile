@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "marvel"
   gem.homepage = "http://github.com/O-I/marvel"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Ruby bindings for the Marvel API}
+  gem.description = %Q{Marvel is a Ruby gem that lets you explore the Marvel Universe like never before.}
   gem.email = "hore.rahul@gmail.com"
   gem.authors = ["Rahul Horé"]
   # dependencies defined in Gemfile
