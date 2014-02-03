@@ -1,7 +1,7 @@
 require 'pry'
 require 'json'
 require 'faraday'
-require 'marvel/configuration'
+require_relative 'configuration'
 
 module Marvel
   class Client
@@ -12,6 +12,14 @@ module Marvel
     def initialize
       reset
     end
+
+    binding.pry
+
+    # Requests on the server side must be of the form
+    # http://gateway.marvel.com/v1/comics/?ts=1&apikey=1234&hash=ffd275c5130566a2916217b101f26150
+    # where ts is a timestamp
+    # where apikey is your public API key
+    # where hash is the MD5 hash of your private API key
 
     # TODO; MODULARIZE THIS!!!
     # TODO; Refactor — tons of duplication
@@ -26,21 +34,25 @@ module Marvel
     # fetches a single character by id
     def get_character(id)
       # v1/public/characters/{characterId}
+      Faraday.get("#{BASE_URL}characters/#{id}?api_key=#{api_key}").body
     end
 
     # fetches lists of comics filtered by a character id
     def get_comics_by_character_id(id)
       # v1/public/characters/{characterId}/comics
+      Faraday.get("#{BASE_URL}comics/#{id}?api_key=#{api_key}").body
     end
 
     # fetches lists of events filtered by a character id
     def get_events_by_character_id(id)
       # v1/public/characters/{characterId}/events
+      Faraday.get("#{BASE_URL}events/#{id}?api_key=#{api_key}").body
     end
 
     # fetches lists of stories filtered by a character id
     def get_stories_by_character_id(id)
       # v1/public/characters/{characterId}/stories
+      Faraday.get("#{BASE_URL}stories/#{id}?api_key=#{api_key}").body
     end
 
     # Comics:
