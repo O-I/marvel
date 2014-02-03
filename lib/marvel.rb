@@ -1,4 +1,4 @@
-require 'marvel/client'
+require_relative 'marvel/client'
 
 module Marvel
   class << self
