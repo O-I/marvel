@@ -1,4 +1,3 @@
-require 'pry'
 require 'json'
 require 'time'
 require 'faraday'
@@ -14,8 +13,6 @@ module Marvel
     def initialize
       reset
     end
-
-    # binding.pry
 
     # Requests on the server side must be of the form
     # http://gateway.marvel.com/v1/comics/?ts=1&apikey=1234&hash=ffd275c5130566a2916217b101f26150
