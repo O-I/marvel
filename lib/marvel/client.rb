@@ -133,26 +133,31 @@ module Marvel
     # fetches a single event by id
     def get_event(id)
       # v1/public/events/{eventId}
+      Faraday.get("#{BASE_URL}events/#{id}#{auth}").body
     end
 
      # fetches lists of characters filtered by an event id
     def get_characters_by_event_id(id)
       # v1/public/events/{eventId}/characters
+      Faraday.get("#{BASE_URL}events/#{id}/characters#{auth}").body
     end
 
     # fetches lists of comics filtered by an event id
     def get_comics_by_event_id(id)
       # v1/public/events/{eventId}/comics
+      Faraday.get("#{BASE_URL}events/#{id}/comics#{auth}").body
     end
 
     # fetches lists of creators filtered by an event id
     def get_creators_by_event_id(id)
       # v1/public/events/{eventId}/creators
+      Faraday.get("#{BASE_URL}events/#{id}/creators#{auth}").body
     end
 
     # fetches lists of stories filtered by an event id
     def get_stories_by_event_id(id)
       # v1/public/events/{eventId}/stories
+      Faraday.get("#{BASE_URL}events/#{id}/stories#{auth}").body
     end
 
 
