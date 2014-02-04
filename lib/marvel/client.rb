@@ -105,21 +105,25 @@ module Marvel
     # fetches a single creator by id
     def get_creator(id)
       # v1/public/creators/{creatorId}
+      Faraday.get("#{BASE_URL}creators/#{id}#{auth}").body
     end
 
     # fetches lists of comics filtered by a creator id
     def get_comics_by_creator_id(id)
       # v1/public/creators/{creatorId}/comics
+      Faraday.get("#{BASE_URL}creators/#{id}/comics#{auth}").body
     end
 
     # fetches lists of events filtered by a creator id
     def get_events_by_creator_id(id)
       # v1/public/creators/{creatorId}/events
+      Faraday.get("#{BASE_URL}creators/#{id}/events#{auth}").body
     end
 
     # fetches lists of stories filtered by a creator id
     def get_stories_by_creator_id(id)
       # v1/public/creators/{creatorId}/stories
+      Faraday.get("#{BASE_URL}creators/#{id}/stories#{auth}").body
     end
 
     # Events:
