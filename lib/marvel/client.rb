@@ -14,10 +14,6 @@ module Marvel
       reset
     end
 
-    def timestamp
-      Time.now.to_s
-    end
-
     # binding.pry
 
     # Requests on the server side must be of the form
@@ -41,7 +37,8 @@ module Marvel
     def get_character(id)
       # v1/public/characters/{characterId}
       ts = timestamp
-      Faraday.get("#{BASE_URL}characters/#{id}?ts=#{ts}&apikey=#{api_key}&hash=#{ts+private_key+api_key}").body
+      hash = Digest::MD5.hexdigest(ts + private_key + api_key)
+      Faraday.get("#{BASE_URL}characters/#{id}?ts=#{ts}&apikey=#{api_key}&hash=#{hash}").body
     end
 
     # fetches lists of comics filtered by a character id
@@ -221,6 +218,12 @@ module Marvel
     # fetches lists of events filtered by a story id
     def get_events_by_story_id(id)
       # v1/public/stories/{storyId}/events
+    end
+
+    private
+
+    def timestamp
+      Time.now.to_s
     end
   end
 end
