@@ -1,5 +1,6 @@
 require 'pry'
 require 'json'
+require 'time'
 require 'faraday'
 require_relative 'configuration'
 
@@ -13,13 +14,18 @@ module Marvel
       reset
     end
 
+    def timestamp
+      Time.now.to_s
+    end
+
     binding.pry
 
     # Requests on the server side must be of the form
     # http://gateway.marvel.com/v1/comics/?ts=1&apikey=1234&hash=ffd275c5130566a2916217b101f26150
     # where ts is a timestamp
     # where apikey is your public API key
-    # where hash is the MD5 hash of your private API key
+    # where hash is the MD5 hash of the concatenation of 
+    # ts, your private API key, and your public API key
 
     # TODO; MODULARIZE THIS!!!
     # TODO; Refactor — tons of duplication
@@ -34,7 +40,7 @@ module Marvel
     # fetches a single character by id
     def get_character(id)
       # v1/public/characters/{characterId}
-      Faraday.get("#{BASE_URL}characters/#{id}?api_key=#{api_key}").body
+      Faraday.get("#{BASE_URL}characters/#{id}?ts=#{timestamp}&apikey=#{api_key}&hash=#{timestamp+private_key+api_key}").body
     end
 
     # fetches lists of comics filtered by a character id
