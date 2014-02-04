@@ -37,9 +37,7 @@ module Marvel
     # fetches a single character by id
     def get_character(id)
       # v1/public/characters/{characterId}
-      ts = timestamp
-      hsh = hash(ts)
-      Faraday.get("#{BASE_URL}characters/#{id}?ts=#{ts}&apikey=#{api_key}&hash=#{hsh}").body
+      Faraday.get("#{BASE_URL}characters/#{id}#{auth}").body
     end
 
     # fetches lists of comics filtered by a character id
@@ -222,6 +220,12 @@ module Marvel
     end
 
     private
+
+    def auth
+      ts = timestamp
+      hsh = hash(ts)
+      "?ts=#{ts}&apikey=#{api_key}&hash=#{hsh}"
+    end
 
     def hash(ts)
       Digest::MD5.hexdigest(ts + private_key + api_key)
