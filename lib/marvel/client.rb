@@ -214,26 +214,31 @@ module Marvel
     # fetches a single comic story by id
     def get_story(id)
       # v1/public/stories/{storyId}
+      Faraday.get("#{BASE_URL}stories/#{id}#{auth}").body
     end
 
      # fetches lists of characters filtered by a story id
     def get_characters_by_story_id(id)
       # v1/public/stories/{storyId}/characters
+      Faraday.get("#{BASE_URL}stories/#{id}/characters#{auth}").body
     end
 
     # fetches lists of comics filtered by a story id
     def get_comics_by_story_id(id)
       # v1/public/stories/{storyId}/comics
+      Faraday.get("#{BASE_URL}stories/#{id}/comics#{auth}").body
     end
 
     # fetches lists of creators filtered by a story id
     def get_creators_by_story_id(id)
       # v1/public/stories/{storyId}/creators
+      Faraday.get("#{BASE_URL}stories/#{id}/creators#{auth}").body
     end
 
     # fetches lists of events filtered by a story id
     def get_events_by_story_id(id)
       # v1/public/stories/{storyId}/events
+      Faraday.get("#{BASE_URL}stories/#{id}/events#{auth}").body
     end
 
     private
