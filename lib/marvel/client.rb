@@ -2,6 +2,7 @@ require 'pry'
 require 'json'
 require 'time'
 require 'faraday'
+require 'digest/md5'
 require_relative 'configuration'
 
 module Marvel
@@ -37,8 +38,8 @@ module Marvel
     def get_character(id)
       # v1/public/characters/{characterId}
       ts = timestamp
-      hash = Digest::MD5.hexdigest(ts + private_key + api_key)
-      Faraday.get("#{BASE_URL}characters/#{id}?ts=#{ts}&apikey=#{api_key}&hash=#{hash}").body
+      hsh = hash(ts)
+      Faraday.get("#{BASE_URL}characters/#{id}?ts=#{ts}&apikey=#{api_key}&hash=#{hsh}").body
     end
 
     # fetches lists of comics filtered by a character id
@@ -221,6 +222,10 @@ module Marvel
     end
 
     private
+
+    def hash(ts)
+      Digest::MD5.hexdigest(ts + private_key + api_key)
+    end
 
     def timestamp
       Time.now.to_s
