@@ -1,8 +1,16 @@
-# Marvel
+# marvel_api
 
-Ruby bindings for the [Marvel API](http://developer.marvel.com/).
+Ruby bindings for the [Marvel API](http://developer.marvel.com/). Still under construction... Feel free to contribute!
 
-## Contributing to marvel
+## Installation
+
+`gem install 'marvel_api'` or add `gem 'marvel_api'` to your Gemfile.
+
+## Documentation
+
+Coming soon.
+
+## Contributing to marvel_api
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.
