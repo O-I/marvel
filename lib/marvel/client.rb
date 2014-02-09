@@ -2,10 +2,14 @@ require 'json'
 require 'time'
 require 'faraday'
 require 'digest/md5'
+require_relative 'request'
+require_relative 'connection'
 require_relative 'configuration'
 
 module Marvel
   class Client
+    include Marvel::Request
+    include Marvel::Connection
     include Marvel::Configuration
 
     BASE_URL = 'https://gateway.marvel.com/v1/public/'
