@@ -1,3 +1,4 @@
+require 'pry'
 require 'json'
 require 'time'
 require 'faraday'
@@ -12,11 +13,13 @@ module Marvel
     include Marvel::Connection
     include Marvel::Configuration
 
-    BASE_URL = 'https://gateway.marvel.com/v1/public/'
+    # BASE_URL = 'https://gateway.marvel.com/v1/public/'
 
     def initialize
       reset
     end
+
+    binding.pry
 
     # Requests on the server side must be of the form
     # http://gateway.marvel.com/v1/comics/?ts=1&apikey=1234&hash=ffd275c5130566a2916217b101f26150
@@ -38,7 +41,8 @@ module Marvel
     # fetches a single character by id
     def get_character(id)
       # v1/public/characters/{characterId}
-      Faraday.get("#{BASE_URL}characters/#{id}#{auth}").body
+      # Faraday.get("#{BASE_URL}characters/#{id}#{auth}").body
+      get("characters/#{id}#{auth}")
     end
 
     # fetches lists of comics filtered by a character id
