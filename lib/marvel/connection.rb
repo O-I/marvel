@@ -7,7 +7,7 @@ module Marvel
     def connection
       options = {
         ssl: { verify: false },
-        url: { 'http://https://gateway.marvel.com/v1/public/' }
+        url: 'https://gateway.marvel.com/v1/public/'
       }
 
       Faraday.new(options) do |connection|
