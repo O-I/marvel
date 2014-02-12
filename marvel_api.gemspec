@@ -30,7 +30,6 @@ Gem::Specification.new do |s|
     "lib/marvel/configuration.rb",
     "lib/marvel/connection.rb",
     "lib/marvel/request.rb",
-    "marvel.gemspec",
     "marvel_api.gemspec",
     "spec/marvel_spec.rb",
     "spec/spec_helper.rb"
