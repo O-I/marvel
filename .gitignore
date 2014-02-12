@@ -21,5 +21,8 @@ pkg
 # don't check in .gem files
 *.gem
 
+# or the lock for gems
+Gemfile.lock
+
 # or API keys
 .env
