@@ -18,7 +18,7 @@ Jeweler::Tasks.new do |gem|
   gem.homepage = "http://github.com/O-I/marvel"
   gem.license = "MIT"
   gem.summary = %Q{Ruby bindings for the Marvel API}
-  gem.description = %Q{Marvel is a Ruby gem that lets you explore the Marvel Universe like never before.}
+  gem.description = %Q{Marvel_API is a Ruby gem that lets you explore the Marvel Universe like never before.}
   gem.email = "hore.rahul@gmail.com"
   gem.authors = ["Rahul Horé"]
   # dependencies defined in Gemfile
@@ -38,7 +38,7 @@ Rake::RDocTask.new do |rdoc|
   version = File.exist?('VERSION') ? File.read('VERSION') : ""
 
   rdoc.rdoc_dir = 'rdoc'
-  rdoc.title = "marvel #{version}"
+  rdoc.title = "marvel_api #{version}"
   rdoc.rdoc_files.include('README*')
   rdoc.rdoc_files.include('lib/**/*.rb')
 end
