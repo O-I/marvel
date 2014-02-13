@@ -41,8 +41,8 @@ module Marvel
     # fetches a single character by id
     def get_character(id)
       # v1/public/characters/{characterId}
-      # Faraday.get("#{BASE_URL}characters/#{id}#{auth}").body
-      get("characters/#{id}#{auth}")
+      Faraday.get("#{BASE_URL}characters/#{id}#{auth}").body
+      # get("characters/#{id}#{auth}")
     end
 
     # fetches lists of comics filtered by a character id
