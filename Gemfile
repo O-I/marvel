@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-# To make HTTP requests
-gem 'faraday'
+gem 'faraday', '~> 0.8.9'
+gem 'hashie' 
 
 group :development do
   gem 'pry'
