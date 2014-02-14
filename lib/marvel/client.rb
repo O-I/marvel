@@ -12,8 +12,6 @@ module Marvel
     include Marvel::Connection
     include Marvel::Configuration
 
-    # BASE_URL = 'https://gateway.marvel.com/v1/public/'
-
     def initialize
       reset
     end
@@ -25,8 +23,16 @@ module Marvel
     # where hash is the MD5 hash of the concatenation of 
     # ts, your private API key, and your public API key
 
+    # So basic request form for all methods looks like
+    # Faraday.get("#{BASE_URL}#{path}#{id}#{stub}#{auth}").body
+    # e.g., get_comics_by_character_id
+    # Faraday.get("#{BASE_URL}characters/#{id}/comics#{auth}").body
+
     # TODO; MODULARIZE THIS!!!
     # TODO; Refactor — tons of duplication
+
+    # All methods return a Hashie::Mash object
+    # representation of the original JSON response
 
     # Characters: 
 
@@ -38,26 +44,25 @@ module Marvel
     # fetches a single character by id
     def get_character(id)
       # v1/public/characters/{characterId}
-      Faraday.get("#{BASE_URL}characters/#{id}#{auth}").body
-      # get("characters/#{id}#{auth}")
+      get("characters/#{id}#{auth}")
     end
 
     # fetches lists of comics filtered by a character id
     def get_comics_by_character_id(id)
       # v1/public/characters/{characterId}/comics
-      Faraday.get("#{BASE_URL}characters/#{id}/comics#{auth}").body
+      get("characters/#{id}/comics#{auth}")
     end
 
     # fetches lists of events filtered by a character id
     def get_events_by_character_id(id)
       # v1/public/characters/{characterId}/events
-      Faraday.get("#{BASE_URL}characters/#{id}/events#{auth}").body
+      get("characters/#{id}/events#{auth}")
     end
 
     # fetches lists of stories filtered by a character id
     def get_stories_by_character_id(id)
       # v1/public/characters/{characterId}/stories
-      Faraday.get("#{BASE_URL}characters/#{id}/stories#{auth}").body
+      get("characters/#{id}/stories#{auth}")
     end
 
     # Comics:
@@ -70,31 +75,31 @@ module Marvel
     # fetches a single comic by id
     def get_comic(id)
       # v1/public/comics/{comicId}
-      Faraday.get("#{BASE_URL}comics/#{id}#{auth}").body
+      get("comics/#{id}#{auth}")
     end
 
     # fetches lists of characters filtered by a comic id
     def get_characters_by_comic_id(id)
       # v1/public/comics/{comicId}/characters
-      Faraday.get("#{BASE_URL}comics/#{id}/characters#{auth}").body
+      get("comics/#{id}/characters#{auth}")
     end
 
     # fetches lists of creators filtered by a comic id
     def get_creators_by_comic_id(id)
       # v1/public/comics/{comicId}/creators
-      Faraday.get("#{BASE_URL}comics/#{id}/creators#{auth}").body
+      get("comics/#{id}/creators#{auth}")
     end
 
     # fetches lists of events filtered by a comic id
     def get_events_by_comic_id(id)
       # v1/public/comics/{comicId}/events
-      Faraday.get("#{BASE_URL}comics/#{id}/events#{auth}").body
+      get("comics/#{id}/events#{auth}")
     end
 
     # fetches lists of stories filtered by a comic id
     def get_stories_by_comic_id(id)
       # v1/public/comics/{comicId}/stories
-      Faraday.get("#{BASE_URL}comics/#{id}/stories#{auth}").body
+      get("comics/#{id}/stories#{auth}")
     end
 
     # Creators:
@@ -107,25 +112,25 @@ module Marvel
     # fetches a single creator by id
     def get_creator(id)
       # v1/public/creators/{creatorId}
-      Faraday.get("#{BASE_URL}creators/#{id}#{auth}").body
+      get("creators/#{id}#{auth}")
     end
 
     # fetches lists of comics filtered by a creator id
     def get_comics_by_creator_id(id)
       # v1/public/creators/{creatorId}/comics
-      Faraday.get("#{BASE_URL}creators/#{id}/comics#{auth}").body
+      get("creators/#{id}/comics#{auth}")
     end
 
     # fetches lists of events filtered by a creator id
     def get_events_by_creator_id(id)
       # v1/public/creators/{creatorId}/events
-      Faraday.get("#{BASE_URL}creators/#{id}/events#{auth}").body
+      get("creators/#{id}/events#{auth}")
     end
 
     # fetches lists of stories filtered by a creator id
     def get_stories_by_creator_id(id)
       # v1/public/creators/{creatorId}/stories
-      Faraday.get("#{BASE_URL}creators/#{id}/stories#{auth}").body
+      get("creators/#{id}/stories#{auth}")
     end
 
     # Events:
@@ -138,31 +143,31 @@ module Marvel
     # fetches a single event by id
     def get_event(id)
       # v1/public/events/{eventId}
-      Faraday.get("#{BASE_URL}events/#{id}#{auth}").body
+      get("events/#{id}#{auth}")
     end
 
      # fetches lists of characters filtered by an event id
     def get_characters_by_event_id(id)
       # v1/public/events/{eventId}/characters
-      Faraday.get("#{BASE_URL}events/#{id}/characters#{auth}").body
+      get("events/#{id}/characters#{auth}")
     end
 
     # fetches lists of comics filtered by an event id
     def get_comics_by_event_id(id)
       # v1/public/events/{eventId}/comics
-      Faraday.get("#{BASE_URL}events/#{id}/comics#{auth}").body
+      get("events/#{id}/comics#{auth}")
     end
 
     # fetches lists of creators filtered by an event id
     def get_creators_by_event_id(id)
       # v1/public/events/{eventId}/creators
-      Faraday.get("#{BASE_URL}events/#{id}/creators#{auth}").body
+      get("events/#{id}/creators#{auth}")
     end
 
     # fetches lists of stories filtered by an event id
     def get_stories_by_event_id(id)
       # v1/public/events/{eventId}/stories
-      Faraday.get("#{BASE_URL}events/#{id}/stories#{auth}").body
+      get("events/#{id}/stories#{auth}")
     end
 
 
@@ -176,37 +181,37 @@ module Marvel
     # fetches a single comic series by id
     def get_series_by_id(id)
       # v1/public/series/{seriesId}
-      Faraday.get("#{BASE_URL}series/#{id}#{auth}").body
+      get("series/#{id}#{auth}")
     end
 
      # fetches lists of characters filtered by a series id
     def get_characters_by_series_id(id)
       # v1/public/series/{seriesId}/characters
-      Faraday.get("#{BASE_URL}series/#{id}/characters#{auth}").body
+      get("series/#{id}/characters#{auth}")
     end
 
     # fetches lists of comics filtered by a series id
     def get_comics_by_series_id(id)
       # v1/public/series/{seriesId}/comics
-      Faraday.get("#{BASE_URL}series/#{id}/comics#{auth}").body
+      get("series/#{id}/comics#{auth}")
     end
 
     # fetches lists of creators filtered by a series id
     def get_creators_by_series_id(id)
       # v1/public/series/{seriesId}/creators
-      Faraday.get("#{BASE_URL}series/#{id}/creators#{auth}").body
+      get("series/#{id}/creators#{auth}")
     end
 
     # fetches lists of events filtered by a series id
     def get_events_by_series_id(id)
       # v1/public/series/{seriesId}/events
-      Faraday.get("#{BASE_URL}series/#{id}/events#{auth}").body
+      get("series/#{id}/events#{auth}")
     end
 
     # fetches lists of stories filtered by a series id
     def get_stories_by_series_id(id)
       # v1/public/series/{seriesId}/stories
-      Faraday.get("#{BASE_URL}series/#{id}/stories#{auth}").body
+      get("series/#{id}/stories#{auth}")
     end
 
     # Stories:
@@ -219,31 +224,31 @@ module Marvel
     # fetches a single comic story by id
     def get_story(id)
       # v1/public/stories/{storyId}
-      Faraday.get("#{BASE_URL}stories/#{id}#{auth}").body
+      get("stories/#{id}#{auth}")
     end
 
      # fetches lists of characters filtered by a story id
     def get_characters_by_story_id(id)
       # v1/public/stories/{storyId}/characters
-      Faraday.get("#{BASE_URL}stories/#{id}/characters#{auth}").body
+      get("stories/#{id}/characters#{auth}")
     end
 
     # fetches lists of comics filtered by a story id
     def get_comics_by_story_id(id)
       # v1/public/stories/{storyId}/comics
-      Faraday.get("#{BASE_URL}stories/#{id}/comics#{auth}").body
+      get("stories/#{id}/comics#{auth}")
     end
 
     # fetches lists of creators filtered by a story id
     def get_creators_by_story_id(id)
       # v1/public/stories/{storyId}/creators
-      Faraday.get("#{BASE_URL}stories/#{id}/creators#{auth}").body
+      get("stories/#{id}/creators#{auth}")
     end
 
     # fetches lists of events filtered by a story id
     def get_events_by_story_id(id)
       # v1/public/stories/{storyId}/events
-      Faraday.get("#{BASE_URL}stories/#{id}/events#{auth}").body
+      get("stories/#{id}/events#{auth}")
     end
 
     private
