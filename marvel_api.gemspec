@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Rahul Hor\u{e9}"]
-  s.date = "2014-02-13"
+  s.date = "2014-02-14"
   s.description = "Marvel_API is a Ruby gem that lets you explore the Marvel Universe like never before."
   s.email = "hore.rahul@gmail.com"
   s.extra_rdoc_files = [
@@ -25,11 +25,11 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "VERSION",
-    "lib/marvel.rb",
     "lib/marvel/client.rb",
     "lib/marvel/configuration.rb",
     "lib/marvel/connection.rb",
     "lib/marvel/request.rb",
+    "lib/marvel_api.rb",
     "marvel_api.gemspec",
     "spec/marvel_spec.rb",
     "spec/spec_helper.rb"
