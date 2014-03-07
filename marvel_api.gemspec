@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Rahul Hor\u{e9}"]
-  s.date = "2014-02-26"
+  s.date = "2014-03-07"
   s.description = "Marvel_API is a Ruby gem that lets you explore the Marvel Universe like never before."
   s.email = "hore.rahul@gmail.com"
   s.extra_rdoc_files = [
@@ -31,6 +31,7 @@ Gem::Specification.new do |s|
     "lib/marvel/request.rb",
     "lib/marvel_api.rb",
     "marvel_api.gemspec",
+    "spec/marvel_api/client_spec.rb",
     "spec/marvel_api_spec.rb",
     "spec/spec_helper.rb"
   ]
@@ -44,7 +45,7 @@ Gem::Specification.new do |s|
     s.specification_version = 4
 
     if Gem::Version.new(Gem::VERSION) >= Gem::Version.new('1.2.0') then
-      s.add_runtime_dependency(%q<faraday>, ["~> 0.8.9"])
+      s.add_runtime_dependency(%q<faraday>, [">= 0"])
       s.add_runtime_dependency(%q<faraday_middleware>, [">= 0"])
       s.add_runtime_dependency(%q<hashie>, [">= 0"])
       s.add_development_dependency(%q<pry>, [">= 0"])
@@ -55,7 +56,7 @@ Gem::Specification.new do |s|
       s.add_development_dependency(%q<jeweler>, ["~> 1.8.7"])
       s.add_development_dependency(%q<simplecov>, [">= 0"])
     else
-      s.add_dependency(%q<faraday>, ["~> 0.8.9"])
+      s.add_dependency(%q<faraday>, [">= 0"])
       s.add_dependency(%q<faraday_middleware>, [">= 0"])
       s.add_dependency(%q<hashie>, [">= 0"])
       s.add_dependency(%q<pry>, [">= 0"])
@@ -67,7 +68,7 @@ Gem::Specification.new do |s|
       s.add_dependency(%q<simplecov>, [">= 0"])
     end
   else
-    s.add_dependency(%q<faraday>, ["~> 0.8.9"])
+    s.add_dependency(%q<faraday>, [">= 0"])
     s.add_dependency(%q<faraday_middleware>, [">= 0"])
     s.add_dependency(%q<hashie>, [">= 0"])
     s.add_dependency(%q<pry>, [">= 0"])
