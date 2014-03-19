@@ -1,3 +1,4 @@
+require 'pry'
 require 'json'
 require 'time'
 require 'faraday'
@@ -37,32 +38,33 @@ module Marvel
     # Characters: 
 
     # fetches lists of characters
-    def get_characters
+    def get_characters(options = {})
       # v1/public/characters
+      get('characters', options)
     end
 
     # fetches a single character by id
     def get_character(id)
       # v1/public/characters/{characterId}
-      get("characters/#{id}#{auth}")
+      get("characters/#{id}")
     end
 
     # fetches lists of comics filtered by a character id
     def get_comics_by_character_id(id)
       # v1/public/characters/{characterId}/comics
-      get("characters/#{id}/comics#{auth}")
+      get("characters/#{id}/comics")
     end
 
     # fetches lists of events filtered by a character id
     def get_events_by_character_id(id)
       # v1/public/characters/{characterId}/events
-      get("characters/#{id}/events#{auth}")
+      get("characters/#{id}/events")
     end
 
     # fetches lists of stories filtered by a character id
     def get_stories_by_character_id(id)
       # v1/public/characters/{characterId}/stories
-      get("characters/#{id}/stories#{auth}")
+      get("characters/#{id}/stories")
     end
 
     # Comics:
@@ -70,36 +72,37 @@ module Marvel
     # fetches lists of comics
     def get_comics
       # v1/public/comics
+      get('comics', options)
     end
 
     # fetches a single comic by id
     def get_comic(id)
       # v1/public/comics/{comicId}
-      get("comics/#{id}#{auth}")
+      get("comics/#{id}")
     end
 
     # fetches lists of characters filtered by a comic id
     def get_characters_by_comic_id(id)
       # v1/public/comics/{comicId}/characters
-      get("comics/#{id}/characters#{auth}")
+      get("comics/#{id}/characters")
     end
 
     # fetches lists of creators filtered by a comic id
     def get_creators_by_comic_id(id)
       # v1/public/comics/{comicId}/creators
-      get("comics/#{id}/creators#{auth}")
+      get("comics/#{id}/creators")
     end
 
     # fetches lists of events filtered by a comic id
     def get_events_by_comic_id(id)
       # v1/public/comics/{comicId}/events
-      get("comics/#{id}/events#{auth}")
+      get("comics/#{id}/events")
     end
 
     # fetches lists of stories filtered by a comic id
     def get_stories_by_comic_id(id)
       # v1/public/comics/{comicId}/stories
-      get("comics/#{id}/stories#{auth}")
+      get("comics/#{id}/stories")
     end
 
     # Creators:
@@ -107,30 +110,31 @@ module Marvel
     # fetches lists of creators
     def get_creators
       # v1/public/creators
+      get('creators', options)
     end
 
     # fetches a single creator by id
     def get_creator(id)
       # v1/public/creators/{creatorId}
-      get("creators/#{id}#{auth}")
+      get("creators/#{id}")
     end
 
     # fetches lists of comics filtered by a creator id
     def get_comics_by_creator_id(id)
       # v1/public/creators/{creatorId}/comics
-      get("creators/#{id}/comics#{auth}")
+      get("creators/#{id}/comics")
     end
 
     # fetches lists of events filtered by a creator id
     def get_events_by_creator_id(id)
       # v1/public/creators/{creatorId}/events
-      get("creators/#{id}/events#{auth}")
+      get("creators/#{id}/events")
     end
 
     # fetches lists of stories filtered by a creator id
     def get_stories_by_creator_id(id)
       # v1/public/creators/{creatorId}/stories
-      get("creators/#{id}/stories#{auth}")
+      get("creators/#{id}/stories")
     end
 
     # Events:
@@ -138,36 +142,37 @@ module Marvel
     # fetches lists of events
     def get_events
       # v1/public/events
+      get('events', options)
     end
 
     # fetches a single event by id
     def get_event(id)
       # v1/public/events/{eventId}
-      get("events/#{id}#{auth}")
+      get("events/#{id}")
     end
 
      # fetches lists of characters filtered by an event id
     def get_characters_by_event_id(id)
       # v1/public/events/{eventId}/characters
-      get("events/#{id}/characters#{auth}")
+      get("events/#{id}/characters")
     end
 
     # fetches lists of comics filtered by an event id
     def get_comics_by_event_id(id)
       # v1/public/events/{eventId}/comics
-      get("events/#{id}/comics#{auth}")
+      get("events/#{id}/comics")
     end
 
     # fetches lists of creators filtered by an event id
     def get_creators_by_event_id(id)
       # v1/public/events/{eventId}/creators
-      get("events/#{id}/creators#{auth}")
+      get("events/#{id}/creators")
     end
 
     # fetches lists of stories filtered by an event id
     def get_stories_by_event_id(id)
       # v1/public/events/{eventId}/stories
-      get("events/#{id}/stories#{auth}")
+      get("events/#{id}/stories")
     end
 
 
@@ -176,42 +181,43 @@ module Marvel
     # fetches lists of series
     def get_series
       # v1/public/series
+      get('series', options)
     end
 
     # fetches a single comic series by id
     def get_series_by_id(id)
       # v1/public/series/{seriesId}
-      get("series/#{id}#{auth}")
+      get("series/#{id}")
     end
 
      # fetches lists of characters filtered by a series id
     def get_characters_by_series_id(id)
       # v1/public/series/{seriesId}/characters
-      get("series/#{id}/characters#{auth}")
+      get("series/#{id}/characters")
     end
 
     # fetches lists of comics filtered by a series id
     def get_comics_by_series_id(id)
       # v1/public/series/{seriesId}/comics
-      get("series/#{id}/comics#{auth}")
+      get("series/#{id}/comics")
     end
 
     # fetches lists of creators filtered by a series id
     def get_creators_by_series_id(id)
       # v1/public/series/{seriesId}/creators
-      get("series/#{id}/creators#{auth}")
+      get("series/#{id}/creators")
     end
 
     # fetches lists of events filtered by a series id
     def get_events_by_series_id(id)
       # v1/public/series/{seriesId}/events
-      get("series/#{id}/events#{auth}")
+      get("series/#{id}/events")
     end
 
     # fetches lists of stories filtered by a series id
     def get_stories_by_series_id(id)
       # v1/public/series/{seriesId}/stories
-      get("series/#{id}/stories#{auth}")
+      get("series/#{id}/stories")
     end
 
     # Stories:
@@ -219,52 +225,38 @@ module Marvel
     # fetches lists of stories
     def get_stories
       # v1/public/stories
+      get('stories', options)
     end
 
     # fetches a single comic story by id
     def get_story(id)
       # v1/public/stories/{storyId}
-      get("stories/#{id}#{auth}")
+      get("stories/#{id}")
     end
 
      # fetches lists of characters filtered by a story id
     def get_characters_by_story_id(id)
       # v1/public/stories/{storyId}/characters
-      get("stories/#{id}/characters#{auth}")
+      get("stories/#{id}/characters")
     end
 
     # fetches lists of comics filtered by a story id
     def get_comics_by_story_id(id)
       # v1/public/stories/{storyId}/comics
-      get("stories/#{id}/comics#{auth}")
+      get("stories/#{id}/comics")
     end
 
     # fetches lists of creators filtered by a story id
     def get_creators_by_story_id(id)
       # v1/public/stories/{storyId}/creators
-      get("stories/#{id}/creators#{auth}")
+      get("stories/#{id}/creators")
     end
 
     # fetches lists of events filtered by a story id
     def get_events_by_story_id(id)
       # v1/public/stories/{storyId}/events
-      get("stories/#{id}/events#{auth}")
-    end
-
-    private
-
-    def auth
-      ts = timestamp
-      hsh = hash(ts)
-      "?ts=#{ts}&apikey=#{api_key}&hash=#{hsh}"
-    end
-
-    def hash(ts)
-      Digest::MD5.hexdigest(ts + private_key + api_key)
-    end
-
-    def timestamp
-      Time.now.to_s
+      get("stories/#{id}/events")
     end
   end
+  binding.pry
 end
