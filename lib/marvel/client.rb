@@ -258,5 +258,4 @@ module Marvel
       get("stories/#{id}/events")
     end
   end
-  binding.pry
 end
