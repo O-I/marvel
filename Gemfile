@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'faraday'
+gem 'faraday', '~> 0.8.9'
 gem 'faraday_middleware'
 gem 'hashie' 
 
