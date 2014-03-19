@@ -70,7 +70,7 @@ module Marvel
     # Comics:
 
     # fetches lists of comics
-    def get_comics
+    def get_comics(options = {})
       # v1/public/comics
       get('comics', options)
     end
@@ -108,7 +108,7 @@ module Marvel
     # Creators:
 
     # fetches lists of creators
-    def get_creators
+    def get_creators(options = {})
       # v1/public/creators
       get('creators', options)
     end
@@ -140,7 +140,7 @@ module Marvel
     # Events:
 
     # fetches lists of events
-    def get_events
+    def get_events(options = {})
       # v1/public/events
       get('events', options)
     end
@@ -179,7 +179,7 @@ module Marvel
     # Series:
 
     # fetches lists of series
-    def get_series
+    def get_series(options = {})
       # v1/public/series
       get('series', options)
     end
@@ -223,7 +223,7 @@ module Marvel
     # Stories:
 
     # fetches lists of stories
-    def get_stories
+    def get_stories(options = {})
       # v1/public/stories
       get('stories', options)
     end
