@@ -61,6 +61,12 @@ module Marvel
       get("characters/#{id}/events", options)
     end
 
+    # fetches lists of series filtered by a character id
+    def character_series(id, options = {})
+      # vi/public/characters/{characterId}/series
+      get("characters/#{id}/series", options)
+    end
+
     # fetches lists of stories filtered by a character id
     def character_stories(id, options = {})
       # v1/public/characters/{characterId}/stories
@@ -131,6 +137,12 @@ module Marvel
       get("creators/#{id}/events", options)
     end
 
+     # fetches lists of series filtered by a creator id
+    def creator_series(id, options = {})
+      # v1/public/creators/{creatorId}/series
+      get("creators/#{id}/series", options)
+    end
+
     # fetches lists of stories filtered by a creator id
     def creator_stories(id, options = {})
       # v1/public/creators/{creatorId}/stories
@@ -167,6 +179,12 @@ module Marvel
     def event_creators(id, options = {})
       # v1/public/events/{eventId}/creators
       get("events/#{id}/creators", options)
+    end
+
+    # fetches lists of series filtered by an event id
+    def event_series(id, options = {})
+      # vi/public/events/{eventId}/series
+      get("events/#{id}/series", options)
     end
 
     # fetches lists of stories filtered by an event id
@@ -257,5 +275,12 @@ module Marvel
       # v1/public/stories/{storyId}/events
       get("stories/#{id}/events", options)
     end
+
+    # fetches lists of series filtered by a story id
+    def story_series(id, options = {})
+      # v1/public/stories/{storyId}/series
+      get("stories/#{id}/series", options)
+    end
+    binding.pry
   end
 end
