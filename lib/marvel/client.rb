@@ -1,4 +1,3 @@
-require 'pry'
 require 'json'
 require 'time'
 require 'faraday'
@@ -281,6 +280,5 @@ module Marvel
       # v1/public/stories/{storyId}/series
       get("stories/#{id}/series", options)
     end
-    binding.pry
   end
 end
