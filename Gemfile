@@ -4,9 +4,10 @@ gem 'faraday'
 gem 'faraday_middleware'
 gem 'hashie' 
 
-group :development do
+group :development, :test do
   gem 'pry'
   gem 'rspec'
+  gem 'webmock'
   gem 'shoulda', '>= 0'
   gem 'rdoc', '~> 3.12'
   gem 'bundler', '~> 1.0'
