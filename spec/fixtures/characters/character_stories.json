@@ -1,0 +1,1873 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2014 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2014 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2014 MARVEL</a>",
+  "etag": "316308c2deeffb3b2e2413afcb4b2318dcdb56ac",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 68,
+    "count": 20,
+    "results": [
+      {
+        "id": 695,
+        "title": "Interior #695",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/695",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/695/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+              "name": "Jim Starlin",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/695/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/695/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/548",
+              "name": "Thanos (2003 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/340",
+              "name": "Thanos Vol. 4: Epiphany (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/695/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/174",
+              "name": "Thanos (2003) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1289",
+              "name": "Thanos Vol. 4: Epiphany (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/695/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/174",
+          "name": "Thanos (2003) #3"
+        }
+      },
+      {
+        "id": 1413,
+        "title": "Interior #1413",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1413",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1413/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+              "name": "Jim Starlin",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1413/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1413/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/548",
+              "name": "Thanos (2003 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/340",
+              "name": "Thanos Vol. 4: Epiphany (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1413/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/173",
+              "name": "Thanos (2003) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1289",
+              "name": "Thanos Vol. 4: Epiphany (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1413/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/173",
+          "name": "Thanos (2003) #4"
+        }
+      },
+      {
+        "id": 1603,
+        "title": "Interior #1603",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1603",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1603/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+              "name": "Jim Starlin",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1603/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1603/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/548",
+              "name": "Thanos (2003 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/340",
+              "name": "Thanos Vol. 4: Epiphany (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1603/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/175",
+              "name": "Thanos (2003) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1289",
+              "name": "Thanos Vol. 4: Epiphany (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1603/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/175",
+          "name": "Thanos (2003) #2"
+        }
+      },
+      {
+        "id": 1801,
+        "title": "Interior #1801",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1801",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1801/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+              "name": "Jim Starlin",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1801/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1801/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/548",
+              "name": "Thanos (2003 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/340",
+              "name": "Thanos Vol. 4: Epiphany (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1801/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/176",
+              "name": "Thanos (2003) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1289",
+              "name": "Thanos Vol. 4: Epiphany (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1801/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/176",
+          "name": "Thanos (2003) #1"
+        }
+      },
+      {
+        "id": 1843,
+        "title": "Interior #1843",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1843",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1843/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+              "name": "Jim Starlin",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1843/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1843/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/548",
+              "name": "Thanos (2003 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/340",
+              "name": "Thanos Vol. 4: Epiphany (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1843/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/171",
+              "name": "Thanos (2003) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1289",
+              "name": "Thanos Vol. 4: Epiphany (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1843/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/171",
+          "name": "Thanos (2003) #6"
+        }
+      },
+      {
+        "id": 2254,
+        "title": "Interior #2254",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2254",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2254/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+              "name": "Jim Starlin",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2254/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2254/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/548",
+              "name": "Thanos (2003 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/340",
+              "name": "Thanos Vol. 4: Epiphany (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2254/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/172",
+              "name": "Thanos (2003) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1289",
+              "name": "Thanos Vol. 4: Epiphany (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2254/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/172",
+          "name": "Thanos (2003) #5"
+        }
+      },
+      {
+        "id": 2437,
+        "title": "Interior #2437",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2437",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2437/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/400",
+              "name": "Keith Giffen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+              "name": "Ron Lim",
+              "role": "penciller"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2437/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2437/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/548",
+              "name": "Thanos (2003 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1307",
+              "name": "Thanos Vol. 5: Samaritan (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2437/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/398",
+              "name": "Thanos (2003) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1362",
+              "name": "Thanos Vol. 5: Samaritan (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2437/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/398",
+          "name": "Thanos (2003) #7"
+        }
+      },
+      {
+        "id": 2439,
+        "title": "Interior #2439",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2439",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2439/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/400",
+              "name": "Keith Giffen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+              "name": "Ron Lim",
+              "role": "penciller"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2439/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2439/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/548",
+              "name": "Thanos (2003 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1307",
+              "name": "Thanos Vol. 5: Samaritan (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2439/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/424",
+              "name": "Thanos (2003) #8"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1362",
+              "name": "Thanos Vol. 5: Samaritan (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2439/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/424",
+          "name": "Thanos (2003) #8"
+        }
+      },
+      {
+        "id": 2441,
+        "title": "Interior #2441",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2441",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2441/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/400",
+              "name": "Keith Giffen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+              "name": "Ron Lim",
+              "role": "penciller"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2441/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2441/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/548",
+              "name": "Thanos (2003 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1307",
+              "name": "Thanos Vol. 5: Samaritan (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2441/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/460",
+              "name": "Thanos (2003) #9"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1362",
+              "name": "Thanos Vol. 5: Samaritan (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2441/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/460",
+          "name": "Thanos (2003) #9"
+        }
+      },
+      {
+        "id": 2443,
+        "title": "Interior #2443",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2443",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2443/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/400",
+              "name": "Keith Giffen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+              "name": "Ron Lim",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6758",
+              "name": "Christie Scheele",
+              "role": "colorist"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2443/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2443/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/548",
+              "name": "Thanos (2003 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1307",
+              "name": "Thanos Vol. 5: Samaritan (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2443/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/598",
+              "name": "Thanos (2003) #12"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1362",
+              "name": "Thanos Vol. 5: Samaritan (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2443/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/598",
+          "name": "Thanos (2003) #12"
+        }
+      },
+      {
+        "id": 2445,
+        "title": "Interior #2445",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2445",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2445/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/400",
+              "name": "Keith Giffen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+              "name": "Ron Lim",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6758",
+              "name": "Christie Scheele",
+              "role": "colorist"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2445/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2445/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/548",
+              "name": "Thanos (2003 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1307",
+              "name": "Thanos Vol. 5: Samaritan (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2445/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/625",
+              "name": "Thanos (2003) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1362",
+              "name": "Thanos Vol. 5: Samaritan (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2445/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/625",
+          "name": "Thanos (2003) #10"
+        }
+      },
+      {
+        "id": 2447,
+        "title": "Interior #2447",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2447",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2447/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/400",
+              "name": "Keith Giffen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+              "name": "Ron Lim",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6758",
+              "name": "Christie Scheele",
+              "role": "colorist"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2447/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2447/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/548",
+              "name": "Thanos (2003 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1307",
+              "name": "Thanos Vol. 5: Samaritan (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2447/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/684",
+              "name": "Thanos (2003) #11"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1362",
+              "name": "Thanos Vol. 5: Samaritan (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2447/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/684",
+          "name": "Thanos (2003) #11"
+        }
+      },
+      {
+        "id": 4765,
+        "title": "2 of 2 - Cosmic Starfox",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4765",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/4765/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11521",
+              "name": "Greg Horn",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/4765/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583",
+              "name": "She-Hulk (Jennifer Walters)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/4765/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/886",
+              "name": "She-Hulk (2005 - 2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1896",
+              "name": "She-Hulk Vol. 4: Laws of Attraction (2007)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/4765/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5294",
+              "name": "She-Hulk (2005) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5959",
+              "name": "She-Hulk Vol. 4: Laws of Attraction (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/4765/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5294",
+          "name": "She-Hulk (2005) #13"
+        }
+      },
+      {
+        "id": 13095,
+        "title": "The Enemy Within!",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13095",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13095/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5823",
+              "name": "Danny Bulanadi",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom DeFalco",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1936",
+              "name": "Gina Going",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1933",
+              "name": "Jack Morelli",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/261",
+              "name": "Paul Ryan",
+              "role": "penciller"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13095/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+              "name": "Human Torch"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+              "name": "Invisible Woman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009519",
+              "name": "Puppet Master"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13095/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
+              "name": "Fantastic Four (1961 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13095/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13190",
+              "name": "Fantastic Four (1961) #366"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13095/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/29",
+              "name": "Infinity War"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/13190",
+          "name": "Fantastic Four (1961) #366"
+        }
+      },
+      {
+        "id": 13107,
+        "title": "Day of the Dark Side!",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13107",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13107/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5823",
+              "name": "Danny Bulanadi",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom DeFalco",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/261",
+              "name": "Paul Ryan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1936",
+              "name": "Gina Going",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1933",
+              "name": "Jack Morelli",
+              "role": "letterer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 15,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13107/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+              "name": "Human Torch"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+              "name": "Invisible Woman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009469",
+              "name": "Namorita"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009560",
+              "name": "Sasquatch (Walter Langkowski)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583",
+              "name": "She-Hulk (Jennifer Walters)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+              "name": "Thor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+              "name": "Wasp"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 15
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13107/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
+              "name": "Fantastic Four (1961 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13107/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13192",
+              "name": "Fantastic Four (1961) #368"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13107/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/29",
+              "name": "Infinity War"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/13192",
+          "name": "Fantastic Four (1961) #368"
+        }
+      },
+      {
+        "id": 13113,
+        "title": "With Malice Toward All!",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13113",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13113/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5823",
+              "name": "Danny Bulanadi",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom DeFalco",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/261",
+              "name": "Paul Ryan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1936",
+              "name": "Gina Going",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1933",
+              "name": "Jack Morelli",
+              "role": "letterer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 16,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13113/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010370",
+              "name": "Alpha Flight"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+              "name": "Doctor Strange"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009312",
+              "name": "Galactus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+              "name": "Human Torch"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+              "name": "Invisible Woman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009512",
+              "name": "Psylocke"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009519",
+              "name": "Puppet Master"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009523",
+              "name": "Quasar (Phyla-Vell)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+              "name": "Silver Surfer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009683",
+              "name": "Uatu The Watcher"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 16
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13113/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
+              "name": "Fantastic Four (1961 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13113/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13193",
+              "name": "Fantastic Four (1961) #369"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13113/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/29",
+              "name": "Infinity War"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/13193",
+          "name": "Fantastic Four (1961) #369"
+        }
+      },
+      {
+        "id": 13121,
+        "title": "Forever Evil",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13121",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13121/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5823",
+              "name": "Danny Bulanadi",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom DeFalco",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/261",
+              "name": "Paul Ryan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1936",
+              "name": "Gina Going",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1933",
+              "name": "Jack Morelli",
+              "role": "letterer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13121/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010354",
+              "name": "Adam Warlock"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009312",
+              "name": "Galactus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+              "name": "Human Torch"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+              "name": "Invisible Woman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+              "name": "Thor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 10
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13121/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
+              "name": "Fantastic Four (1961 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13121/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13195",
+              "name": "Fantastic Four (1961) #370"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/13121/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/29",
+              "name": "Infinity War"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/13195",
+          "name": "Fantastic Four (1961) #370"
+        }
+      },
+      {
+        "id": 17448,
+        "title": "Cover #17448",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17448",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/17448/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+              "name": "John Costanza",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1178",
+              "name": "Archie Goodwin",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+              "name": "Jim Starlin",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/17448/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/17448/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1988",
+              "name": "Avengers Annual (1967 - 1994)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/17448/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6943",
+              "name": "Avengers Annual (1967) #7"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/17448/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6943",
+          "name": "Avengers Annual (1967) #7"
+        }
+      },
+      {
+        "id": 18267,
+        "title": "When Titans Collide!",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/18267",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/18267/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1754",
+              "name": "Gaspar Saladino",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+              "name": "Jim Starlin",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+              "name": "Roy Thomas",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/18267/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009224",
+              "name": "Captain Marvel (Mar-Vell)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/18267/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2000",
+              "name": "Captain Marvel (1968 - 1979)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/4578",
+              "name": "Marvel Masterworks: Captain Marvel Vol. 3 (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/4577",
+              "name": "Marvel Masterworks: Captain Marvel Vol. 3 (2008)"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/18267/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8017",
+              "name": "Captain Marvel (1968) #28"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21072",
+              "name": "Marvel Masterworks: Captain Marvel Vol. 3 (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21073",
+              "name": "Marvel Masterworks: Captain Marvel Vol. 3 (Hardcover)"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/18267/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/8017",
+          "name": "Captain Marvel (1968) #28"
+        }
+      },
+      {
+        "id": 18270,
+        "title": "Metamorphosis!",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/18270",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/18270/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/791",
+              "name": "Tom Orzechowski",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+              "name": "Jim Starlin",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+              "name": "Roy Thomas",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/18270/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009224",
+              "name": "Captain Marvel (Mar-Vell)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/18270/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2000",
+              "name": "Captain Marvel (1968 - 1979)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/4578",
+              "name": "Marvel Masterworks: Captain Marvel Vol. 3 (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/4577",
+              "name": "Marvel Masterworks: Captain Marvel Vol. 3 (2008)"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/18270/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8018",
+              "name": "Captain Marvel (1968) #29"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21072",
+              "name": "Marvel Masterworks: Captain Marvel Vol. 3 (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21073",
+              "name": "Marvel Masterworks: Captain Marvel Vol. 3 (Hardcover)"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/18270/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/8018",
+          "name": "Captain Marvel (1968) #29"
+        }
+      }
+    ]
+  }
+}

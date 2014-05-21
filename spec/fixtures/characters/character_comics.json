@@ -1,0 +1,4975 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2014 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2014 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2014 MARVEL</a>",
+  "etag": "84ce4498c567fc16ed64438a59f341195af2584f",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 78,
+    "count": 20,
+    "results": [
+      {
+        "id": 50530,
+        "digitalId": 0,
+        "title": "Thanos Annual (2014) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "â€¢ Jim Starlin returns to Thanos, and heâ€™s brought INFINITY GAUNTLET artist Ron Lim with him!\nâ€¢ Thanos must face Mephisto, his future self, the Avengers and more!\nâ€¢ Learn how a devastating defeat in Thanosâ€™ past set events into motion that will redefine the Marvel Universe in the near future!\nâ€¢ A prequel to the upcoming THANOS: THE INFINITY REVELATION original graphic novel!  \n",
+        "modified": "2014-05-19T13:13:46-0400",
+        "isbn": "",
+        "upc": "75960608069400111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "• Jim Starlin returns to Thanos, and he’s brought INFINITY GAUNTLET artist Ron Lim with him!\n• Thanos must face Mephisto, his future self, the Avengers and more!\n• Learn how a devastating defeat in Thanos’ past set events into motion that will redefine the Marvel Universe in the near future!\n• A prequel to the upcoming THANOS: THE INFINITY REVELATION original graphic novel!  \n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50530",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/50530/thanos_annual_2014_1?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18886",
+          "name": "Thanos Annual (2014 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-05-28T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-05-05T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/537a36d94dda0",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/537a36d94dda0",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/53626f781e8d7",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/53626f21f3b85",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/53626e8dd15e8",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/53626cd3a673c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/50530/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/241",
+              "name": "Dale Keown",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+              "name": "Ron Lim",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+              "name": "Jim Starlin",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/50530/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/50530/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/113064",
+              "name": "cover from Thanos Annual (2014) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/113065",
+              "name": "story from Thanos Annual (2014) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/50530/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 46882,
+        "digitalId": 29862,
+        "title": "Thanos Rising (2013) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "\r\n\r\n\r\n\r\n\r\n<ul><li>The Mad Titan flees his home in search of true love.</li><li>But how many lives will he have to take to find it?</li><li>The book so blood-soaked you&rsquo;ll be glad it&rsquo;s a mini-series.</li></ul>",
+        "modified": "2013-07-24T09:39:32-0400",
+        "isbn": "",
+        "upc": "75960607868400311",
+        "diamondCode": "APR130619",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n\r\n\r\n<ul><li>The Mad Titan flees his home in search of true love.</li><li>But how many lives will he have to take to find it?</li><li>The book so blood-soaked you&rsquo;ll be glad it&rsquo;s a mini-series.</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/46882",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46882/thanos_rising_2013_3?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Thanos-Rising-3/digital-comic/29862?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=29862&utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/29862?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/17661",
+          "name": "Thanos Rising (2013 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2013-06-05T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2013-05-22T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-12-02T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2013-06-05T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/515f04959e1db",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/515f04959e1db",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46882/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "name": "Jason Aaron",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+              "name": "Simone Bianchi",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46882/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46882/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/105386",
+              "name": "cover from Thanos (2013) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/105387",
+              "name": "story from Thanos (2013) #3",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46882/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 41354,
+        "digitalId": 25726,
+        "title": "AVENGERS ASSEMBLE (2012) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "The Avengers square off against the Zodiac for the good of the city. Will the team defeat their new-found enemies or will they crumble beneath their star-studded powers?  \n",
+        "modified": "2013-02-15T13:50:15-0500",
+        "isbn": "",
+        "upc": "5960607749-00311",
+        "diamondCode": "MAR120548",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "The Avengers square off against the Zodiac for the good of the city. Will the team defeat their new-found enemies or will they crumble beneath their star-studded powers?  \n"
+          },
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\t<ul><li> Avengers versus the Zodiac!  But who is behind the Zodiac?  </li><li> PLUS! The reappearance of a team of characters you've been clamoring for! </li></ul>\t "
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41354",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41354/avengers_assemble_2012_3?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-Assemble-3/digital-comic/25726?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=25726&utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/25726?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/15373",
+          "name": "AVENGERS ASSEMBLE (2012 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2012-05-09T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2012-04-25T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-03-25T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-05-09T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4fabd17ca6e23",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/03/50662dc306952",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4fabd17ca6e23",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4faadb1aae1fc",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41354/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+              "name": "Mark Bagley",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41354/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41354/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93578",
+              "name": "Avengers Assemble (2011) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93579",
+              "name": "Interior #93579",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41354/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 41161,
+        "digitalId": 24572,
+        "title": "Shame Itself (2011) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "GET READY FOR THE MOST EARTH SHATTERING, WORLD DESTROYING, INSURANCE-RATE HIKING, EVENT IN MARVEL HISTORY SINCE THE LAST ONE! Wyatt Cenac and Elliott Kalan of “The Daily Show” lead a cavalcade of comedy’s finest minds to answer the questions about the Marvel Universe you were ashamed to ask!  This Fall, the Marvel U will be rocked down to its spandex wearing core! Be ashamed. Be VERY ashamed!  #shameitself",
+        "modified": "2012-10-24T13:17:25-0400",
+        "isbn": "",
+        "upc": "5960607739-00111",
+        "diamondCode": "SEP110574",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "GET READY FOR THE MOST EARTH SHATTERING, WORLD DESTROYING, INSURANCE-RATE HIKING, EVENT IN MARVEL HISTORY SINCE THE LAST ONE! Wyatt Cenac and Elliott Kalan of “The Daily Show” lead a cavalcade of comedy’s finest minds to answer the questions about the Marvel Universe you were ashamed to ask!  This Fall, the Marvel U will be rocked down to its spandex wearing core! Be ashamed. Be VERY ashamed!  #shameitself"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41161",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41161/shame_itself_2011_1?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=24572&utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/15295",
+          "name": "Shame Itself (2011)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-11-02T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2011-10-19T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2012-11-16T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4ec53ab6db90c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4ec53ab6db90c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4e947b92ca37c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/4e9357a2260c9",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/04/4e8f69cecf27d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4e8e0e09b16fa",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4e8c7142cae4b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4e8c708acbbf9",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4e8b561250f98",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4e89e3c8dd41c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41161/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11647",
+              "name": "Tom Brennan",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+              "name": "Clayton Cowles",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/295",
+              "name": "Clayton Henry",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8027",
+              "name": "Andres Mossa",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11496",
+              "name": "Victor Varnado",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+              "name": "Skottie Young",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 18,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41161/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011138",
+              "name": "Beyonder"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+              "name": "Daredevil"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+              "name": "Deadpool"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+              "name": "Doctor Doom"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009276",
+              "name": "Doctor Octopus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009280",
+              "name": "Dormammu"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009312",
+              "name": "Galactus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009407",
+              "name": "Loki"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009449",
+              "name": "Mole Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009636",
+              "name": "Sunfire"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009697",
+              "name": "Vision"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 18
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41161/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93178",
+              "name": "Interior #93178",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/95603",
+              "name": "Shame Itself (2011) #1",
+              "type": "cover"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41161/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 36073,
+        "digitalId": 0,
+        "title": "Thor: Blood & Thunder (Trade Paperback)",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "When the God of Thunder goes berserk, the most powerful heroes in the universe may not be able to stop him! See Thor tear through the ranks of Beta Ray Bill, the Silver Surfer, Adam Warlock, Dr. Strange, Drax the Destroyer and Thanos! And when the mad Thor gets his hands on the Infinity Gem of Power, even Odin may be powerless to stop him! Collecting THOR (1966) #468-471, SILVER SURFER (1987) #86-88, WARLOCK CHRONICLES #6-8 and WARLOCK AND THE INFINITY WATCH #23- 25.",
+        "modified": "2011-06-24T13:14:36-0400",
+        "isbn": "978-0-7851-5094-7",
+        "upc": "5960615094-00111",
+        "diamondCode": "",
+        "ean": "9780785 150947 53499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 336,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "When the God of Thunder goes berserk, the most powerful heroes in the universe may not be able to stop him! See Thor tear through the ranks of Beta Ray Bill, the Silver Surfer, Adam Warlock, Dr. Strange, Drax the Destroyer and Thanos! And when the mad Thor gets his hands on the Infinity Gem of Power, even Odin may be powerless to stop him! Collecting THOR (1966) #468-471, SILVER SURFER (1987) #86-88, WARLOCK CHRONICLES #6-8 and WARLOCK AND THE INFINITY WATCH #23- 25."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36073",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/36073/thor_blood_thunder_trade_paperback?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/12850",
+          "name": "Thor: Blood & Thunder (2010 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-06-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2011-06-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 34.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4d7a9e201c87d",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4d7a9e201c87d",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 11,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36073/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1301",
+              "name": "Tom Grindberg",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/372",
+              "name": "Angel Medina",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/444",
+              "name": "Tom Raney",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3782",
+              "name": "Kris Renkewitz",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/928",
+              "name": "Andy Smith",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5851",
+              "name": "M. C. Wyman",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2674",
+              "name": "Bruce Zick",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+              "name": "Ron Lim",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2673",
+              "name": "Ron Marz",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+              "name": "Jim Starlin",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 11
+        },
+        "characters": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36073/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010354",
+              "name": "Adam Warlock"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009180",
+              "name": "Beta-Ray Bill"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+              "name": "Doctor Strange"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010735",
+              "name": "Drax"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009480",
+              "name": "Odin"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+              "name": "Silver Surfer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+              "name": "Thor"
+            }
+          ],
+          "returned": 8
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36073/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/79831",
+              "name": "Thor: Blood & Thunder TPB",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/79832",
+              "name": "Interior #79832",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36073/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 37579,
+        "digitalId": 0,
+        "title": "Deadpool Classic Vol. 5 (Trade Paperback)",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Deadpool, against the greatest threats in the Marvel Universe: Thanos! Wolverine! Bullseye! T-Ray! Dr. Bong!? Deadpool, in some of the quirkiest adventures ever seen: Sumos! Arabian princesses! Saber-toothed bunnies! Zombies! Introducing Widdle Wade, the tiny Deadpool assassin! All this and Deadpool...married?!? Plus: In BABY'S FIRST DEADPOOL BOOK, witness the most bizarre Deadpool stories ever told! Collecting DEADPOOL (1997) #26-33, BABY'S FIRST DEADPOOL BOOK and DEADPOOL TEAM-UP #1.",
+        "modified": "2011-05-31T10:59:13-0400",
+        "isbn": "978-0-7851-5519-5",
+        "upc": "5960615519-00111",
+        "diamondCode": "APR110736",
+        "ean": "9780785 155195 52999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 272,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Deadpool, against the greatest threats in the Marvel Universe: Thanos! Wolverine! Bullseye! T-Ray! Dr. Bong!? Deadpool, in some of the quirkiest adventures ever seen: Sumos! Arabian princesses! Saber-toothed bunnies! Zombies! Introducing Widdle Wade, the tiny Deadpool assassin! All this and Deadpool...married?!? Plus: In BABY'S FIRST DEADPOOL BOOK, witness the most bizarre Deadpool stories ever told! Collecting DEADPOOL (1997) #26-33, BABY'S FIRST DEADPOOL BOOK and DEADPOOL TEAM-UP #1."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37579",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/37579/deadpool_classic_vol_5_trade_paperback?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Deadpool-Classic-Vol-5-1/digital-comic/32112?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/13506",
+          "name": "Deadpool Classic Vol. 5 (2010 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-06-01T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2011-05-18T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 29.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4d78fb2e417e0",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4d78fb2e417e0",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37579/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8769",
+              "name": "Joe Cooper",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2503",
+              "name": "James Felder",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6060",
+              "name": "Scott Alan McDaniel",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2428",
+              "name": "Joe Kelly",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/826",
+              "name": "Pete Woods",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37579/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009212",
+              "name": "Bullseye"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+              "name": "Deadpool"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            }
+          ],
+          "returned": 4
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37579/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/83085",
+              "name": "Deadpool Classic Vol. 5 (2010) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/83086",
+              "name": "Deadpool Classic Vol. 5 (2010) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37579/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 32993,
+        "digitalId": 0,
+        "title": "Avengers & the Infinity Gauntlet (Graphic Novel)",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "The evil Thanos has acquired the Infinity Gems, granting him control over the entire universe. He’s destroyed half the population of all worlds. The only force standing in his way? The Avengers! But how can a ragtag group of heroes and villains (!) overpower the unstoppable? Check out the non-stop, pulse-pounding, white-knuckling action brought to you by Brian Clevinger (Atomic Robo) and Brian Churilla (Rex Mundi, The Anchor)! Collecting AVENGERS & THE INFINITY GAUNTLET #1-4, plus the first issue of the original INFINITY GAUNTLET series.",
+        "modified": "2012-04-03T11:36:42-0400",
+        "isbn": "978-0-7851-4843-2",
+        "upc": "5960614843-00111",
+        "diamondCode": "DEC100670",
+        "ean": "9780785 148432 51499",
+        "issn": "",
+        "format": "Graphic Novel",
+        "pageCount": 136,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The evil Thanos has acquired the Infinity Gems, granting him control over the entire universe. He’s destroyed half the population of all worlds. The only force standing in his way? The Avengers! But how can a ragtag group of heroes and villains (!) overpower the unstoppable? Check out the non-stop, pulse-pounding, white-knuckling action brought to you by Brian Clevinger (Atomic Robo) and Brian Churilla (Rex Mundi, The Anchor)! Collecting AVENGERS & THE INFINITY GAUNTLET #1-4, plus the first issue of the original INFINITY GAUNTLET series."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32993",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/32993/avengers_the_infinity_gauntlet_graphic_novel?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/10035",
+          "name": "Avengers & the Infinity Gauntlet (2011)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-02-16T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2011-02-01T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 14.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4d5417065bf97",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4d5417065bf97",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4c62c3526b240",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c62c34b9ca54",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4c62c3455ba72",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4c62c33f38ef6",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/4c62c3390a411",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/32993/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11216",
+              "name": "BRIAN ANTHONY CHURILLA",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11863",
+              "name": "BRIAN DEAN CLEVINGER",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/420",
+              "name": "Sandu Florea",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1119",
+              "name": "Michelle Madsen",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11215",
+              "name": "MICHELLE J. MADSEN- STEWART",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+              "name": "Humberto Ramos",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 11,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/32993/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+              "name": "Doctor Doom"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009359",
+              "name": "Hydra"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009552",
+              "name": "S.H.I.E.L.D."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 11
+        },
+        "stories": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/32993/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/73350",
+              "name": "Avengers & the Infinity Gauntlet (2010) #1",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/73353",
+              "name": "Avengers & the Infinity Gauntlet (2010) #2",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/73356",
+              "name": "Avengers & the Infinity Gauntlet (2010) #3",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/73358",
+              "name": "Interior #73358",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/74321",
+              "name": "Cover #74321",
+              "type": "cover"
+            }
+          ],
+          "returned": 5
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/32993/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 37979,
+        "digitalId": 18826,
+        "title": "The Thanos Imperative: Devastation (2010) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "THE THANOS IMPERATIVE is over, but who and what has survived? What happened to Thanos? What about Lord Mar-Vell and the Cancerverse? Who rules the Kree and the Shi’Ar? Is anyone left to guard the galaxy?\n",
+        "modified": "2013-07-29T12:18:27-0400",
+        "isbn": "",
+        "upc": "5960607551-00111",
+        "diamondCode": "NOV100590",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "THE THANOS IMPERATIVE is over…but who and what has\nsurvived? What happened to Thanos? What about Lord\nMar-Vell and the Cancerverse? Who rules the Kree and the Shi’Ar? Is anyone left to guard the galaxy? And who will hold the shattered civilizations of the Marvel Universe together in this bleak new age? Find out from the creative team that delivered the cosmic event that IGN.com hailed as “Unbelievably\nincredible & unimaginably entertaining.”\n"
+          },
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "THE THANOS IMPERATIVE is over, but who and what has survived? What happened to Thanos? What about Lord Mar-Vell and the Cancerverse? Who rules the Kree and the Shi’Ar? Is anyone left to guard the galaxy?\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37979",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/37979/the_thanos_imperative_devastation_2010_1?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/The-Thanos-Imperative-Devastation-1/digital-comic/18826?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=18826&utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/18826?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/13604",
+          "name": "The Thanos Imperative: Devastation (2010)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-01-05T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2010-12-22T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-04-08T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-02-07T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/51f6a004dc19c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/51f6a004dc19c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4cb777b1dae2f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37979/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+              "name": "Dan Abnett",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/485",
+              "name": "Andy Lanning",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8003",
+              "name": "Alex Garner",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/123",
+              "name": "Bill Rosemann",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9123",
+              "name": "Miguel Angel Sepulveda",
+              "role": "penciller"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37979/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009180",
+              "name": "Beta-Ray Bill"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011353",
+              "name": "Cosmo (dog)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010763",
+              "name": "Gamora"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009321",
+              "name": "Gladiator (Kallark)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009385",
+              "name": "Karnak"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009438",
+              "name": "Medusa"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010778",
+              "name": "Quasar (Wendell Vaughn)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010344",
+              "name": "Ronan the Accuser"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+              "name": "Silver Surfer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 10
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37979/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/83506",
+              "name": "Interior From The Thanos Imperative: Devestation (2010) #1",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/83507",
+              "name": "Cover From The Thanos Imperative: Devestation (2010) #1",
+              "type": "cover"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37979/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/294",
+              "name": "The Thanos Imperative"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 32970,
+        "digitalId": 14855,
+        "title": "The Thanos Imperative (2010) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Nova, The Silver Surfer, Quasar, Gladiator and more of the greatest cosmic champions of the Marvel Universal line up to stop creatures from beyond The Fault, but it could be more than even they can handle.\n",
+        "modified": "2013-07-29T12:16:07-0400",
+        "isbn": "",
+        "upc": "5960607271-00111",
+        "diamondCode": "APR100620",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Nova, The Silver Surfer, Quasar, Gladiator and more of the greatest cosmic champions of the Marvel Universal line up to stop creatures from beyond The Fault, but it could be more than even they can handle.\n"
+          },
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "THE NEXT HUGE MARVEL COSMIC EVENT IS HERE!\r\nThe dangerous and mysterious fissure known as The Fault has opened, and the dark forces of a rival universe where there is no death are pouring through to claim ours! Nova, The Silver Surfer, Quasar, Gladiator and more of the greatest cosmic champions of the Marvel Universal line up to stop them, but it could be more than even they can handle. Luckily, Star-Lord, Rocket Raccoon and some of the galaxy’s underdog, never-say-die heroes have a plan. It’s a crazy plan. It’s called...Thanos! Welcome to the end of everything, brought to you by acclaimed writers Dan Abnett and Andy Lanning and superstar artist Miguel Sepulveda (THUNDERBOLTS)! So grab your blaster and find out why critics like Ain’t It Cool News raves “(Dan Abnett and Andy Lanning) succeed in producing the most entertaining super hero comic books on the stands today.”\r\nRated T  …$3.99"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32970",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/32970/the_thanos_imperative_2010_1?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/The-Thanos-Imperative-1/digital-comic/14855?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=14855&utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/14855?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/9950",
+          "name": "The Thanos Imperative (2010)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36768",
+            "name": "The Thanos Imperative (2010) #1 (2ND PRINTING VARIANT)"
+          }
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2010-06-03T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2010-05-13T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2011-02-24T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-02-07T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/51f69eaebaa8f",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/51f69eaebaa8f",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/4bfe7c9669cb9",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4c7c6594bab3d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4c7c658e8437b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/4bffdf80d83ca",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4bffdf7dbd998",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/4bffdf7acfe30",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4bffdf746bfb4",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/32970/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+              "name": "Dan Abnett",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/485",
+              "name": "Andy Lanning",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5634",
+              "name": "Aleksi Briclot",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9123",
+              "name": "Miguel Angel Sepulveda",
+              "role": "penciller"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/32970/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009438",
+              "name": "Medusa"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010744",
+              "name": "Rocket Raccoon"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+              "name": "Silver Surfer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010733",
+              "name": "Star-Lord (Peter Quill)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/32970/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/74276",
+              "name": "Cover #74276",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/74277",
+              "name": "Interior #74277",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/32970/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/294",
+              "name": "The Thanos Imperative"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 32983,
+        "digitalId": 14769,
+        "title": "The Thanos Imperative: Ignition (2010) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Thanos is back! On one side you have the Marvel Universe’s #1 threat! On the other: a dark new force determined to obliterate everyone! In the middle are the outnumbered and battle-hardened heroes that stand between us and complete decimation!\n",
+        "modified": "2013-07-29T12:17:57-0400",
+        "isbn": "",
+        "upc": "5960607268-00111",
+        "diamondCode": "MAR100584",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Thanos is back! On one side you have the Marvel Universe’s #1 threat! On the other: a dark new force determined to obliterate everyone! In the middle are the outnumbered and battle-hardened heroes that stand between us and complete decimation!\n"
+          },
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Thanos is back! On one side you have the Marvel Universe’s #1 threat! On the other: a dark new force determined to obliterate everyone! In the middle are the outnumbered and battle-hardened heroes that stand between us and complete decimation! A war has ignited which will combine the galaxy’s most dedicated warriors with a collection of heroes that you never saw coming! It’s a battle that will span the cosmos, deliver major shocks, and will prove to you why IGN proclaims “Dan Abnett and Andy Lanning can seemingly do no wrong” and Aint It Cool News raves that Abnett and Lanning consistently deliver “terrific action, interesting character development, and some pretty good jokes all rolled into one amazing package.” \r\nOne-Shot/Rated T  …$3.99"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32983",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/32983/the_thanos_imperative_ignition_2010_1?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/The-Thanos-Imperative-Ignition-1/digital-comic/14769?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=14769&utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/14769?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/9803",
+          "name": "The Thanos Imperative: Ignition (2010)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2010-05-26T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2010-05-06T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2011-02-01T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-02-07T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51f6a0aba4608",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51f6a0aba4608",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bab8b89301a5",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4bb3a6ce487ff",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/32983/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+              "name": "Dan Abnett",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/485",
+              "name": "Andy Lanning",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5634",
+              "name": "Aleksi Briclot",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8138",
+              "name": "Brad Walker",
+              "role": "penciller"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/32983/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/32983/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/74302",
+              "name": "Cover #74302",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/74303",
+              "name": "Interior #74303",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/32983/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/294",
+              "name": "The Thanos Imperative"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 23033,
+        "digitalId": 0,
+        "title": "Infinity Crusade Vol. 1 (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "She's come to stop crime across the globe and bring peace to the universe. Captain America and Spider-Man are on her side; Thanos and Mephisto stand against her. So how can she be the bad guy? Jim Starlin's 1990s cosmic collection culminates when the Fantastic Four, the X-Men, the Avengers, the Infinity Watch, the New Warriors and most other super-hero teams of the time are split by a universal crisis...of faith! Also featuring the Mole Man, the Absorbing Man and other classic characters! Collecting INFINITY CRUSADE #1-3, WARLOCK CHRONICLES #1-3 and WARLOCK AND THE INFINITY WATCH #18-19.\r<br>All Ages …$29.99\r<br>",
+        "modified": "2013-07-29T12:38:06-0400",
+        "isbn": "978-0-7851-3127-4",
+        "upc": "5960613127-00111",
+        "diamondCode": "OCT082528",
+        "ean": "9780785 131274 52999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 248,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "She's come to stop crime across the globe and bring peace to the universe. Captain America and Spider-Man are on her side; Thanos and Mephisto stand against her. So how can she be the bad guy? Jim Starlin's 1990s cosmic collection culminates when the Fantastic Four, the X-Men, the Avengers, the Infinity Watch, the New Warriors and most other super-hero teams of the time are split by a universal crisis...of faith! Also featuring the Mole Man, the Absorbing Man and other classic characters! Collecting INFINITY CRUSADE #1-3, WARLOCK CHRONICLES #1-3 and WARLOCK AND THE INFINITY WATCH #18-19.\r<br>All Ages …$29.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23033",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/23033/infinity_crusade_vol_1_trade_paperback?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Infinity-Crusade-Vol-1-0/digital-comic/28315?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/6449",
+          "name": "Infinity Crusade Vol. 1 (2008 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23485",
+            "name": "Warlock Chronicles (1993) #3"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23484",
+            "name": "Warlock Chronicles (1993) #2"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18423",
+            "name": "Warlock and the Infinity Watch (1992) #19"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23309",
+            "name": "Infinity Crusade (1993) #3"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23308",
+            "name": "Infinity Crusade (1993) #2"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18422",
+            "name": "Warlock and the Infinity Watch (1992) #18"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23483",
+            "name": "Warlock Chronicles (1993) #1"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23307",
+            "name": "Infinity Crusade (1993) #1"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-12-03T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2008-11-06T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 29.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/51f69ab303646",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/51f69ab303646",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 12,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23033/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4201",
+              "name": "Bob Almond",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2082",
+              "name": "Keith Williams",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2047",
+              "name": "Craig Anderson",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1936",
+              "name": "Gina Going",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1929",
+              "name": "Ian Laughlin",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1301",
+              "name": "Tom Grindberg",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/372",
+              "name": "Angel Medina",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+              "name": "Ron Lim",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1933",
+              "name": "Jack Morelli",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/444",
+              "name": "Tom Raney",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+              "name": "Jim Starlin",
+              "role": "writer"
+            }
+          ],
+          "returned": 12
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23033/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010354",
+              "name": "Adam Warlock"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011061",
+              "name": "Eternity"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009440",
+              "name": "Mephisto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+              "name": "Mr. Fantastic"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23033/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/39249",
+              "name": "Power Play",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/39251",
+              "name": "True Believers",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51116",
+              "name": "Infinity Crusade 1-3, Warlock Chronicles 1-3, Warlock and the Infinity Watch 18-19 --- CLASSIC TPB",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51117",
+              "name": "Infinity Crusade 1-3, Warlock Chronicles 1-3, Warlock and the Infinity Watch 18-19 --- CLASSIC TPB",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52033",
+              "name": "Epiphany",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52035",
+              "name": "Enlightenment",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52037",
+              "name": "The Damned",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52057",
+              "name": "Things Past",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52059",
+              "name": "Rescue",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52061",
+              "name": "Dealing with the Devil!",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 10
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23033/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21072,
+        "digitalId": 0,
+        "title": "Marvel Masterworks: Captain Marvel Vol. 3 (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "He’s back and better than ever – the hero that wouldn’t die, Captain Marvel! After a few years in hiatus, mighty Marvel’s space-born super hero returned, and under the aegis of writer/artist Jim Starlin, his story would achieve a scale never before imagined!  Stripping the Kree Captain down to his very core and forcing him through a gauntlet of past opponents, Starlin then brought to the fore one of Marvel’s pre-eminent cosmic menaces for the very first time: the mad Titan, Thanos. With the stage set and the players from unearthly entity Eon to Drax the Destroyer and the mighty Avengers pulled into fray, the good Captain led the fight against Thanos and his Cosmic Cube in a confrontation that would redefine super-hero epics forever!  Featuring an introduction by Jim Starlin and an extensive selection of bonuses, this Marvel Masterworks volume is the definitive collection of the creative arc that defined Captain Marvel!  Collecting CAPTAIN MARVEL #22-33 and IRON MAN #55.\r<br>Rated A …$54.99 \r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-3015-4",
+        "upc": "5960613015-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "He’s back and better than ever – the hero that wouldn’t die, Captain Marvel! After a few years in hiatus, mighty Marvel’s space-born super hero returned, and under the aegis of writer/artist Jim Starlin, his story would achieve a scale never before imagined!  Stripping the Kree Captain down to his very core and forcing him through a gauntlet of past opponents, Starlin then brought to the fore one of Marvel’s pre-eminent cosmic menaces for the very first time: the mad Titan, Thanos. With the stage set and the players from unearthly entity Eon to Drax the Destroyer and the mighty Avengers pulled into fray, the good Captain led the fight against Thanos and his Cosmic Cube in a confrontation that would redefine super-hero epics forever!  Featuring an introduction by Jim Starlin and an extensive selection of bonuses, this Marvel Masterworks volume is the definitive collection of the creative arc that defined Captain Marvel!  Collecting CAPTAIN MARVEL #22-33 and IRON MAN #55.\r<br>Rated A …$54.99 \r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21072",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/21072/marvel_masterworks_captain_marvel_vol_3_hardcover?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/4577",
+          "name": "Marvel Masterworks: Captain Marvel Vol. 3 (2008)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8022",
+            "name": "Captain Marvel (1968) #33"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8021",
+            "name": "Captain Marvel (1968) #32"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8020",
+            "name": "Captain Marvel (1968) #31"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8019",
+            "name": "Captain Marvel (1968) #30"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8018",
+            "name": "Captain Marvel (1968) #29"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8017",
+            "name": "Captain Marvel (1968) #28"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8016",
+            "name": "Captain Marvel (1968) #27"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8015",
+            "name": "Captain Marvel (1968) #26"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8014",
+            "name": "Captain Marvel (1968) #25"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/9610",
+            "name": "Iron Man (1968) #55"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8013",
+            "name": "Captain Marvel (1968) #24"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8012",
+            "name": "Captain Marvel (1968) #23"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8011",
+            "name": "Captain Marvel (1968) #22"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-04-16T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bb85bd2ef173",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bb85bd2ef173",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/4bb5f2ab0b17d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/4bb5f2a5a4204",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/90/4bb5f2a047cc1",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4bb5f29ad94fe",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4bb5f29553756",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/4bb5f28f9bed7",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4bb5f196160a0",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bb5efec30339",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4bb5efe6cd58e",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb5efe187461",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4bb5efdc3fe66",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bb5efd6a6263",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 30,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21072/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1359",
+              "name": "Wayne Boring",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/46",
+              "name": "Dave Cockrum",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1295",
+              "name": "Mike Esposito",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+              "name": "Frank Giacoia",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1326",
+              "name": "Dan Green",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1722",
+              "name": "Ernest Hart",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/570",
+              "name": "Klaus Janson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1837",
+              "name": "Pablo Marcos",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2136",
+              "name": "Frank McLaughlin",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+              "name": "Gerry Conway",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/104",
+              "name": "Steve Englehart",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1245",
+              "name": "Mike Friedrich",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+              "name": "John Costanza",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1541",
+              "name": "John Duffy",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5412",
+              "name": "David Hunt",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2135",
+              "name": "Charlotte Jetter",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/791",
+              "name": "Tom Orzechowski",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+              "name": "Gil Kane",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/586",
+              "name": "Michael Kelleher",
+              "role": "colorist"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21072/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009224",
+              "name": "Captain Marvel (Mar-Vell)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 28,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21072/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18255",
+              "name": "Cover #18255",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18256",
+              "name": "To Live Again!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18257",
+              "name": "Cover #18257",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18258",
+              "name": "Death At The End Of The World!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18259",
+              "name": "Cover #18259",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18260",
+              "name": "Death In High Places!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18261",
+              "name": "A Taste Of Madness!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18262",
+              "name": "A Taste Of Madness!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18263",
+              "name": "Betrayal!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18264",
+              "name": "Betrayal!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18265",
+              "name": "War on the World Called Titan!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18266",
+              "name": "Trapped On Titan!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18267",
+              "name": "When Titans Collide!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18268",
+              "name": "When Titans Collide!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18269",
+              "name": "Metamorphosis!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18270",
+              "name": "Metamorphosis!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18271",
+              "name": "Cover #18271",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18272",
+              "name": "...To Be Free From Control!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18273",
+              "name": "Cover #18273",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18274",
+              "name": "The Beginning Of The End!",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21072/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21073,
+        "digitalId": 0,
+        "title": "Marvel Masterworks: Captain Marvel Vol. 3 (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "He’s back and better than ever – the hero that wouldn’t die, Captain Marvel! After a few years in hiatus, mighty Marvel’s space-born super hero returned, and under the aegis of writer/artist Jim Starlin, his story would achieve a scale never before imagined!  Stripping the Kree Captain down to his very core and forcing him through a gauntlet of past opponents, Starlin then brought to the fore one of Marvel’s pre-eminent cosmic menaces for the very first time: the mad Titan, Thanos. With the stage set and the players from unearthly entity Eon to Drax the Destroyer and the mighty Avengers pulled into fray, the good Captain led the fight against Thanos and his Cosmic Cube in a confrontation that would redefine super-hero epics forever!  Featuring an introduction by Jim Starlin and an extensive selection of bonuses, this Marvel Masterworks volume is the definitive collection of the creative arc that defined Captain Marvel!  Collecting CAPTAIN MARVEL #22-33 and IRON MAN #55.\r<br>Rated A …$54.99 \r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-3015-4",
+        "upc": "5960613016-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "He’s back and better than ever – the hero that wouldn’t die, Captain Marvel! After a few years in hiatus, mighty Marvel’s space-born super hero returned, and under the aegis of writer/artist Jim Starlin, his story would achieve a scale never before imagined!  Stripping the Kree Captain down to his very core and forcing him through a gauntlet of past opponents, Starlin then brought to the fore one of Marvel’s pre-eminent cosmic menaces for the very first time: the mad Titan, Thanos. With the stage set and the players from unearthly entity Eon to Drax the Destroyer and the mighty Avengers pulled into fray, the good Captain led the fight against Thanos and his Cosmic Cube in a confrontation that would redefine super-hero epics forever!  Featuring an introduction by Jim Starlin and an extensive selection of bonuses, this Marvel Masterworks volume is the definitive collection of the creative arc that defined Captain Marvel!  Collecting CAPTAIN MARVEL #22-33 and IRON MAN #55.\r<br>Rated A …$54.99 \r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21073",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/21073/marvel_masterworks_captain_marvel_vol_3_hardcover?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/4578",
+          "name": "Marvel Masterworks: Captain Marvel Vol. 3 (2008)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8022",
+            "name": "Captain Marvel (1968) #33"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8021",
+            "name": "Captain Marvel (1968) #32"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8020",
+            "name": "Captain Marvel (1968) #31"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8019",
+            "name": "Captain Marvel (1968) #30"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8018",
+            "name": "Captain Marvel (1968) #29"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8017",
+            "name": "Captain Marvel (1968) #28"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8016",
+            "name": "Captain Marvel (1968) #27"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8015",
+            "name": "Captain Marvel (1968) #26"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8014",
+            "name": "Captain Marvel (1968) #25"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/9610",
+            "name": "Iron Man (1968) #55"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8013",
+            "name": "Captain Marvel (1968) #24"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8012",
+            "name": "Captain Marvel (1968) #23"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8011",
+            "name": "Captain Marvel (1968) #22"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-04-16T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bb85bce1f499",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bb85bce1f499",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/4bb5f2ab0b17d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/4bb5f2a5a4204",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/90/4bb5f2a047cc1",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4bb5f29ad94fe",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4bb5f29553756",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/4bb5f28f9bed7",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4bb5f196160a0",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bb5efec30339",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4bb5efe6cd58e",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb5efe187461",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4bb5efdc3fe66",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bb5efd6a6263",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 29,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21073/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1359",
+              "name": "Wayne Boring",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/46",
+              "name": "Dave Cockrum",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1295",
+              "name": "Mike Esposito",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+              "name": "Frank Giacoia",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1326",
+              "name": "Dan Green",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1722",
+              "name": "Ernest Hart",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/570",
+              "name": "Klaus Janson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1837",
+              "name": "Pablo Marcos",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2136",
+              "name": "Frank McLaughlin",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+              "name": "Gerry Conway",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/104",
+              "name": "Steve Englehart",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1245",
+              "name": "Mike Friedrich",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1791",
+              "name": "Script Pages",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+              "name": "John Costanza",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1541",
+              "name": "John Duffy",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5412",
+              "name": "David Hunt",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2135",
+              "name": "Charlotte Jetter",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/791",
+              "name": "Tom Orzechowski",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+              "name": "Gil Kane",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21073/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009224",
+              "name": "Captain Marvel (Mar-Vell)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 28,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21073/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18255",
+              "name": "Cover #18255",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18256",
+              "name": "To Live Again!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18257",
+              "name": "Cover #18257",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18258",
+              "name": "Death At The End Of The World!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18259",
+              "name": "Cover #18259",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18260",
+              "name": "Death In High Places!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18261",
+              "name": "A Taste Of Madness!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18262",
+              "name": "A Taste Of Madness!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18263",
+              "name": "Betrayal!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18264",
+              "name": "Betrayal!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18265",
+              "name": "War on the World Called Titan!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18266",
+              "name": "Trapped On Titan!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18267",
+              "name": "When Titans Collide!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18268",
+              "name": "When Titans Collide!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18269",
+              "name": "Metamorphosis!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18270",
+              "name": "Metamorphosis!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18271",
+              "name": "Cover #18271",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18272",
+              "name": "...To Be Free From Control!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18273",
+              "name": "Cover #18273",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18274",
+              "name": "The Beginning Of The End!",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21073/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 16209,
+        "digitalId": 0,
+        "title": "Paradise X Vol. 2 (New Printing) (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The epic, visionary EARTH X saga concludes.  Will the Heroes of Earth be able to solve the problems of the Paradise they helped create? Will their quest for a new Death entity succeed so the pain and suffering of the world's population ceases? Collecting PARADISE X #6-12,  RAGNAROK, DEVILS, A, X.\r<br>\r<br>352 PGS./Rated T+ …$29.99 \r<br>\r<br>ISBN: 0-7851-2416-0 \r<br>\r<br>\r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "0-7851-2416-0",
+        "upc": "5960612416-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The epic, visionary EARTH X saga concludes.  Will the Heroes of Earth be able to solve the problems of the Paradise they helped create? Will their quest for a new Death entity succeed so the pain and suffering of the world's population ceases? Collecting PARADISE X #6-12,  RAGNAROK, DEVILS, A, X.\r<br>\r<br>352 PGS./Rated T+ …$29.99 \r<br>\r<br>ISBN: 0-7851-2416-0 \r<br>\r<br>\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16209",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/16209/paradise_x_vol_2_new_printing_trade_paperback?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2702",
+          "name": "Paradise X Vol. 2 (New Printing) (2007)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10496",
+            "name": "Paradise X (2002) #12"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10495",
+            "name": "Paradise X (2002) #11"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10494",
+            "name": "Paradise X (2002) #10"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10504",
+            "name": "Paradise X (2002) #9"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10503",
+            "name": "Paradise X (2002) #8"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10502",
+            "name": "Paradise X (2002) #7"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10501",
+            "name": "Paradise X (2002) #6"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18990",
+            "name": "Paradise X: Devils (2002) #1"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18995",
+            "name": "Paradise X: Ragnarok (2003) #2"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18989",
+            "name": "Paradise X: A (2003) #1"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18994",
+            "name": "Paradise X: Ragnarok (2003) #1"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2007-08-22T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4c3606fb8c49a",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4c3606fb8c49a",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c3606186a7f1",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4c36060ccbc56",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c360600976ce",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c3605eb06b82",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4c36038fe6ddb",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4c3601f94b9a8",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4c24f3b483fa7",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/4bb68da8d9bcb",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 13,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16209/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/128",
+              "name": "Doug Braithwaite",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/504",
+              "name": "Steve Sadowski",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1362",
+              "name": "Thomas Yeates",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7843",
+              "name": "Todd Klein",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/267",
+              "name": "Jim Krueger",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4174",
+              "name": "Mike Marts",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/684",
+              "name": "Mike Raicht",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4645",
+              "name": "Nova Ren Suma",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8331",
+              "name": "Dave McCaig",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/652",
+              "name": "Peter Pantazis",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2088",
+              "name": "Andrew Pepoy",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/523",
+              "name": "Bill Reinhold",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 13
+        },
+        "characters": {
+          "available": 52,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16209/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009154",
+              "name": "Annihilus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+              "name": "Banshee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009596",
+              "name": "Banshee (Theresa Rourke)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009184",
+              "name": "Black Bolt"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009186",
+              "name": "Black Knight (Sir Percy of Scandia)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009195",
+              "name": "Blastaar"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009212",
+              "name": "Bullseye"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009223",
+              "name": "Captain Britain"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009224",
+              "name": "Captain Marvel (Mar-Vell)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+              "name": "Daredevil"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010890",
+              "name": "Deathlok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+              "name": "Doctor Doom"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+              "name": "Doctor Strange"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009283",
+              "name": "Dragon Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009288",
+              "name": "Elektra"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 21,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16209/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26019",
+              "name": "Cover #26019",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26020",
+              "name": "Paradise X Issue 10",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26021",
+              "name": "Cover #26021",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26022",
+              "name": "Paradise X Issue 11",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26023",
+              "name": "Cover #26023",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26024",
+              "name": "Paradise X Issue 12",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26033",
+              "name": "Cover #26033",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26034",
+              "name": "Paradise X Issue 6",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26035",
+              "name": "Cover #26035",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26036",
+              "name": "Paradise X Issue 7",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26037",
+              "name": "Cover #26037",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26038",
+              "name": "Paradise X Issue 8",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26039",
+              "name": "Cover #26039",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26040",
+              "name": "Paradise X Issue 9",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33101",
+              "name": "Paradise X 6-12, Ragnarok, Devils. A, X",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33102",
+              "name": "Paradise X 6-12, Ragnarok, Devils. A, X",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/40531",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/40532",
+              "name": "Cover #40532",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/40533",
+              "name": "Interior #40533",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/40537",
+              "name": "",
+              "type": ""
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16209/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 15902,
+        "digitalId": 0,
+        "title": "Paradise X Vol. 1 (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "In EARTH X, Captain America, the Fantastic Four, Thor, the Hulk and the X-Men discovered that their purpose - and the meaning of all super heroes and mutated people in the universe – was nothing more than to protect their host planet, in this case Earth, from outside invasion. They learned super heroes are merely biological antibodies to protect a growing embryo within the Earth. An embryo for the Celestial race: This is the way these Gods fought back – only to cause a terrible ecological imbalance, a rift at its core that in time would wipe out all life on the planet. In UNIVERSE X, Captain Marvel was reborn on Earth years after his death. But he also still claimed to walk in the realm of the unliving, where Earth's fallen champions still exist. Mar-Vell led a team of heroes in a quest for the greatest weapons of mass destruction on Earth, suggesting this would limit the destruction caused by the growing power struggle on the planet. But this was not the only reason. For his crusade on Earth only supported and armed a battle he fought in the realm of the fallen, a battle against Death herself. Those living champions who died in his collection of artifacts were added to the battle raging in this other realm. Mar-Vell led a charge against Death and killed her. But now that Death is dead, no one will ever die again. They may writhe in pain in hospitals because their bodies have been broken beyond repair, but they will not die. They will call out for an end to their suffering. They will cry out for peace but there will be no answer. Paradise will be denied them. Yes. Death is truly dead. Long live the living. Collecting PARADISE X #0-5, PARADISE X: XEN and HERALDS #1-3.\r<br>304 PGS./Rated T+ …$29.99\r<br>ISBN: 0-7851-2415-2\r<br>",
+        "modified": "1969-12-31T19:00:00-0500",
+        "isbn": "0-7851-2415-2",
+        "upc": "5960612415-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "In EARTH X, Captain America, the Fantastic Four, Thor, the Hulk and the X-Men discovered that their purpose - and the meaning of all super heroes and mutated people in the universe – was nothing more than to protect their host planet, in this case Earth, from outside invasion. They learned super heroes are merely biological antibodies to protect a growing embryo within the Earth. An embryo for the Celestial race: This is the way these Gods fought back – only to cause a terrible ecological imbalance, a rift at its core that in time would wipe out all life on the planet. In UNIVERSE X, Captain Marvel was reborn on Earth years after his death. But he also still claimed to walk in the realm of the unliving, where Earth's fallen champions still exist. Mar-Vell led a team of heroes in a quest for the greatest weapons of mass destruction on Earth, suggesting this would limit the destruction caused by the growing power struggle on the planet. But this was not the only reason. For his crusade on Earth only supported and armed a battle he fought in the realm of the fallen, a battle against Death herself. Those living champions who died in his collection of artifacts were added to the battle raging in this other realm. Mar-Vell led a charge against Death and killed her. But now that Death is dead, no one will ever die again. They may writhe in pain in hospitals because their bodies have been broken beyond repair, but they will not die. They will call out for an end to their suffering. They will cry out for peace but there will be no answer. Paradise will be denied them. Yes. Death is truly dead. Long live the living. Collecting PARADISE X #0-5, PARADISE X: XEN and HERALDS #1-3.\r<br>304 PGS./Rated T+ …$29.99\r<br>ISBN: 0-7851-2415-2\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15902",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/15902/paradise_x_vol_1_trade_paperback?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2431",
+          "name": "Paradise X Vol. 1 (2007)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10505",
+            "name": "Paradise X (2002)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10500",
+            "name": "Paradise X (2002) #5"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10499",
+            "name": "Paradise X (2002) #4"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10498",
+            "name": "Paradise X (2002) #3"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10497",
+            "name": "Paradise X (2002) #2"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10493",
+            "name": "Paradise X (2002) #1"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10492",
+            "name": "Paradise X (2002)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18991",
+            "name": "Paradise X: Heralds (2002) #1"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18996",
+            "name": "Paradise X: Xen (2002) #1"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18992",
+            "name": "Paradise X: Heralds (2002) #2"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18993",
+            "name": "Paradise X: Heralds (2002) #3"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2007-07-18T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bc49276abc93",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/4c36078018e9b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4c360719dd585",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4c360714db59f",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bc49276abc93",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bc37ca7efe18",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bc36c3c99a66",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bb68db1487dd",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/15902/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/128",
+              "name": "Doug Braithwaite",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7843",
+              "name": "Todd Klein",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/267",
+              "name": "Jim Krueger",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4174",
+              "name": "Mike Marts",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/652",
+              "name": "Peter Pantazis",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/523",
+              "name": "Bill Reinhold",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 66,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/15902/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009148",
+              "name": "Absorbing Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010354",
+              "name": "Adam Warlock"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009154",
+              "name": "Annihilus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+              "name": "Banshee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009184",
+              "name": "Black Bolt"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009186",
+              "name": "Black Knight (Sir Percy of Scandia)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+              "name": "Black Widow"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009195",
+              "name": "Blastaar"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009204",
+              "name": "Bloodstorm"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009223",
+              "name": "Captain Britain"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009224",
+              "name": "Captain Marvel (Mar-Vell)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+              "name": "Daredevil"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009267",
+              "name": "Dazzler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+              "name": "Doctor Doom"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 19,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/15902/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26015",
+              "name": "Cover #26015",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26016",
+              "name": "Paradise X Issue 0",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26017",
+              "name": "Cover #26017",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26018",
+              "name": "Paradise X Issue 1",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26025",
+              "name": "Cover #26025",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26026",
+              "name": "Paradise X Issue 2",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26027",
+              "name": "Cover #26027",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26028",
+              "name": "Paradise X Issue 3",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26029",
+              "name": "Cover #26029",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26030",
+              "name": "Paradise X Chapter 4",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26031",
+              "name": "Cover #26031",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26032",
+              "name": "Paradise X Issue 5",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26041",
+              "name": "Cover #26041",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26042",
+              "name": "Paradise X Issue X",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/40534",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/40535",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/40536",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/40539",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67494",
+              "name": "PARADISE X VOL. 1 TPB 0 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 19
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/15902/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 5959,
+        "digitalId": 0,
+        "title": "She-Hulk Vol. 4: Laws of Attraction (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "She-Hulk’s firm is dealing with their first superhuman sexual assault case. Their client? Eros of Titan, the space-faring Avenger called Starfox! And when emotions get over-heated at the office, expect a love triangle or two to finally come to a head! What will this mean for Pug, She-Hulk and John Jameson? Who (or what) is Awesome Andy falling for?! And what will be the final fate of Starfox? Will he face ruin or redemption? One way or another, the case against the fallen Avenger ends on the moon of Titan! Plus: Civil War threatens the rights of every American super hero. So whose side will Marvel’s top superhuman lawyer fight for? And how can she possibly choose, when she feels one way as She-Hulk, and another as Jen Walters? Collecting SHE-HULK #6-13.\r<br>192 PGS./Rated T+ …$19.99\r<br>",
+        "modified": "2013-10-18T16:56:52-0400",
+        "isbn": "0-7851-2218-4",
+        "upc": "5960612218-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "She-Hulk’s firm is dealing with their first superhuman sexual assault case. Their client? Eros of Titan, the space-faring Avenger called Starfox! And when emotions get over-heated at the office, expect a love triangle or two to finally come to a head! What will this mean for Pug, She-Hulk and John Jameson? Who (or what) is Awesome Andy falling for?! And what will be the final fate of Starfox? Will he face ruin or redemption? One way or another, the case against the fallen Avenger ends on the moon of Titan! Plus: Civil War threatens the rights of every American super hero. So whose side will Marvel’s top superhuman lawyer fight for? And how can she possibly choose, when she feels one way as She-Hulk, and another as Jen Walters? Collecting SHE-HULK #6-13.\r<br>192 PGS./Rated T+ …$19.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5959",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/5959/she-hulk_vol_4_laws_of_attraction_trade_paperback?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/1896",
+          "name": "She-Hulk Vol. 4: Laws of Attraction (2007)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5294",
+            "name": "She-Hulk (2005) #13"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5084",
+            "name": "She-Hulk (2005) #12"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4796",
+            "name": "She-Hulk (2005) #11"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4480",
+            "name": "She-Hulk (2005) #10"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4324",
+            "name": "She-Hulk (2005) #9"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4225",
+            "name": "She-Hulk (2005) #8"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4117",
+            "name": "She-Hulk (2005) #7"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/3951",
+            "name": "She-Hulk (2005) #6"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2007-02-21T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc5f9f25b61a",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/52619e005f08e",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc5f9f25b61a",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/4bc5eed44f5e2",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4bc5d797514ec",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bc5cf80b5056",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/4bc5c997a639e",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bc5bfc150fc6",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bc5aa1f9641d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bb6f73b87e5a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 12,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/5959/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/941",
+              "name": "Rick Burchett",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/940",
+              "name": "Roy Allan Martinez",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/431",
+              "name": "Paul Smith",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/585",
+              "name": "Will Conrad",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/939",
+              "name": "Joe Rubinstein",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/240",
+              "name": "Marcelo Sosa",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4266",
+              "name": "Ian Hannin",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8071",
+              "name": "Dave Kemp",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11521",
+              "name": "Greg Horn",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/243",
+              "name": "Mike Mayhew",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+              "name": "Dan Slott",
+              "role": "writer"
+            }
+          ],
+          "returned": 12
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/5959/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011059",
+              "name": "Living Tribunal"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583",
+              "name": "She-Hulk (Jennifer Walters)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 18,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/5959/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4751",
+              "name": "1 of 2 - Starfox",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4752",
+              "name": "1 of 2 - Starfox",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4753",
+              "name": "2 of 2 - Starfox",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4754",
+              "name": "2 of 2 - Starfox",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4755",
+              "name": "1 of 1 - Civil War",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4756",
+              "name": "1 of 1 - Civil War",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4757",
+              "name": "Cover #4757",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4758",
+              "name": "Interior #4758",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4759",
+              "name": "2 of 2 - I married a man-wolf",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4760",
+              "name": "2 of 2 - I married a man-wolf",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4761",
+              "name": "1 of ?",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4762",
+              "name": "1 of ?",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4763",
+              "name": "Cover #4763",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4764",
+              "name": "Interior #4764",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4765",
+              "name": "2 of 2 - Cosmic Starfox",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4766",
+              "name": "2 of 2 - Cosmic Starfox",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/7995",
+              "name": "She-Hulk 6-13",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/7996",
+              "name": "She-Hulk 6-13",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 18
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/5959/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 5294,
+        "digitalId": 6850,
+        "title": "She-Hulk (2005) #13",
+        "issueNumber": 13,
+        "variantDescription": "",
+        "description": "Remember the Titans? \r<br>Inside the mind of THANOS, SHE-HULK and MOONDRAGON learn a secret so dark, so disturbing, that it will forever change the way you see the Titans! This is it, gamma-fans. One way or another, the case against STARFOX ends here! Will he face ruin or redemption? All this—and a two-fisted throwdown between everyone’s favorite Emerald Amazon(Yay!) and the Mad Titan (Boo!)! \r<br>32 PGS./Rated T+ ...$2.99\r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960605714-01311",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Remember the Titans? \r<br>Inside the mind of THANOS, SHE-HULK and MOONDRAGON learn a secret so dark, so disturbing, that it will forever change the way you see the Titans! This is it, gamma-fans. One way or another, the case against STARFOX ends here! Will he face ruin or redemption? All this—and a two-fisted throwdown between everyone’s favorite Emerald Amazon(Yay!) and the Mad Titan (Boo!)! \r<br>32 PGS./Rated T+ ...$2.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5294",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/5294/she-hulk_2005_13?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/She-Hulk-13/digital-comic/6850?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=6850&utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/6850?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/886",
+          "name": "She-Hulk (2005 - 2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5959",
+            "name": "She-Hulk Vol. 4: Laws of Attraction (Trade Paperback)"
+          }
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2006-11-01T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2008-09-17T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2013-11-12T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bc5bfc150fc6",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bc5bfc150fc6",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/5294/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4266",
+              "name": "Ian Hannin",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11521",
+              "name": "Greg Horn",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/940",
+              "name": "Roy Allan Martinez",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+              "name": "Dan Slott",
+              "role": "writer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/5294/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583",
+              "name": "She-Hulk (Jennifer Walters)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/5294/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4765",
+              "name": "2 of 2 - Cosmic Starfox",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4766",
+              "name": "2 of 2 - Cosmic Starfox",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/5294/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 3962,
+        "digitalId": 0,
+        "title": "Silver Surfer: Rebirth of Thanos (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The quest that led to INFINITY GAUNTLET begins here! Back from the dead, Thanos is after the power to bring the rest of the universe with him on a return trip! Can the Silver Surfer, Drax the Destroyer and others stop the cosmic iconoclast before he uses reality as a token of his affection for Death? Special guest-appearance by the Impossible Man! Featuring a rare Thanos solo story not seen in almost thirty years! Collects SILVER SURFER #34-38, THANOS QUEST #1-2 and the Thanos backup from LOGAN’S RUN #6.\r<br>224 PGS./T+ SUGGESTED FOR TEENS AND UP ...$24.99\r<br> ",
+        "modified": "2013-07-31T10:34:50-0400",
+        "isbn": "0-7851-2046-7",
+        "upc": "5960612046-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The quest that led to INFINITY GAUNTLET begins here! Back from the dead, Thanos is after the power to bring the rest of the universe with him on a return trip! Can the Silver Surfer, Drax the Destroyer and others stop the cosmic iconoclast before he uses reality as a token of his affection for Death? Special guest-appearance by the Impossible Man! Featuring a rare Thanos solo story not seen in almost thirty years! Collects SILVER SURFER #34-38, THANOS QUEST #1-2 and the Thanos backup from LOGAN’S RUN #6.\r<br>224 PGS./T+ SUGGESTED FOR TEENS AND UP ...$24.99\r<br> "
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3962",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/3962/silver_surfer_rebirth_of_thanos_trade_paperback?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/1680",
+          "name": "Silver Surfer: Rebirth of Thanos (2006)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/440",
+            "name": "1602 (2003) #8"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15173",
+            "name": "Silver Surfer (1987) #38"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15172",
+            "name": "Silver Surfer (1987) #37"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15171",
+            "name": "Silver Surfer (1987) #36"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15170",
+            "name": "Silver Surfer (1987) #35"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15169",
+            "name": "Silver Surfer (1987) #34"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/11449",
+            "name": "Thanos Quest (1990) #2"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/11448",
+            "name": "Thanos Quest (1990) #1"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2006-03-22T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/4bc46912d8229",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/51f6a1f505402",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/51f6a1e6d0128",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/51b896a18d3c8",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bc6978a1e62f",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4bc48004070ef",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/4bc46912d8229",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bb6f745cb1e3",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4bb6f730b3711",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb6f63a6c32d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bb6f63515d4c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/e0/4bb6eb0cb48cd",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/3962/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2047",
+              "name": "Craig Anderson",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2038",
+              "name": "John Beatty",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4769",
+              "name": "Tom Christopher",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1871",
+              "name": "Ken Bruzenak",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/567",
+              "name": "Neil Gaiman",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/175",
+              "name": "Andy Kubert",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+              "name": "Ron Lim",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/566",
+              "name": "Scott McKowen",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+              "name": "Jim Starlin",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2654",
+              "name": "Tom Vincent",
+              "role": "colorist"
+            }
+          ],
+          "returned": 10
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/3962/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+              "name": "Silver Surfer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 19,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/3962/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1723",
+              "name": "Cover #1723",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1724",
+              "name": "Interior #1724",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/23946",
+              "name": "Schemes And Dreams",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/23947",
+              "name": "Schemes and Dreams",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/23948",
+              "name": "Games And Prizes",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/23949",
+              "name": "Games and Prizes",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30808",
+              "name": "Cover #30808",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30809",
+              "name": "Even Demigods Can Dream",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30810",
+              "name": "Cover #30810",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30811",
+              "name": "The Name Is Thanos",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30812",
+              "name": "Cover #30812",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30813",
+              "name": "Interior #30813",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30814",
+              "name": "Cover #30814",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30815",
+              "name": "Interior #30815",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30816",
+              "name": "Cover #30816",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30817",
+              "name": "The Answer",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/36725",
+              "name": "Cover #36725",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/36726",
+              "name": "Interior #36726",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/65998",
+              "name": "SILVER SURFER: REBIRTH OF THANOS 0 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 19
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/3962/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 1362,
+        "digitalId": 0,
+        "title": "Thanos Vol. 5: Samaritan (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "At the very edge of existence, Thanos has a fateful encounter with his lost love, Death, which causes him to re-evaluate his goals and his approach to attaining them. Meanwhile, a co-op of alien races Thanos has victimized forms a Super Posse to bag the Mad Titan once and for all!",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "0-7851-1540-4",
+        "upc": "5960611540-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "At the very edge of existence, Thanos has a fateful encounter with his lost love, Death, which causes him to re-evaluate his goals and his approach to attaining them. Meanwhile, a co-op of alien races Thanos has victimized forms a Super Posse to bag the Mad Titan once and for all!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1362",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/1362/thanos_vol_5_samaritan_trade_paperback?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/1307",
+          "name": "Thanos Vol. 5: Samaritan (2004)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/598",
+            "name": "Thanos (2003) #12"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/684",
+            "name": "Thanos (2003) #11"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/625",
+            "name": "Thanos (2003) #10"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/460",
+            "name": "Thanos (2003) #9"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/424",
+            "name": "Thanos (2003) #8"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/398",
+            "name": "Thanos (2003) #7"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2004-09-08T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc69ada72c72",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc69ada72c72",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/4bc697d9d662e",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4bc695e4d7d6c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc68b29ab1d8",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bc68816df41b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4bc6832f12c03",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bc662ab064f7",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1362/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/400",
+              "name": "Keith Giffen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+              "name": "Ron Lim",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6758",
+              "name": "Christie Scheele",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+              "name": "Jim Starlin",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1362/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 14,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1362/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2436",
+              "name": "Cover #2436",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2437",
+              "name": "Interior #2437",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2438",
+              "name": "Cover #2438",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2439",
+              "name": "Interior #2439",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2440",
+              "name": "Cover #2440",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2441",
+              "name": "Interior #2441",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2442",
+              "name": "Cover #2442",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2443",
+              "name": "Interior #2443",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2444",
+              "name": "Cover #2444",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2445",
+              "name": "Interior #2445",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2446",
+              "name": "Cover #2446",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2447",
+              "name": "Interior #2447",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/6584",
+              "name": "Thanos 7-12",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/6585",
+              "name": "Thanos 7-12",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 14
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1362/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 598,
+        "digitalId": 7105,
+        "title": "Thanos (2003) #12",
+        "issueNumber": 12,
+        "variantDescription": "",
+        "description": " It's Thanos, the mad Titan, versus the Fallen One, first herald to world-devouring Galactus and grade A prime interstellar sociopath, as we wind up our first year with a cosmic melee that's sure to be talked about for years to come. Like it would kill you to buy one for a friend?",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960605488-01211",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": " It's Thanos, the mad Titan, versus the Fallen One, first herald to world-devouring Galactus and grade A prime interstellar sociopath, as we wind up our first year with a cosmic melee that's sure to be talked about for years to come. Like it would kill you to buy one for a friend?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/598",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/598/thanos_2003_12?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Thanos-12/digital-comic/7105?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=7105&utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/7105?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/548",
+          "name": "Thanos (2003 - 2004)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1362",
+            "name": "Thanos Vol. 5: Samaritan (Trade Paperback)"
+          }
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2004-07-07T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2008-09-17T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2013-09-10T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc68b29ab1d8",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc68b29ab1d8",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/598/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/400",
+              "name": "Keith Giffen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+              "name": "Ron Lim",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6758",
+              "name": "Christie Scheele",
+              "role": "colorist"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/598/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/598/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2442",
+              "name": "Cover #2442",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2443",
+              "name": "Interior #2443",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/598/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

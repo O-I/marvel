@@ -1,0 +1,341 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2014 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2014 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2014 MARVEL</a>",
+  "etag": "d3f102f7c8d0ef375f395733ae2ce06d1899a94f",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 1,
+    "count": 1,
+    "results": [
+      {
+        "id": 1009652,
+        "name": "Thanos",
+        "description": "The Mad Titan Thanos, a melancholy, brooding individual, consumed with the concept of death, sought out personal power and increased strength, endowing himself with cybernetic implants until he became more powerful than any of his brethren.",
+        "modified": "2014-02-19T15:41:57-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5274137e3e2cd",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+        "comics": {
+          "available": 78,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009652/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12651",
+              "name": "Alpha Flight (1983) #111"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/32993",
+              "name": "Avengers & the Infinity Gauntlet (Graphic Novel)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6943",
+              "name": "Avengers Annual (1967) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/41354",
+              "name": "AVENGERS ASSEMBLE (2012) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8017",
+              "name": "Captain Marvel (1968) #28"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8018",
+              "name": "Captain Marvel (1968) #29"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8488",
+              "name": "Deadpool (1997) #33"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/37579",
+              "name": "Deadpool Classic Vol. 5 (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/20194",
+              "name": "Doctor Strange, Sorcerer Supreme (1988) #33"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13190",
+              "name": "Fantastic Four (1961) #366"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13192",
+              "name": "Fantastic Four (1961) #368"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13193",
+              "name": "Fantastic Four (1961) #369"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13195",
+              "name": "Fantastic Four (1961) #370"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1064",
+              "name": "Infinity Abyss (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/20010",
+              "name": "Infinity Abyss (2002) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/20012",
+              "name": "Infinity Abyss (2002) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/23033",
+              "name": "Infinity Crusade Vol. 1 (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/9289",
+              "name": "Infinity Gauntlet (1991) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10020",
+              "name": "Marvel Comics Presents (1988) #108"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10021",
+              "name": "Marvel Comics Presents (1988) #109"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 42,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009652/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2116",
+              "name": "Alpha Flight (1983 - 1994)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/10035",
+              "name": "Avengers & the Infinity Gauntlet (2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1988",
+              "name": "Avengers Annual (1967 - 1994)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/15373",
+              "name": "AVENGERS ASSEMBLE (2012 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2000",
+              "name": "Captain Marvel (1968 - 1979)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2005",
+              "name": "Deadpool (1997 - 2002)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/13506",
+              "name": "Deadpool Classic Vol. 5 (2010 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3741",
+              "name": "Doctor Strange, Sorcerer Supreme (1988 - 1996)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
+              "name": "Fantastic Four (1961 - 1998)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3727",
+              "name": "Infinity Abyss (2002)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/124",
+              "name": "Infinity Abyss (1999)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6449",
+              "name": "Infinity Crusade Vol. 1 (2008 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2023",
+              "name": "Infinity Gauntlet (1991)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2039",
+              "name": "Marvel Comics Presents (1988 - 1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/4577",
+              "name": "Marvel Masterworks: Captain Marvel Vol. 3 (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/4578",
+              "name": "Marvel Masterworks: Captain Marvel Vol. 3 (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3715",
+              "name": "Marvel Two-in-One (1974 - 1983)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/164",
+              "name": "Marvel Universe Vol. I: Thanos: Infinity Abyss (2003)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2059",
+              "name": "Paradise X (2002 - 2003)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2431",
+              "name": "Paradise X Vol. 1 (2007)"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 72,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009652/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/695",
+              "name": "Interior #695",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1413",
+              "name": "Interior #1413",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1603",
+              "name": "Interior #1603",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1801",
+              "name": "Interior #1801",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1843",
+              "name": "Interior #1843",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2254",
+              "name": "Interior #2254",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2437",
+              "name": "Interior #2437",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2439",
+              "name": "Interior #2439",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2441",
+              "name": "Interior #2441",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2443",
+              "name": "Interior #2443",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2445",
+              "name": "Interior #2445",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2447",
+              "name": "Interior #2447",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4765",
+              "name": "2 of 2 - Cosmic Starfox",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/13095",
+              "name": "The Enemy Within!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/13107",
+              "name": "Day of the Dark Side!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/13113",
+              "name": "With Malice Toward All!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/13121",
+              "name": "Forever Evil",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/17448",
+              "name": "Cover #17448",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18267",
+              "name": "When Titans Collide!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18270",
+              "name": "Metamorphosis!",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009652/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/235",
+              "name": "Blood and Thunder"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/253",
+              "name": "Infinity Gauntlet"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/29",
+              "name": "Infinity War"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/294",
+              "name": "The Thanos Imperative"
+            }
+          ],
+          "returned": 4
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1009652/thanos?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Thanos?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ]
+      }
+    ]
+  }
+}
