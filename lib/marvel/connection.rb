@@ -2,12 +2,15 @@ require 'faraday_middleware'
 
 module Marvel
   module Connection
+
+    BASE_API_URL = 'https://gateway.marvel.com/v1/public/'
+
     private
 
     def connection
       options = {
         ssl: { verify: false },
-        url: 'https://gateway.marvel.com/v1/public/'
+        url: BASE_API_URL
       }
 
       Faraday.new(options) do |connection|
