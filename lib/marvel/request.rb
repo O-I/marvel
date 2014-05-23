@@ -25,6 +25,6 @@ module Marvel
 
     def timestamp
       Time.now.to_s
-    end    
+    end
   end
 end

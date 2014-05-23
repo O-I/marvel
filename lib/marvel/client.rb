@@ -20,7 +20,7 @@ module Marvel
     # http://gateway.marvel.com/v1/comics/?ts=1&apikey=1234&hash=ffd275c5130566a2916217b101f26150
     # where ts is a timestamp
     # where apikey is your public API key
-    # where hash is the MD5 hash of the concatenation of 
+    # where hash is the MD5 hash of the concatenation of
     # ts, your private API key, and your public API key
 
     # So basic request form for all methods looks like
@@ -34,7 +34,7 @@ module Marvel
     # All methods return a Hashie::Mash object
     # representation of the original JSON response
 
-    # Characters: 
+    # Characters:
 
     # fetches lists of characters
     def characters(options = {})

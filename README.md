@@ -119,7 +119,6 @@ Descriptions and examples of the supported actions are below. Note, all methods 
 @client.creators
 @client.creators(firstName: 'Frank', lastName: 'Miller')
 @client.creators(lastNameStartsWith: 'Mo', limit: 20, offset: 20)
-
 ```
 
 - Fetches a single creator by id. [`GET /v1/public/creators/{creatorId}`](http://developer.marvel.com/docs#!/public/getCreatorIndividual_get_13)
