@@ -1,0 +1,794 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2014 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2014 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2014 MARVEL</a>",
+  "etag": "b628084339be2bdbc102cd8ae7f3feae084ade21",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 2,
+    "count": 2,
+    "results": [
+      {
+        "id": 1009368,
+        "name": "Iron Man",
+        "description": "Wounded, captured and forced to build a weapon by his enemies, billionaire industrialist Tony Stark instead created an advanced suit of armor to save his life and escape captivity. Now with a new outlook on life, Tony uses his money and intelligence to make the world a safer, better place as Iron Man.",
+        "modified": "2013-11-07T10:55:38-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/527bb7b37ff55",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "comics": {
+          "available": 2027,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009368/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/24348",
+              "name": "Adam: Legend of the Blue Marvel (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/22461",
+              "name": "Adam: Legend of the Blue Marvel (2008) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/22856",
+              "name": "Adam: Legend of the Blue Marvel (2008) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/38524",
+              "name": "Age of X: Universe (2011) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21280",
+              "name": "All-New Iron Manual (2008) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12653",
+              "name": "Alpha Flight (1983) #113"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12668",
+              "name": "Alpha Flight (1983) #127"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3942",
+              "name": "Amazing Spider-Man (1999) #530"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4065",
+              "name": "Amazing Spider-Man (1999) #531"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4177",
+              "name": "Amazing Spider-Man (1999) #532"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4277",
+              "name": "Amazing Spider-Man (1999) #533"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4806",
+              "name": "Amazing Spider-Man (1999) #535"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/35532",
+              "name": "Amazing Spider-Man (1999) #668"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/22433",
+              "name": "Annihilation Classic (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/39896",
+              "name": "Art of Marvel Studios TPB Slipcase (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/31210",
+              "name": "Astonishing Spider-Man/Wolverine (2010) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/31211",
+              "name": "Astonishing Spider-Man/Wolverine (2010) #1 (FOILOGRAM VARIANT)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/36441",
+              "name": "Astonishing Spider-Man/Wolverine (2010) #1 (2ND PRINTING VARIANT)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/36616",
+              "name": "Astonishing Spider-Man/Wolverine (2010) #1 (Director's Cut)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/31219",
+              "name": "Astonishing Spider-Man/Wolverine (2010) #2"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 443,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009368/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/7524",
+              "name": "Adam: Legend of the Blue Marvel (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6079",
+              "name": "Adam: Legend of the Blue Marvel (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/13896",
+              "name": "Age of X: Universe (2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/4897",
+              "name": "All-New Iron Manual (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2116",
+              "name": "Alpha Flight (1983 - 1994)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6056",
+              "name": "Annihilation Classic (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/14779",
+              "name": "Art of Marvel Studios TPB Slipcase (2011 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/9792",
+              "name": "Astonishing Spider-Man/Wolverine (2010 - 2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6792",
+              "name": "Astonishing Tales (2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6697",
+              "name": "Astonishing Tales: Iron Man 2020 (2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6698",
+              "name": "Astonishing Tales: One Shots (Iron Man) (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6696",
+              "name": "Astonishing Tales: Wolverine/Punisher (2008 - 2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/744",
+              "name": "Astonishing X-Men (2004 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/7576",
+              "name": "Astonishing X-Men by Joss Whedon & John Cassaday (2009 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/9085",
+              "name": "Avengers (2010 - 2012)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3621",
+              "name": "Avengers (1996 - 1997)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+              "name": "Avengers (1963 - 1996)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/9086",
+              "name": "Avengers Academy (2010 - 2012)"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 2885,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009368/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/892",
+              "name": "Cover #892",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/960",
+              "name": "3 of ?",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/982",
+              "name": "Interior #982",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/984",
+              "name": "Interior #984",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/986",
+              "name": "Interior #986",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/988",
+              "name": "Interior #988",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/990",
+              "name": "Interior #990",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/992",
+              "name": "Interior #992",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/994",
+              "name": "Interior #994",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/996",
+              "name": "Interior #996",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/998",
+              "name": "Interior #998",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1000",
+              "name": "Interior #1000",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1002",
+              "name": "AVENGERS DISASSEMBLED TIE-IN! Still reeling from recent traumas, Iron Man must face off against his evil doppelganger. Meanwhile",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1004",
+              "name": "\"THE SINGULARITY\" CONCLUSION! PART 4 (OF 4) The battle rages on between Iron Man and his doppelganger, but only one of them can ",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1041",
+              "name": "Avengers (1998) #502",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1051",
+              "name": "Interior #1051",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1186",
+              "name": "2 of 3 - Identity Thief",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1188",
+              "name": "3 of 3 - Identity Thief",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1189",
+              "name": "1 of 6 - The War at Home",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1191",
+              "name": "2 of 6 - Spider-Man: The War at Home",
+              "type": "cover"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 24,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009368/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/303",
+              "name": "Age of X"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/231",
+              "name": "Armor Wars"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/233",
+              "name": "Atlantis Attacks"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/234",
+              "name": "Avengers Disassembled"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/310",
+              "name": "Avengers VS X-Men"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/296",
+              "name": "Chaos War"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+              "name": "Civil War"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/239",
+              "name": "Crossing"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+              "name": "Dark Reign"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/245",
+              "name": "Enemy of the State"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/249",
+              "name": "Fatal Attractions"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+              "name": "Fear Itself"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/251",
+              "name": "House of M"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/29",
+              "name": "Infinity War"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/255",
+              "name": "Initiative"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/37",
+              "name": "Maximum Security"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+              "name": "Onslaught"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/269",
+              "name": "Secret Invasion"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/270",
+              "name": "Secret Wars"
+            }
+          ],
+          "returned": 20
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1009368/iron_man?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Iron_Man_(Anthony_Stark)?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ]
+      },
+      {
+        "id": 1009718,
+        "name": "Wolverine",
+        "description": "Born with super-human senses and the power to heal from almost any wound, Wolverine was captured by a secret Canadian organization and given an unbreakable skeleton and claws. Treated like an animal, it took years for him to control himself. Now, he's a premiere member of both the X-Men and the Avengers.",
+        "modified": "2013-11-20T17:40:18-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/528d3a1eb24ee",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "comics": {
+          "available": 1794,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009718/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/41112",
+              "name": "5 Ronin (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/41113",
+              "name": "5 Ronin (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/38756",
+              "name": "5 Ronin (2010) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/36162",
+              "name": "5 Ronin (2010) #1 (AJA Cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/29317",
+              "name": "ACTS OF VENGEANCE CROSSOVERS OMNIBUS (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/29318",
+              "name": "ACTS OF VENGEANCE CROSSOVERS OMNIBUS (DM Only) (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/24017",
+              "name": "Agents of Atlas (2009) #3 (Wolverine Art Appreciation Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/24221",
+              "name": "Agents of Atlas (2009) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/24222",
+              "name": "Agents of Atlas (2009) #5 (MCGUINNESS VARIANT)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12690",
+              "name": "Alpha Flight (1983) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12671",
+              "name": "Alpha Flight (1983) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12675",
+              "name": "Alpha Flight (1983) #16"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12676",
+              "name": "Alpha Flight (1983) #17"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12694",
+              "name": "Alpha Flight (1983) #33"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12695",
+              "name": "Alpha Flight (1983) #34"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12715",
+              "name": "Alpha Flight (1983) #52"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12716",
+              "name": "Alpha Flight (1983) #53"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12725",
+              "name": "Alpha Flight (1983) #61"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12753",
+              "name": "Alpha Flight (1983) #87"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12754",
+              "name": "Alpha Flight (1983) #88"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 436,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009718/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/12429",
+              "name": "5 Ronin (2010)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/15276",
+              "name": "5 Ronin (2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/9994",
+              "name": "ACTS OF VENGEANCE CROSSOVERS OMNIBUS (2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/9995",
+              "name": "ACTS OF VENGEANCE CROSSOVERS OMNIBUS (DM Only) (2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6807",
+              "name": "Agents of Atlas (2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2116",
+              "name": "Alpha Flight (1983 - 1994)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1983",
+              "name": "Alpha Flight Classic Vol. 1 (2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1987",
+              "name": "Amazing Spider-Man (1963 - 1998)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2984",
+              "name": "Amazing Spider-Man Annual (1964 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/7197",
+              "name": "Anita Blake: The Laughing Corpse - Necromancer (2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/14818",
+              "name": "Annihilators: Earthfall (2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/9792",
+              "name": "Astonishing Spider-Man/Wolverine (2010 - 2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/11110",
+              "name": "Astonishing Spider-Man/Wolverine (2010 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6792",
+              "name": "Astonishing Tales (2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6696",
+              "name": "Astonishing Tales: Wolverine/Punisher (2008 - 2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/744",
+              "name": "Astonishing X-Men (2004 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/7576",
+              "name": "Astonishing X-Men by Joss Whedon & John Cassaday (2009 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1464",
+              "name": "Astonishing X-Men Vol. 1 (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1298",
+              "name": "Astonishing X-Men Vol. 1: Gifted (2004)"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 2445,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009718/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/477",
+              "name": "Cover #477",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/628",
+              "name": "1 of 1 - Holiday Issue",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/630",
+              "name": "1 of 5 - Golgotha",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/652",
+              "name": "2 of 3 - House of Broken Dreams",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1051",
+              "name": "Interior #1051",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1415",
+              "name": "Interior #1415",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1499",
+              "name": "Interior #1499",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1632",
+              "name": "Interior #1632",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1767",
+              "name": "Interior #1767",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1776",
+              "name": "Cover #1776",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1779",
+              "name": "Interior #1779",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1803",
+              "name": "Interior #1803",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1847",
+              "name": "Interior #1847",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1912",
+              "name": "Interior #1912",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1936",
+              "name": "4 of 5 - Quiet",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1979",
+              "name": "Interior #1979",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2070",
+              "name": "Interior #2070",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2084",
+              "name": "Interior #2084",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2154",
+              "name": "3 of 6 - Enemy of the State",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2167",
+              "name": "Interior #2167",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 32,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009718/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/233",
+              "name": "Atlantis Attacks"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/310",
+              "name": "Avengers VS X-Men"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/296",
+              "name": "Chaos War"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+              "name": "Civil War"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+              "name": "Dark Reign"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/240",
+              "name": "Days of Future Present"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/245",
+              "name": "Enemy of the State"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/246",
+              "name": "Evolutionary War"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/248",
+              "name": "Fall of the Mutants"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/249",
+              "name": "Fatal Attractions"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+              "name": "Fear Itself"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/251",
+              "name": "House of M"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/252",
+              "name": "Inferno"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/253",
+              "name": "Infinity Gauntlet"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/29",
+              "name": "Infinity War"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/37",
+              "name": "Maximum Security"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/299",
+              "name": "Messiah CompleX"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/298",
+              "name": "Messiah War"
+            }
+          ],
+          "returned": 20
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1009718/wolverine?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          },
+          {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Wolverine_(James_Howlett)?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ]
+      }
+    ]
+  }
+}
