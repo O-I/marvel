@@ -1,0 +1,1544 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2014 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2014 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2014 MARVEL</a>",
+  "etag": "9adc7a4a3a6465ccf6ba66f8cd5c852edc7e985e",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 199,
+    "count": 20,
+    "results": [
+      {
+        "id": 490,
+        "title": "Interior #490",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/490",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/490/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/490/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/490/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1496",
+              "name": "Avengers Assemble Vol. 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/490/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3589",
+              "name": "Avengers (1998)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1795",
+              "name": "Avengers Assemble Vol. 2 (Hardcover)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/490/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/3589",
+          "name": "Avengers (1998)"
+        }
+      },
+      {
+        "id": 542,
+        "title": "Interior #542",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/542",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/542/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/542/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/542/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/307",
+              "name": "Avengers Vol. 3: The Search for She-Hulk (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/542/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4648",
+              "name": "Avengers (1998) #71"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1251",
+              "name": "Avengers Vol. 3: The Search for She-Hulk (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/542/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4648",
+          "name": "Avengers (1998) #71"
+        }
+      },
+      {
+        "id": 572,
+        "title": "Interior #572",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/572",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/572/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/572/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/572/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/307",
+              "name": "Avengers Vol. 3: The Search for She-Hulk (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/572/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4925",
+              "name": "Avengers (1998) #75"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1251",
+              "name": "Avengers Vol. 3: The Search for She-Hulk (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/572/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4925",
+          "name": "Avengers (1998) #75"
+        }
+      },
+      {
+        "id": 574,
+        "title": "Interior #574",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/574",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/574/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/574/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/574/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/307",
+              "name": "Avengers Vol. 3: The Search for She-Hulk (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/574/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4937",
+              "name": "Avengers (1998) #76"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1251",
+              "name": "Avengers Vol. 3: The Search for She-Hulk (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/574/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4937",
+          "name": "Avengers (1998) #76"
+        }
+      },
+      {
+        "id": 575,
+        "title": "Interior #575",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/575",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/575/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/575/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/575/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1262",
+              "name": "Avengers Vol. 5: Once an Invader (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/575/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4938",
+              "name": "Avengers (1998) #82"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1357",
+              "name": "Avengers Vol. 5: Once an Invader (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/575/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4938",
+          "name": "Avengers (1998) #82"
+        }
+      },
+      {
+        "id": 577,
+        "title": "Interior #577",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/577",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/577/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/577/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/577/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/307",
+              "name": "Avengers Vol. 3: The Search for She-Hulk (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/577/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4940",
+              "name": "Avengers (1998) #73"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1251",
+              "name": "Avengers Vol. 3: The Search for She-Hulk (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/577/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4940",
+          "name": "Avengers (1998) #73"
+        }
+      },
+      {
+        "id": 579,
+        "title": "Interior #579",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/579",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/579/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/579/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/579/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1262",
+              "name": "Avengers Vol. 5: Once an Invader (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/579/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4955",
+              "name": "Avengers (1998) #83"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1357",
+              "name": "Avengers Vol. 5: Once an Invader (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/579/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4955",
+          "name": "Avengers (1998) #83"
+        }
+      },
+      {
+        "id": 580,
+        "title": "Interior #580",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/580",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/580/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/580/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/580/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1262",
+              "name": "Avengers Vol. 5: Once an Invader (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/580/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4956",
+              "name": "Avengers (1998) #84"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1357",
+              "name": "Avengers Vol. 5: Once an Invader (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/580/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4956",
+          "name": "Avengers (1998) #84"
+        }
+      },
+      {
+        "id": 1024,
+        "title": "Avengers (1998) #80",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1024",
+        "type": "cover",
+        "modified": "2012-03-09T13:57:33-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1024/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/248",
+              "name": "David Finch",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1024/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1024/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1197",
+              "name": "Avengers Vol. 4: Lionheart of Avalon (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1024/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/429",
+              "name": "Avengers (1998) #80"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1303",
+              "name": "Avengers Vol. 4: Lionheart of Avalon (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1024/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/429",
+          "name": "Avengers (1998) #80"
+        }
+      },
+      {
+        "id": 1025,
+        "title": "Interior #1025",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1025",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1025/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+              "name": "Chuck Austen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6170",
+              "name": "Olivier Coipel",
+              "role": "penciller"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1025/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1025/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1197",
+              "name": "Avengers Vol. 4: Lionheart of Avalon (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1025/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/429",
+              "name": "Avengers (1998) #80"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1303",
+              "name": "Avengers Vol. 4: Lionheart of Avalon (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1025/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/429",
+          "name": "Avengers (1998) #80"
+        }
+      },
+      {
+        "id": 1026,
+        "title": "Avengers (1998) #81",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1026",
+        "type": "cover",
+        "modified": "2012-03-09T13:54:22-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1026/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/194",
+              "name": "Scott Kolins",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1026/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1026/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1197",
+              "name": "Avengers Vol. 4: Lionheart of Avalon (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1026/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/492",
+              "name": "Avengers (1998) #81"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1303",
+              "name": "Avengers Vol. 4: Lionheart of Avalon (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1026/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/492",
+          "name": "Avengers (1998) #81"
+        }
+      },
+      {
+        "id": 1027,
+        "title": "Interior #1027",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1027",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1027/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+              "name": "Chuck Austen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6170",
+              "name": "Olivier Coipel",
+              "role": "penciller"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1027/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1027/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1197",
+              "name": "Avengers Vol. 4: Lionheart of Avalon (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1027/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/492",
+              "name": "Avengers (1998) #81"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1303",
+              "name": "Avengers Vol. 4: Lionheart of Avalon (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1027/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/492",
+          "name": "Avengers (1998) #81"
+        }
+      },
+      {
+        "id": 1028,
+        "title": "Cover #1028",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1028",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1028/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/162",
+              "name": "John Cassaday",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1028/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1028/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1028/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/516",
+              "name": "Avengers (1998) #500 (Director's Cut)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1028/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/516",
+          "name": "Avengers (1998) #500 (Director's Cut)"
+        }
+      },
+      {
+        "id": 1029,
+        "title": "Interior #1029",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1029",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1029/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1029/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1029/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/344",
+              "name": "Avengers Disassembled (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1029/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/516",
+              "name": "Avengers (1998) #500 (Director's Cut)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1703",
+              "name": "Avengers Disassembled (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1029/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/234",
+              "name": "Avengers Disassembled"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/516",
+          "name": "Avengers (1998) #500 (Director's Cut)"
+        }
+      },
+      {
+        "id": 1030,
+        "title": "Avengers (1998) #500",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1030",
+        "type": "cover",
+        "modified": "2012-03-09T13:50:46-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1030/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/248",
+              "name": "David Finch",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1030/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1030/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1030/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/532",
+              "name": "Avengers (1998) #500"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1030/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/234",
+              "name": "Avengers Disassembled"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/532",
+          "name": "Avengers (1998) #500"
+        }
+      },
+      {
+        "id": 1031,
+        "title": "Interior #1031",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1031",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1031/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+              "name": "Frank D'Armata",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/248",
+              "name": "David Finch",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11553",
+              "name": "Danny K. Miki",
+              "role": "inker"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1031/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1031/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/344",
+              "name": "Avengers Disassembled (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1795",
+              "name": "Avengers Disassembled (2006)"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1031/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/532",
+              "name": "Avengers (1998) #500"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1703",
+              "name": "Avengers Disassembled (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5685",
+              "name": "Avengers Disassembled (Hardcover)"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1031/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/234",
+              "name": "Avengers Disassembled"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/532",
+          "name": "Avengers (1998) #500"
+        }
+      },
+      {
+        "id": 1038,
+        "title": "Avengers (1998) #501",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1038",
+        "type": "cover",
+        "modified": "2012-03-09T13:48:20-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1038/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/248",
+              "name": "David Finch",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1038/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1038/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1038/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/767",
+              "name": "Avengers (1998) #501"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1038/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/234",
+              "name": "Avengers Disassembled"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/767",
+          "name": "Avengers (1998) #501"
+        }
+      },
+      {
+        "id": 1039,
+        "title": "Interior #1039",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1039",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1039/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+              "name": "Frank D'Armata",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/248",
+              "name": "David Finch",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11553",
+              "name": "Danny K. Miki",
+              "role": "inker"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1039/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1039/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1795",
+              "name": "Avengers Disassembled (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/344",
+              "name": "Avengers Disassembled (2005)"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1039/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/767",
+              "name": "Avengers (1998) #501"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1703",
+              "name": "Avengers Disassembled (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5685",
+              "name": "Avengers Disassembled (Hardcover)"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1039/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/234",
+              "name": "Avengers Disassembled"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/767",
+          "name": "Avengers (1998) #501"
+        }
+      },
+      {
+        "id": 1040,
+        "title": "Avengers (1998) #502",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1040",
+        "type": "cover",
+        "modified": "2012-03-08T10:35:21-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1040/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/248",
+              "name": "David Finch",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1040/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+              "name": "Hawkeye"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009562",
+              "name": "Scarlet Witch"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+              "name": "Wasp"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1040/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1040/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/845",
+              "name": "Avengers (1998) #502"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1040/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/234",
+              "name": "Avengers Disassembled"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/845",
+          "name": "Avengers (1998) #502"
+        }
+      },
+      {
+        "id": 1041,
+        "title": "Avengers (1998) #502",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1041",
+        "type": "story",
+        "modified": "2012-03-08T10:36:28-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1041/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+              "name": "Frank D'Armata",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/248",
+              "name": "David Finch",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11553",
+              "name": "Danny K. Miki",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1041/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1041/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1795",
+              "name": "Avengers Disassembled (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/344",
+              "name": "Avengers Disassembled (2005)"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1041/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/845",
+              "name": "Avengers (1998) #502"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1703",
+              "name": "Avengers Disassembled (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5685",
+              "name": "Avengers Disassembled (Hardcover)"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1041/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/234",
+              "name": "Avengers Disassembled"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/845",
+          "name": "Avengers (1998) #502"
+        }
+      }
+    ]
+  }
+}

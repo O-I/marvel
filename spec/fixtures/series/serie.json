@@ -1,0 +1,448 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2014 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2014 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2014 MARVEL</a>",
+  "etag": "5228a63a5d7c08c0e6de9dcbe882b35a62146aaa",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 1,
+    "count": 1,
+    "results": [
+      {
+        "id": 354,
+        "title": "Avengers (1998 - 2004)",
+        "description": "The Avengers return! Earth's Mightiest Heroes reunite with their biggest guns at the forefront to take on familiar enemies and new threats alike! Featuring the work of Kurt Busiek, George Perez and other quintessential Avengers creators!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/354/avengers_1998_-_2004?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 1998,
+        "endYear": 2004,
+        "rating": "T+",
+        "type": "ongoing",
+        "modified": "2013-03-01T13:18:46-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/5130f06bd981b",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 91,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/354/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6694",
+              "name": "Wes Abbot",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5743",
+              "name": "Jon Costa",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5744",
+              "name": "Liv",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1212",
+              "name": "Dan Adkins",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/854",
+              "name": "Oclair Albert",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+              "name": "Sal Buscema",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4014",
+              "name": "Axel Alonso",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/651",
+              "name": "Brent Anderson",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/219",
+              "name": "Kia Asamiya",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1216",
+              "name": "Rich Buckler",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+              "name": "Alan Davis",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+              "name": "Chuck Austen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1231",
+              "name": "Kurt Busiek",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/162",
+              "name": "John Cassaday",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/174",
+              "name": "Sean Chen",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6170",
+              "name": "Olivier Coipel",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+              "name": "Frank D'Armata",
+              "role": "colorist"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 105,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/354/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009146",
+              "name": "Abomination (Emil Blonsky)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010784",
+              "name": "Ares"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010336",
+              "name": "Atlas (Team)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009177",
+              "name": "Bedlam"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009186",
+              "name": "Black Knight (Sir Percy of Scandia)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+              "name": "Black Widow"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010887",
+              "name": "Bulldozer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009255",
+              "name": "Crystal"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+              "name": "Daredevil"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011020",
+              "name": "Darkhawk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009266",
+              "name": "Darkstar"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009273",
+              "name": "Diablo"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 202,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/354/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/490",
+              "name": "Interior #490",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/542",
+              "name": "Interior #542",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/572",
+              "name": "Interior #572",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/574",
+              "name": "Interior #574",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/575",
+              "name": "Interior #575",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/577",
+              "name": "Interior #577",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/579",
+              "name": "Interior #579",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/580",
+              "name": "Interior #580",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1024",
+              "name": "Avengers (1998) #80",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1025",
+              "name": "Interior #1025",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1026",
+              "name": "Avengers (1998) #81",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1027",
+              "name": "Interior #1027",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1028",
+              "name": "Cover #1028",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1029",
+              "name": "Interior #1029",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1030",
+              "name": "Avengers (1998) #500",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1031",
+              "name": "Interior #1031",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1038",
+              "name": "Avengers (1998) #501",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1039",
+              "name": "Interior #1039",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1040",
+              "name": "Avengers (1998) #502",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1041",
+              "name": "Avengers (1998) #502",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 91,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/354/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3589",
+              "name": "Avengers (1998)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17490",
+              "name": "Avengers (1998) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17501",
+              "name": "Avengers (1998) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17512",
+              "name": "Avengers (1998) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17523",
+              "name": "Avengers (1998) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17534",
+              "name": "Avengers (1998) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17545",
+              "name": "Avengers (1998) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17556",
+              "name": "Avengers (1998) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17567",
+              "name": "Avengers (1998) #8"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17573",
+              "name": "Avengers (1998) #9"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17491",
+              "name": "Avengers (1998) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17492",
+              "name": "Avengers (1998) #11"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17493",
+              "name": "Avengers (1998) #12"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17494",
+              "name": "Avengers (1998) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17495",
+              "name": "Avengers (1998) #14"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17496",
+              "name": "Avengers (1998) #15"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17497",
+              "name": "Avengers (1998) #16"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17498",
+              "name": "Avengers (1998) #17"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17499",
+              "name": "Avengers (1998) #18"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17500",
+              "name": "Avengers (1998) #19"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/354/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/234",
+              "name": "Avengers Disassembled"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/37",
+              "name": "Maximum Security"
+            }
+          ],
+          "returned": 2
+        },
+        "next": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/753",
+          "name": "New Avengers (2004 - 2010)"
+        },
+        "previous": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/3621",
+          "name": "Avengers (1996 - 1997)"
+        }
+      }
+    ]
+  }
+}
