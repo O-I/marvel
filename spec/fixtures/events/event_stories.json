@@ -1,0 +1,4846 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2014 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2014 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2014 MARVEL</a>",
+  "etag": "b339448ff9be6b8159ad193bb56bb36fe72eb52a",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 20,
+    "count": 20,
+    "results": [
+      {
+        "id": 3614,
+        "title": "Age of Apocalypse: The Chosen (1995)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/3614/age_of_apocalypse_the_chosen_1995?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 1995,
+        "endYear": 1995,
+        "rating": "",
+        "type": "",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/00/4bad2bdd3c8a9",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 15,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3614/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+              "name": "Terry Austin",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+              "name": "Scott Hanna",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/438",
+              "name": "Karl Kesel",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5757",
+              "name": "Sergio Melia",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1914",
+              "name": "Dan Panosian",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/844",
+              "name": "James Pascoe",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2030",
+              "name": "Bob Wiacek",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+              "name": "Ian Churchill",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1163",
+              "name": "Tom Lyle",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/19",
+              "name": "Tim Sale",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4523",
+              "name": "Val Semeiks",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 15
+        },
+        "characters": {
+          "available": 13,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3614/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009163",
+              "name": "Aurora"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+              "name": "Bishop"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009447",
+              "name": "Mister Sinister"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009476",
+              "name": "Northstar"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009504",
+              "name": "Professor X"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+              "name": "Quicksilver"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+              "name": "Storm"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009725",
+              "name": "X-Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 13
+        },
+        "stories": {
+          "available": 23,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3614/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37492",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37493",
+              "name": "[opening]",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37494",
+              "name": "Magneto and Rogue",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37495",
+              "name": "X-Man",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37496",
+              "name": "Cyclops",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37497",
+              "name": "Havok",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37498",
+              "name": "Mr. Sinister",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37499",
+              "name": "Storm",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37500",
+              "name": "Quicksilver",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37501",
+              "name": "Northstar and Aurora",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37502",
+              "name": "Beast",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37503",
+              "name": "The Four Horsemen",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37504",
+              "name": "X-Calibre",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37505",
+              "name": "The Human High Council",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37506",
+              "name": "Weapon X and Jean Grey",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37507",
+              "name": "Gambit and the Externals",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37508",
+              "name": "Colossus",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37509",
+              "name": "Angel",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37510",
+              "name": "Sabretooth and Wildchild",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37511",
+              "name": "Bishop",
+              "type": ""
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3614/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3614/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 3618,
+        "title": "Amazing X-Men (1995)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3618",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/3618/amazing_x-men_1995?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 1995,
+        "endYear": 1995,
+        "rating": "",
+        "type": "limited",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/4bad2bec75cb9",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3618/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2974",
+              "name": "Digital Chameleon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2325",
+              "name": "Kevin Somers",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/175",
+              "name": "Andy Kubert",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+              "name": "Fabian Nicieza",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/610",
+              "name": "Matt Ryan",
+              "role": "inker"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3618/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 12,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3618/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37624",
+              "name": "Cover #37624",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37625",
+              "name": "The Crossing Guards",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37626",
+              "name": "X-Facts: The Dream is Over",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37627",
+              "name": "Cover #37627",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37628",
+              "name": "Sacrificial Lambs",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37629",
+              "name": "X-Facts: Reality Checked",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37630",
+              "name": "Cover #37630",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37631",
+              "name": "Parents of the Atom",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37632",
+              "name": "X-Facts: Where have all the Heroes gone?",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37633",
+              "name": "Cover #37633",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37634",
+              "name": "On Concencrated Ground",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37635",
+              "name": "X-Facts: Final Reflections - It's the begining of the end for the universe",
+              "type": ""
+            }
+          ],
+          "returned": 12
+        },
+        "comics": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3618/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17731",
+              "name": "Amazing X-Men (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17732",
+              "name": "Amazing X-Men (1995) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17733",
+              "name": "Amazing X-Men (1995) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17734",
+              "name": "Amazing X-Men (1995) #4"
+            }
+          ],
+          "returned": 4
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3618/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 3619,
+        "title": "Astonishing X-Men (1995)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3619",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/3619/astonishing_x-men_1995?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 1995,
+        "endYear": 1995,
+        "rating": "",
+        "type": "",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4bb63e5f88840",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3619/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1222",
+              "name": "Joe Madureira",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+              "name": "Steve Buccellato",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2974",
+              "name": "Digital Chameleon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3637",
+              "name": "Scott Lobdell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/427",
+              "name": "Tim Townsend",
+              "role": "inker"
+            }
+          ],
+          "returned": 9
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3619/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 16,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3619/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37636",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37637",
+              "name": "Once More With Feeling",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37638",
+              "name": "X-Facts: The Dream is Over",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37639",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37640",
+              "name": "Sacrificial Lambs",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37641",
+              "name": "X-Facts: Reality Checked",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37642",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37643",
+              "name": "In Excess",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37644",
+              "name": "X-Facts: Where have all the heroes gone?",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37645",
+              "name": "Holocaust",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37646",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37647",
+              "name": "X-Facts: Final Reflections - It's the begining of the end for the universe",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67706",
+              "name": "Astonishing X-Men 1 cover",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67707",
+              "name": "Astonishing X-Men 2 cover",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67708",
+              "name": "Astonishing X-Men 3 cover",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67709",
+              "name": "Astonishing X-Men 4 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 16
+        },
+        "comics": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3619/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17735",
+              "name": "Astonishing X-Men (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17736",
+              "name": "Astonishing X-Men (1995) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17737",
+              "name": "Astonishing X-Men (1995) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17738",
+              "name": "Astonishing X-Men (1995) #4"
+            }
+          ],
+          "returned": 4
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3619/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 3628,
+        "title": "Blink (2001)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3628",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/3628/blink_2001?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 2001,
+        "endYear": 2001,
+        "rating": "",
+        "type": "",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/50/4bad2c04e320f",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3628/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4394",
+              "name": "Liquid Color",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4055",
+              "name": "Pete Franco",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3710",
+              "name": "Mark Powers",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3637",
+              "name": "Scott Lobdell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/132",
+              "name": "Judd Winick",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5846",
+              "name": "Tyson McAdod",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5845",
+              "name": "Trevor McCarthy",
+              "role": "penciler"
+            }
+          ],
+          "returned": 9
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3628/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009197",
+              "name": "Blink"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3628/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37986",
+              "name": "Cover #37986",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37987",
+              "name": "Blink",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37988",
+              "name": "Cover #37988",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37989",
+              "name": "Through the Looking Glass",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37990",
+              "name": "Cover #37990",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37991",
+              "name": "On the Side of Angels",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37992",
+              "name": "Cover #37992",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37993",
+              "name": "Full Recall",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 8
+        },
+        "comics": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3628/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17870",
+              "name": "Blink (2001) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17871",
+              "name": "Blink (2001) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17872",
+              "name": "Blink (2001) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17873",
+              "name": "Blink (2001) #4"
+            }
+          ],
+          "returned": 4
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3628/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 3737,
+        "title": "Factor X (1995)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3737",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/3737/factor_x_1995?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 1995,
+        "endYear": 1995,
+        "rating": "",
+        "type": "",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4c7d53d02fc5d",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3737/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+              "name": "Steve Epting",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1221",
+              "name": "John Francis Moore",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1872",
+              "name": "Glynis Oliver",
+              "role": "colorist"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3737/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 12,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3737/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42934",
+              "name": "Cover #42934",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42935",
+              "name": "Sinsiter Neglect",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42936",
+              "name": "X-Facts: The Dream is Over",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42937",
+              "name": "Cover #42937",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42938",
+              "name": "Abandoned Children",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42939",
+              "name": "X-Facts: Reality Checked",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42940",
+              "name": "Cover #42940",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42941",
+              "name": "Open Wounds",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42942",
+              "name": "X-Facts: Where have all the Heroes Gone",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42943",
+              "name": "Cover #42943",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42944",
+              "name": "Reckonings",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42945",
+              "name": "X-Facts: Final Reflections - It's the Begining of the End of the Universe",
+              "type": ""
+            }
+          ],
+          "returned": 12
+        },
+        "comics": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3737/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/20044",
+              "name": "Factor X (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/20045",
+              "name": "Factor X (1995) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/20046",
+              "name": "Factor X (1995) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/20047",
+              "name": "Factor X (1995) #4"
+            }
+          ],
+          "returned": 4
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3737/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 2578,
+        "title": "Gambit and the X-Ternals (1995)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2578",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/2578/gambit_and_the_x-ternals_1995?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 1995,
+        "endYear": 1995,
+        "rating": "",
+        "type": "",
+        "modified": "2011-05-31T14:17:16-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4bad303881a14",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 14,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2578/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2974",
+              "name": "Digital Chameleon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4101",
+              "name": "Electric Crayon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1224",
+              "name": "Marie Javins",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2086",
+              "name": "Joe Rosas",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5073",
+              "name": "Mike Thomas",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3578",
+              "name": "Matt Webb",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/972",
+              "name": "Kevin Conrad",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/354",
+              "name": "Tony Daniel",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/559",
+              "name": "Paul Pelletier",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+              "name": "Fabian Nicieza",
+              "role": "writer"
+            }
+          ],
+          "returned": 14
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2578/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009724",
+              "name": "X-Force"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 12,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2578/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32818",
+              "name": "Cover #32818",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32819",
+              "name": "Some of Us Looking to the Stars",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32820",
+              "name": "X-Facts: The Dream is Over",
+              "type": "text article"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32821",
+              "name": "Cover #32821",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32822",
+              "name": "Where No External Has Gone Before",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32823",
+              "name": "X-Facts: Reality Checked",
+              "type": "text article"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32824",
+              "name": "Cover #32824",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32825",
+              "name": "To the Limits of Infinity",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32826",
+              "name": "X-Facts: Where Have All The Heroes Gone?",
+              "type": "text article"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32827",
+              "name": "Cover #32827",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32828",
+              "name": "The Maze",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32829",
+              "name": "X-Facts: Final Reflections",
+              "type": ""
+            }
+          ],
+          "returned": 12
+        },
+        "comics": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2578/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16077",
+              "name": "Gambit and the X-Ternals (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16078",
+              "name": "Gambit and the X-Ternals (1995) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16079",
+              "name": "Gambit and the X-Ternals (1995) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16080",
+              "name": "Gambit and the X-Ternals (1995) #4"
+            }
+          ],
+          "returned": 4
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2578/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 3734,
+        "title": "Generation Next (1995)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3734",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/3734/generation_next_1995?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 1995,
+        "endYear": 1995,
+        "rating": "",
+        "type": "",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/4bad2a6af1cf0",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3734/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+              "name": "Chris Bachalo",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+              "name": "Steve Buccellato",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4101",
+              "name": "Electric Crayon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/71",
+              "name": "Mark Buckingham",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3637",
+              "name": "Scott Lobdell",
+              "role": "writer"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3734/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 16,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3734/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42918",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42919",
+              "name": "From The Top",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42920",
+              "name": "X-Facts: The Dream is Over",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42921",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42922",
+              "name": "Hither Comes the Suger Man!",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42923",
+              "name": "X-Facts: Reality Checked",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42924",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42925",
+              "name": "It Only Hurts When I Sing.",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42926",
+              "name": "X-Facts: Where Have All The Heroes Gone?",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42927",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42928",
+              "name": "Bye",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42929",
+              "name": "X-Facts: Final Reflections",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/68429",
+              "name": "Generation Next 1 cover",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/68430",
+              "name": "Generation Next 2 cover",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/68431",
+              "name": "Generation Next 3 cover",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/68432",
+              "name": "Generation Next 4 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 16
+        },
+        "comics": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3734/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/20038",
+              "name": "Generation Next (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/20039",
+              "name": "Generation Next (1995) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/20040",
+              "name": "Generation Next (1995) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/20041",
+              "name": "Generation Next (1995) #4"
+            }
+          ],
+          "returned": 4
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3734/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 3676,
+        "title": "Tales from the Age of Apocalypse: Sinster Blo (1997)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3676",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/3676/tales_from_the_age_of_apocalypse_sinster_blo_1997?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 1997,
+        "endYear": 1997,
+        "rating": "",
+        "type": "",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4bb6eb12054de",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 11,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3676/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5859",
+              "name": "Kolja Fuchs",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+              "name": "Steve Epting",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6284",
+              "name": "Nick Napolitano",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2989",
+              "name": "Matt Idelson",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4613",
+              "name": "Mark McNabb",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1917",
+              "name": "Kevin Tinsley",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1221",
+              "name": "John Francis Moore",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/190",
+              "name": "Brian K. Vaughan",
+              "role": "writer"
+            }
+          ],
+          "returned": 11
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3676/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3676/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/40260",
+              "name": "Cover #40260",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/40261",
+              "name": "Sinister Bloodlines",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3676/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18797",
+              "name": "Tales from the Age of Apocalypse: Sinster Blo (1997) #1"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3676/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 3675,
+        "title": "Tales from the Age of Apocalyspse: By the Lig (1996 - 1997)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3675",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/3675/tales_from_the_age_of_apocalyspse_by_the_lig_1996_-_1997?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 1996,
+        "endYear": 1997,
+        "rating": "",
+        "type": "",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bb68aa7af52b",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3675/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+              "name": "Joe Bennett",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4628",
+              "name": "Jason Liebig",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3710",
+              "name": "Mark Powers",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3637",
+              "name": "Scott Lobdell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1969",
+              "name": "Joe Pimentel",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4050",
+              "name": "Gloria Vasquez",
+              "role": "colorist"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3675/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3675/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/40258",
+              "name": "Cover #40258",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/40259",
+              "name": "By the Light",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3675/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18796",
+              "name": "Tales from the Age of Apocalyspse: By the Lig (1996) #1"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3675/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 3635,
+        "title": "Weapon X (1995)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3635",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/3635/weapon_x_1995?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 1995,
+        "endYear": 1995,
+        "rating": "",
+        "type": "",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/a0/4bad2c0d8ad5c",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3635/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5898",
+              "name": "Derek",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2974",
+              "name": "Digital Chameleon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2086",
+              "name": "Joe Rosas",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5073",
+              "name": "Mike Thomas",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3626",
+              "name": "Pat Brosseau",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1326",
+              "name": "Dan Green",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/42",
+              "name": "Larry Hama",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+              "name": "Adam Kubert",
+              "role": "penciler"
+            }
+          ],
+          "returned": 9
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3635/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 16,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3635/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38446",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38447",
+              "name": "Unforgiven Trespasses",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38448",
+              "name": "X-Facts",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38449",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38450",
+              "name": "Fire in the Sky",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38451",
+              "name": "X-Facts: Reality Checked",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38452",
+              "name": "Interior #38452",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38453",
+              "name": "The Common Right of Toads and  Men",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38454",
+              "name": "X-Facts: Where Have All The Heroes Gone?",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38455",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38456",
+              "name": "Into the Maelstrom!",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38457",
+              "name": "X-Facts: Final Reflections",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67717",
+              "name": "Weapon X 1 cover",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67718",
+              "name": "Weapon X 2 cover",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67719",
+              "name": "Weapon X 3 cover",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67720",
+              "name": "Weapon X 4 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 16
+        },
+        "comics": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3635/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18099",
+              "name": "Weapon X (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18100",
+              "name": "Weapon X (1995) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18101",
+              "name": "Weapon X (1995) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18102",
+              "name": "Weapon X (1995) #4"
+            }
+          ],
+          "returned": 4
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3635/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 3644,
+        "title": "X-Calibre (1995)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3644",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/3644/x-calibre_1995?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 1995,
+        "endYear": 1995,
+        "rating": "",
+        "type": "",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4bb79a1a060b2",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 11,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3644/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5992",
+              "name": "Richard StarkinUs",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5991",
+              "name": "Toinay",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/937",
+              "name": "Renato Arlem",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+              "name": "Roger Cruz",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1248",
+              "name": "Ken Lashley",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/101",
+              "name": "Carlos Pacheco",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/676",
+              "name": "Warren Ellis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2099",
+              "name": "Suzanne Gaffney",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2086",
+              "name": "Joe Rosas",
+              "role": "colorist"
+            }
+          ],
+          "returned": 11
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3644/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009217",
+              "name": "Callisto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+              "name": "Deadpool"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009271",
+              "name": "Destiny"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009382",
+              "name": "Juggernaut"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009465",
+              "name": "Mystique"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 7
+        },
+        "stories": {
+          "available": 15,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3644/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38813",
+              "name": "Interior #38813",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38814",
+              "name": "The Infernal Gallop",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38815",
+              "name": "X-Facts",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38816",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38817",
+              "name": "Burn",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38818",
+              "name": "X-Facts: Reality Checked",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38819",
+              "name": "Cover #38819",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38820",
+              "name": "Body Heat",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38821",
+              "name": "X-Facts: Where Have All The Heroes Gone?",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38822",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38823",
+              "name": "On Fire",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38824",
+              "name": "?",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67819",
+              "name": "X-Calibre 1 cover",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67820",
+              "name": "X-Calibre 2 cover",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67821",
+              "name": "X-Calibre 4 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 15
+        },
+        "comics": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3644/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18253",
+              "name": "X-Calibre (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18254",
+              "name": "X-Calibre (1995) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18255",
+              "name": "X-Calibre (1995) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18256",
+              "name": "X-Calibre (1995) #4"
+            }
+          ],
+          "returned": 4
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3644/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 3643,
+        "title": "X-Man (1995 - 2000)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3643",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/3643/x-man_1995_-_2000?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 1995,
+        "endYear": 2000,
+        "rating": "",
+        "type": "",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb7bc51b8966",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 67,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3643/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5979",
+              "name": "Caesar",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2386",
+              "name": "Harry Candelario",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5960",
+              "name": "Mario Capaldi",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5978",
+              "name": "Chriscross",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5983",
+              "name": "Skroce",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4627",
+              "name": "Roberto Aguirre-Sacasa",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5989",
+              "name": "Haynes Austin",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+              "name": "Mark Bagley",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+              "name": "Jim Cheung",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5977",
+              "name": "Chris Cross",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+              "name": "Roger Cruz",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/354",
+              "name": "Tony Daniel",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/255",
+              "name": "Guy Davis",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3626",
+              "name": "Pat Brosseau",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1950",
+              "name": "Joe Andreani",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1935",
+              "name": "Paul Becton",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2974",
+              "name": "Digital Chameleon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1945",
+              "name": "Mark Bernardo",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "writer"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3643/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009150",
+              "name": "Agent Zero"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009214",
+              "name": "Cable"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+              "name": "Deadpool"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011285",
+              "name": "Generation X"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009483",
+              "name": "Onslaught"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010360",
+              "name": "Thunderbolts"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009725",
+              "name": "X-Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 10
+        },
+        "stories": {
+          "available": 226,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3643/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38648",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38649",
+              "name": "Breeding Ground",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38650",
+              "name": "Maverick",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38651",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38652",
+              "name": "Breaking Away",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38653",
+              "name": "X-Facts",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38654",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38655",
+              "name": "Confrontation",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38656",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38657",
+              "name": "The X-Cutioner's Song",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38658",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38659",
+              "name": "Trust",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38660",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38661",
+              "name": "The Hunted Below",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38662",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38663",
+              "name": "Fallen From Grace",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38664",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38665",
+              "name": "Turning Point",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38666",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38667",
+              "name": "Survivors of the Storm",
+              "type": ""
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 76,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3643/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18176",
+              "name": "X-Man (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18177",
+              "name": "X-Man (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18188",
+              "name": "X-Man (1995) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18199",
+              "name": "X-Man (1995) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18210",
+              "name": "X-Man (1995) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18221",
+              "name": "X-Man (1995) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18232",
+              "name": "X-Man (1995) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18243",
+              "name": "X-Man (1995) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18250",
+              "name": "X-Man (1995) #8"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18251",
+              "name": "X-Man (1995) #9"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18178",
+              "name": "X-Man (1995) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18179",
+              "name": "X-Man (1995) #11"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18180",
+              "name": "X-Man (1995) #12"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18181",
+              "name": "X-Man (1995) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18182",
+              "name": "X-Man (1995) #14"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18183",
+              "name": "X-Man (1995) #15"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18184",
+              "name": "X-Man (1995) #16"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18185",
+              "name": "X-Man (1995) #17"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18186",
+              "name": "X-Man (1995) #18"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18187",
+              "name": "X-Man (1995) #19"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3643/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+              "name": "Onslaught"
+            }
+          ],
+          "returned": 2
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 3642,
+        "title": "X-Man Annual (1996 - 1997)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3642",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/3642/x-man_annual_1996_-_1997?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 1996,
+        "endYear": 1997,
+        "rating": "",
+        "type": "",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bb7bde95136e",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 16,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3642/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3603",
+              "name": "Albert Deschesne",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1950",
+              "name": "Joe Andreani",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5953",
+              "name": "Malibu Enhancement",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2654",
+              "name": "Tom Vincent",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4591",
+              "name": "Ramon Bernado",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5957",
+              "name": "Ramon Bernando",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+              "name": "Alan Davis",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/440",
+              "name": "Mark Farmer",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5954",
+              "name": "Rachel Pinnock",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5956",
+              "name": "Christopher Golden",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1162",
+              "name": "Terry Kavanagh",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "writer"
+            }
+          ],
+          "returned": 16
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3642/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009509",
+              "name": "Madelyne Pryor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009725",
+              "name": "X-Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3642/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38640",
+              "name": "Return to Apocalypse",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38641",
+              "name": "Sins of the Father",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38642",
+              "name": "Mind Games",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38643",
+              "name": "Bonus X-Man Pinup",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38644",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38645",
+              "name": "Common Ground",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38646",
+              "name": "Previously in X-Man",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38647",
+              "name": "Bonus  Pinup",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67757",
+              "name": "X-Man Annual 1 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 9
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3642/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18174",
+              "name": "X-Man Annual (1996) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18175",
+              "name": "X-Man Annual (1996) #1"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3642/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 3640,
+        "title": "X-Men Chronicles (1995)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3640",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/3640/x-men_chronicles_1995?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 1995,
+        "endYear": 1995,
+        "rating": "",
+        "type": "",
+        "modified": "2013-07-17T17:36:47-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/70/51e70e0310fb3",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 26,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3640/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1288",
+              "name": "Jerry Bingham",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+              "name": "Ian Churchill",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/354",
+              "name": "Tony Daniel",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2695",
+              "name": "Armando Gil",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7231",
+              "name": "Michael Golden",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/483",
+              "name": "Tom Grummett",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/339",
+              "name": "Bryan Hitch",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/56",
+              "name": "Jae Lee",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/101",
+              "name": "Carlos Pacheco",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/972",
+              "name": "Kevin Conrad",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/570",
+              "name": "Klaus Janson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8125",
+              "name": "Bob McLeod",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/262",
+              "name": "Paul Neary",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/844",
+              "name": "James Pascoe",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1224",
+              "name": "Marie Javins",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1286",
+              "name": "Howard Mackie",
+              "role": "writer"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 29,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3640/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+              "name": "Apocalypse"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+              "name": "Banshee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009197",
+              "name": "Blink"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009269",
+              "name": "Death"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009295",
+              "name": "Exodus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009349",
+              "name": "Holocaust (Age of Apocalypse)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009381",
+              "name": "Jubilee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+              "name": "Magneto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009447",
+              "name": "Mister Sinister"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009456",
+              "name": "Morph"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009465",
+              "name": "Mystique"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+              "name": "Quicksilver"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009554",
+              "name": "Sabretooth"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 17,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3640/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38623",
+              "name": "Cover #38623",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38624",
+              "name": "Origins",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38625",
+              "name": "Beast",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38626",
+              "name": "Magneto / Rogue",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38627",
+              "name": "Weapon-X",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38628",
+              "name": "Factor-X",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38629",
+              "name": "X-Men",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38630",
+              "name": "X-Ternals",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38631",
+              "name": "Generation Next",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38632",
+              "name": "Angel",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38633",
+              "name": "Cover #38633",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38634",
+              "name": "Shattered Dreams",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38635",
+              "name": "Holocaust",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38636",
+              "name": "The Rescue of Chamber",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38637",
+              "name": "The Transformation of Nemesis to Holocaust",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38638",
+              "name": "The Funeral of Scarlet Witch",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38639",
+              "name": "The Salvation of Exodus",
+              "type": "pinup"
+            }
+          ],
+          "returned": 17
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3640/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18172",
+              "name": "X-Men Chronicles (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18173",
+              "name": "X-Men Chronicles (1995) #2"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3640/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 2104,
+        "title": "X-Men: Alpha (1994)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2104",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/2104/x-men_alpha_1994?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 1994,
+        "endYear": 1994,
+        "rating": "",
+        "type": "",
+        "modified": "2013-07-17T17:01:28-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/51e705f412d45",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 12,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2104/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+              "name": "Steve Buccellato",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4101",
+              "name": "Electric Crayon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+              "name": "Roger Cruz",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+              "name": "Steve Epting",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom DeFalco",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3637",
+              "name": "Scott Lobdell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+              "name": "Mark Waid",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1222",
+              "name": "Joe Madureira",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/427",
+              "name": "Tim Townsend",
+              "role": "inker"
+            }
+          ],
+          "returned": 12
+        },
+        "characters": {
+          "available": 27,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2104/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009149",
+              "name": "Abyss"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+              "name": "Apocalypse"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+              "name": "Bishop"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009197",
+              "name": "Blink"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009199",
+              "name": "Blob"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009349",
+              "name": "Holocaust (Age of Apocalypse)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009381",
+              "name": "Jubilee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+              "name": "Magneto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009447",
+              "name": "Mister Sinister"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009456",
+              "name": "Morph"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+              "name": "Quicksilver"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2104/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26280",
+              "name": "Cover #26280",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26281",
+              "name": "A Beginning",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2104/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12386",
+              "name": "X-Men: Alpha (1994) #1"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2104/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 2101,
+        "title": "X-Men: Omega (1995)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2101",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/2101/x-men_omega_1995?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 1995,
+        "endYear": 1995,
+        "rating": "",
+        "type": "",
+        "modified": "2013-07-17T16:52:29-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/51e703d400d86",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2101/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+              "name": "Steve Buccellato",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4101",
+              "name": "Electric Crayon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+              "name": "Roger Cruz",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/570",
+              "name": "Klaus Janson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3637",
+              "name": "Scott Lobdell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+              "name": "Mark Waid",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+              "name": "John Romita JR.",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 10
+        },
+        "characters": {
+          "available": 29,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2101/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+              "name": "Apocalypse"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+              "name": "Bishop"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009197",
+              "name": "Blink"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009271",
+              "name": "Destiny"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009349",
+              "name": "Holocaust (Age of Apocalypse)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009381",
+              "name": "Jubilee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009508",
+              "name": "Kitty Pryde"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009399",
+              "name": "Legion"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009415",
+              "name": "Magik (Illyana Rasputin)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+              "name": "Magneto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010944",
+              "name": "Magneto (Age of Apocalypse)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009456",
+              "name": "Morph"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2101/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/24492",
+              "name": "Interior #24492",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/24493",
+              "name": "Endings",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67135",
+              "name": "X-MEN: OMEGA 1 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2101/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12370",
+              "name": "X-Men: Omega (1995) #1"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2101/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 1452,
+        "title": "X-Men: The Complete Age of Apocalypse Epic Book 1 (2005)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1452",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/1452/x-men_the_complete_age_of_apocalypse_epic_book_1_2005?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 2005,
+        "endYear": 2005,
+        "rating": "MARVEL PSR",
+        "type": "collection",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4bc648351a495",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 66,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1452/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3603",
+              "name": "Albert Deschesne",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5859",
+              "name": "Kolja Fuchs",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1950",
+              "name": "Joe Andreani",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2974",
+              "name": "Digital Chameleon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4394",
+              "name": "Liquid Color",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5953",
+              "name": "Malibu Enhancement",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+              "name": "Chris Bachalo",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/354",
+              "name": "Tony Daniel",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+              "name": "Steve Epting",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+              "name": "Joe Bennett",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1288",
+              "name": "Jerry Bingham",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+              "name": "Ian Churchill",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/972",
+              "name": "Kevin Conrad",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/440",
+              "name": "Mark Farmer",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+              "name": "Alan Davis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/676",
+              "name": "Warren Ellis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4055",
+              "name": "Pete Franco",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 31,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1452/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+              "name": "Apocalypse"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+              "name": "Banshee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009197",
+              "name": "Blink"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009269",
+              "name": "Death"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009295",
+              "name": "Exodus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009349",
+              "name": "Holocaust (Age of Apocalypse)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009381",
+              "name": "Jubilee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009509",
+              "name": "Madelyne Pryor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+              "name": "Magneto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009447",
+              "name": "Mister Sinister"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009456",
+              "name": "Morph"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009465",
+              "name": "Mystique"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+              "name": "Quicksilver"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 29,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1452/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/6850",
+              "name": "X-Men Chronicles 1-2; Tales from the AOA: By the Light",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37987",
+              "name": "Blink",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37989",
+              "name": "Through the Looking Glass",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37991",
+              "name": "On the Side of Angels",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37993",
+              "name": "Full Recall",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38624",
+              "name": "Origins",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38625",
+              "name": "Beast",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38626",
+              "name": "Magneto / Rogue",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38627",
+              "name": "Weapon-X",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38628",
+              "name": "Factor-X",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38629",
+              "name": "X-Men",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38630",
+              "name": "X-Ternals",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38631",
+              "name": "Generation Next",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38632",
+              "name": "Angel",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38634",
+              "name": "Shattered Dreams",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38635",
+              "name": "Holocaust",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38636",
+              "name": "The Rescue of Chamber",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38637",
+              "name": "The Transformation of Nemesis to Holocaust",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38638",
+              "name": "The Funeral of Scarlet Witch",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38639",
+              "name": "The Salvation of Exodus",
+              "type": "pinup"
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1452/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1780",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1452/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 1583,
+        "title": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/1583/x-men_the_complete_age_of_apocalypse_epic_book_2_2005?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 2005,
+        "endYear": 2005,
+        "rating": "T+",
+        "type": "collection",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bc61dec7755f",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 53,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1583/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+              "name": "Chris Bachalo",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+              "name": "Ian Churchill",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/354",
+              "name": "Tony Daniel",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+              "name": "Steve Epting",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5991",
+              "name": "Toinay",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+              "name": "Terry Austin",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/71",
+              "name": "Mark Buckingham",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/972",
+              "name": "Kevin Conrad",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3626",
+              "name": "Pat Brosseau",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+              "name": "Steve Buccellato",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2974",
+              "name": "Digital Chameleon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4101",
+              "name": "Electric Crayon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom DeFalco",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2099",
+              "name": "Suzanne Gaffney",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+              "name": "Roger Cruz",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/676",
+              "name": "Warren Ellis",
+              "role": "writer"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 32,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1583/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009149",
+              "name": "Abyss"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+              "name": "Apocalypse"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009163",
+              "name": "Aurora"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+              "name": "Bishop"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009197",
+              "name": "Blink"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009199",
+              "name": "Blob"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009349",
+              "name": "Holocaust (Age of Apocalypse)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009381",
+              "name": "Jubilee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+              "name": "Magneto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009447",
+              "name": "Mister Sinister"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009456",
+              "name": "Morph"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009476",
+              "name": "Northstar"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 56,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1583/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26280",
+              "name": "Cover #26280",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26281",
+              "name": "A Beginning",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32818",
+              "name": "Cover #32818",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32819",
+              "name": "Some of Us Looking to the Stars",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32820",
+              "name": "X-Facts: The Dream is Over",
+              "type": "text article"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32821",
+              "name": "Cover #32821",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32822",
+              "name": "Where No External Has Gone Before",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32823",
+              "name": "X-Facts: Reality Checked",
+              "type": "text article"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37492",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37493",
+              "name": "[opening]",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37494",
+              "name": "Magneto and Rogue",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37495",
+              "name": "X-Man",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37496",
+              "name": "Cyclops",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37497",
+              "name": "Havok",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37498",
+              "name": "Mr. Sinister",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37499",
+              "name": "Storm",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37500",
+              "name": "Quicksilver",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37501",
+              "name": "Northstar and Aurora",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37502",
+              "name": "Beast",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37503",
+              "name": "The Four Horsemen",
+              "type": ""
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1583/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1583/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 1684,
+        "title": "X-Men: The Complete Age of Apocalypse Epic Book 3 (2006)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1684",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/1684/x-men_the_complete_age_of_apocalypse_epic_book_3_2006?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 2006,
+        "endYear": 2006,
+        "rating": "RATED T+",
+        "type": "collection",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc5f08a460f6",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 42,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1684/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3626",
+              "name": "Pat Brosseau",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5898",
+              "name": "Derek",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+              "name": "Steve Buccellato",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2974",
+              "name": "Digital Chameleon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4101",
+              "name": "Electric Crayon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1224",
+              "name": "Marie Javins",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/937",
+              "name": "Renato Arlem",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+              "name": "Chris Bachalo",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+              "name": "Roger Cruz",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+              "name": "Steve Epting",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/71",
+              "name": "Mark Buckingham",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1326",
+              "name": "Dan Green",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2099",
+              "name": "Suzanne Gaffney",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/676",
+              "name": "Warren Ellis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/42",
+              "name": "Larry Hama",
+              "role": "writer"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1684/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009217",
+              "name": "Callisto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+              "name": "Deadpool"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009271",
+              "name": "Destiny"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009382",
+              "name": "Juggernaut"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009465",
+              "name": "Mystique"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009724",
+              "name": "X-Force"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 9
+        },
+        "stories": {
+          "available": 33,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1684/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/7272",
+              "name": "X-Calibre 2-3, Astonishing X-Men 2-4, Generation Next 2-3, X-Man 2-3, Factor X 3, Amazing X-Men 3, Gambit & The X-Ternals 3, X-U",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/7273",
+              "name": "X-Calibre 2-3, Astonishing X-Men 2-4, Generation Next 2-3, X-Man 2-3, Factor X 3, Amazing X-Men 3, Gambit & The X-Ternals 3, X-U",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32825",
+              "name": "To the Limits of Infinity",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32826",
+              "name": "X-Facts: Where Have All The Heroes Gone?",
+              "type": "text article"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37631",
+              "name": "Parents of the Atom",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37632",
+              "name": "X-Facts: Where have all the Heroes gone?",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37637",
+              "name": "Once More With Feeling",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37638",
+              "name": "X-Facts: The Dream is Over",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37640",
+              "name": "Sacrificial Lambs",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37641",
+              "name": "X-Facts: Reality Checked",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37643",
+              "name": "In Excess",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37644",
+              "name": "X-Facts: Where have all the heroes gone?",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37645",
+              "name": "Holocaust",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37647",
+              "name": "X-Facts: Final Reflections - It's the begining of the end for the universe",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38452",
+              "name": "Interior #38452",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38453",
+              "name": "The Common Right of Toads and  Men",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38454",
+              "name": "X-Facts: Where Have All The Heroes Gone?",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38616",
+              "name": "Last Stand",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38617",
+              "name": "Human High Council File A: Membership Roster",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38618",
+              "name": "Human High Council File B: Tactical Map",
+              "type": ""
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1684/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4090",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 3 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1684/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 1685,
+        "title": "X-Men: The Complete Age of Apocalypse Epic Book 4 (2006)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1685",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/1685/x-men_the_complete_age_of_apocalypse_epic_book_4_2006?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 2006,
+        "endYear": 2006,
+        "rating": "RATED T+",
+        "type": "collection",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bc5be45d23d0",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 48,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1685/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+              "name": "Chris Bachalo",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5948",
+              "name": "Mike Dringenberg",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+              "name": "Steve Epting",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3626",
+              "name": "Pat Brosseau",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+              "name": "Steve Buccellato",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2974",
+              "name": "Digital Chameleon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4101",
+              "name": "Electric Crayon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/71",
+              "name": "Mark Buckingham",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1326",
+              "name": "Dan Green",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5268",
+              "name": "Jim Calafiore",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+              "name": "Roger Cruz",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/308",
+              "name": "Gary Frank",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2099",
+              "name": "Suzanne Gaffney",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/676",
+              "name": "Warren Ellis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/42",
+              "name": "Larry Hama",
+              "role": "writer"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 47,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1685/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+              "name": "Apocalypse"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009158",
+              "name": "Arcade"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009596",
+              "name": "Banshee (Theresa Rourke)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+              "name": "Bishop"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009197",
+              "name": "Blink"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009205",
+              "name": "Boomer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009214",
+              "name": "Cable"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009219",
+              "name": "Cannonball"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009271",
+              "name": "Destiny"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009277",
+              "name": "Domino"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009292",
+              "name": "Emplate"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009295",
+              "name": "Exodus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009309",
+              "name": "Forge"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009349",
+              "name": "Holocaust (Age of Apocalypse)"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 18,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1685/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/24492",
+              "name": "Interior #24492",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/24493",
+              "name": "Endings",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/24495",
+              "name": "Racing the Night",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32828",
+              "name": "The Maze",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32829",
+              "name": "X-Facts: Final Reflections",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37634",
+              "name": "On Concencrated Ground",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37635",
+              "name": "X-Facts: Final Reflections - It's the begining of the end for the universe",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38456",
+              "name": "Into the Maelstrom!",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38457",
+              "name": "X-Facts: Final Reflections",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38621",
+              "name": "Dying Breath",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38622",
+              "name": "Human Data File",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38747",
+              "name": "X-Facts: Final Reflections",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38823",
+              "name": "On Fire",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42928",
+              "name": "Bye",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42929",
+              "name": "X-Facts: Final Reflections",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42944",
+              "name": "Reckonings",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42945",
+              "name": "X-Facts: Final Reflections - It's the Begining of the End of the Universe",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/66002",
+              "name": "X-MEN: THE COMPLETE AGE OF APOCALYPSE EPIC BOOK 4 0 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 18
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1685/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5369",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 4 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/1685/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      }
+    ]
+  }
+}

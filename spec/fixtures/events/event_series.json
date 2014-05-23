@@ -1,0 +1,2243 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2014 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2014 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2014 MARVEL</a>",
+  "etag": "c8522dcdd9742d2ae6af173e09d66f57bcab745d",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 193,
+    "count": 20,
+    "results": [
+      {
+        "id": 6850,
+        "title": "X-Men Chronicles 1-2; Tales from the AOA: By the Light",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6850",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 13,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/6850/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+              "name": "Chris Bachalo",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/354",
+              "name": "Tony Daniel",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+              "name": "Steve Epting",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+              "name": "Adam Kubert",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/175",
+              "name": "Andy Kubert",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1222",
+              "name": "Joe Madureira",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/676",
+              "name": "Warren Ellis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/42",
+              "name": "Larry Hama",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1221",
+              "name": "John Francis Moore",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+              "name": "Fabian Nicieza",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+              "name": "Joe Quesada",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+              "name": "Mark Waid",
+              "role": "writer"
+            }
+          ],
+          "returned": 13
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/6850/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/6850/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1452",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 1 (2005)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/6850/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1780",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/6850/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1780",
+          "name": "X-Men: The Complete Age of Apocalypse Epic Book 1 (Trade Paperback)"
+        }
+      },
+      {
+        "id": 7272,
+        "title": "X-Calibre 2-3, Astonishing X-Men 2-4, Generation Next 2-3, X-Man 2-3, Factor X 3, Amazing X-Men 3, Gambit & The X-Ternals 3, X-U",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7272",
+        "type": "cover",
+        "modified": "2013-07-10T12:20:47-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/7272/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+              "name": "John Romita JR.",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/7272/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/7272/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1684",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 3 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/7272/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4090",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 3 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/7272/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4090",
+          "name": "X-Men: The Complete Age of Apocalypse Epic Book 3 (Trade Paperback)"
+        }
+      },
+      {
+        "id": 7273,
+        "title": "X-Calibre 2-3, Astonishing X-Men 2-4, Generation Next 2-3, X-Man 2-3, Factor X 3, Amazing X-Men 3, Gambit & The X-Ternals 3, X-U",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7273",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/7273/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/7273/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/7273/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1684",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 3 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/7273/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4090",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 3 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/7273/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4090",
+          "name": "X-Men: The Complete Age of Apocalypse Epic Book 3 (Trade Paperback)"
+        }
+      },
+      {
+        "id": 24492,
+        "title": "Interior #24492",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24492",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/24492/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/570",
+              "name": "Klaus Janson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+              "name": "John Romita JR.",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 14,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/24492/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+              "name": "Apocalypse"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+              "name": "Bishop"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009197",
+              "name": "Blink"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009271",
+              "name": "Destiny"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009415",
+              "name": "Magik (Illyana Rasputin)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+              "name": "Magneto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009456",
+              "name": "Morph"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+              "name": "Quicksilver"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009554",
+              "name": "Sabretooth"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009715",
+              "name": "Wild Child"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 14
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/24492/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2101",
+              "name": "X-Men: Omega (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1685",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 4 (2006)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/24492/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12370",
+              "name": "X-Men: Omega (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5369",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 4 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/24492/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/12370",
+          "name": "X-Men: Omega (1995) #1"
+        }
+      },
+      {
+        "id": 24493,
+        "title": "Endings",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24493",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/24493/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+              "name": "Steve Buccellato",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4101",
+              "name": "Electric Crayon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+              "name": "Roger Cruz",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3637",
+              "name": "Scott Lobdell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+              "name": "Mark Waid",
+              "role": "writer"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 26,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/24493/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+              "name": "Apocalypse"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+              "name": "Bishop"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009197",
+              "name": "Blink"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009271",
+              "name": "Destiny"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009349",
+              "name": "Holocaust (Age of Apocalypse)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009381",
+              "name": "Jubilee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009508",
+              "name": "Kitty Pryde"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009399",
+              "name": "Legion"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009415",
+              "name": "Magik (Illyana Rasputin)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+              "name": "Magneto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009456",
+              "name": "Morph"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009504",
+              "name": "Professor X"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/24493/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2101",
+              "name": "X-Men: Omega (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1685",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 4 (2006)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/24493/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12370",
+              "name": "X-Men: Omega (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5369",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 4 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/24493/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/12370",
+          "name": "X-Men: Omega (1995) #1"
+        }
+      },
+      {
+        "id": 24495,
+        "title": "Racing the Night",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24495",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 15,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/24495/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+              "name": "Steve Buccellato",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4101",
+              "name": "Electric Crayon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5268",
+              "name": "Jim Calafiore",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/308",
+              "name": "Gary Frank",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4027",
+              "name": "Ben Herrera",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/339",
+              "name": "Bryan Hitch",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2321",
+              "name": "Jeff Matsuda",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9137",
+              "name": "Mike McKone",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/559",
+              "name": "Paul Pelletier",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4102",
+              "name": "Bob Harris",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+              "name": "Fabian Nicieza",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+              "name": "Joe Quesada",
+              "role": "writer"
+            }
+          ],
+          "returned": 15
+        },
+        "characters": {
+          "available": 35,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/24495/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009158",
+              "name": "Arcade"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009596",
+              "name": "Banshee (Theresa Rourke)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+              "name": "Bishop"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009205",
+              "name": "Boomer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009214",
+              "name": "Cable"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009219",
+              "name": "Cannonball"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009277",
+              "name": "Domino"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009292",
+              "name": "Emplate"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009295",
+              "name": "Exodus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009309",
+              "name": "Forge"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009349",
+              "name": "Holocaust (Age of Apocalypse)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009357",
+              "name": "Husk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009381",
+              "name": "Jubilee"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/24495/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2102",
+              "name": "X-Men: Prime (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1685",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 4 (2006)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/24495/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12371",
+              "name": "X-Men: Prime (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5369",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 4 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/24495/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/12371",
+          "name": "X-Men: Prime (1995) #1"
+        }
+      },
+      {
+        "id": 26280,
+        "title": "Cover #26280",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26280",
+        "type": "cover",
+        "modified": "2013-06-13T16:06:58-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/26280/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom DeFalco",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1222",
+              "name": "Joe Madureira",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/427",
+              "name": "Tim Townsend",
+              "role": "inker"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 14,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/26280/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+              "name": "Apocalypse"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+              "name": "Bishop"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009197",
+              "name": "Blink"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009381",
+              "name": "Jubilee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+              "name": "Magneto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+              "name": "Quicksilver"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009554",
+              "name": "Sabretooth"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009636",
+              "name": "Sunfire"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009715",
+              "name": "Wild Child"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            }
+          ],
+          "returned": 14
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/26280/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2104",
+              "name": "X-Men: Alpha (1994)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/26280/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12386",
+              "name": "X-Men: Alpha (1994) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/26280/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/12386",
+          "name": "X-Men: Alpha (1994) #1"
+        }
+      },
+      {
+        "id": 26281,
+        "title": "A Beginning",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26281",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/26281/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+              "name": "Steve Buccellato",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4101",
+              "name": "Electric Crayon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+              "name": "Roger Cruz",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+              "name": "Steve Epting",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3637",
+              "name": "Scott Lobdell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+              "name": "Mark Waid",
+              "role": "writer"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 24,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/26281/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009149",
+              "name": "Abyss"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+              "name": "Apocalypse"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+              "name": "Bishop"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009197",
+              "name": "Blink"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009199",
+              "name": "Blob"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009349",
+              "name": "Holocaust (Age of Apocalypse)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+              "name": "Magneto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009447",
+              "name": "Mister Sinister"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009456",
+              "name": "Morph"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+              "name": "Quicksilver"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009554",
+              "name": "Sabretooth"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+              "name": "Storm"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/26281/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2104",
+              "name": "X-Men: Alpha (1994)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/26281/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12386",
+              "name": "X-Men: Alpha (1994) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/26281/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/12386",
+          "name": "X-Men: Alpha (1994) #1"
+        }
+      },
+      {
+        "id": 32818,
+        "title": "Cover #32818",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32818",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32818/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/972",
+              "name": "Kevin Conrad",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/354",
+              "name": "Tony Daniel",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32818/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009724",
+              "name": "X-Force"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32818/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1635",
+              "name": "Decimation: Generation M (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2578",
+              "name": "Gambit and the X-Ternals (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32818/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4275",
+              "name": "Decimation: Generation M (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16077",
+              "name": "Gambit and the X-Ternals (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32818/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/16077",
+          "name": "Gambit and the X-Ternals (1995) #1"
+        }
+      },
+      {
+        "id": 32819,
+        "title": "Some of Us Looking to the Stars",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32819",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32819/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/972",
+              "name": "Kevin Conrad",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/354",
+              "name": "Tony Daniel",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1224",
+              "name": "Marie Javins",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+              "name": "Fabian Nicieza",
+              "role": "writer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32819/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009724",
+              "name": "X-Force"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32819/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1635",
+              "name": "Decimation: Generation M (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2578",
+              "name": "Gambit and the X-Ternals (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32819/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4275",
+              "name": "Decimation: Generation M (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16077",
+              "name": "Gambit and the X-Ternals (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32819/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/16077",
+          "name": "Gambit and the X-Ternals (1995) #1"
+        }
+      },
+      {
+        "id": 32820,
+        "title": "X-Facts: The Dream is Over",
+        "description": "Text piece about the Age of Apocolypse",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32820",
+        "type": "text article",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32820/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32820/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32820/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1635",
+              "name": "Decimation: Generation M (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2578",
+              "name": "Gambit and the X-Ternals (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32820/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4275",
+              "name": "Decimation: Generation M (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16077",
+              "name": "Gambit and the X-Ternals (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32820/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/16077",
+          "name": "Gambit and the X-Ternals (1995) #1"
+        }
+      },
+      {
+        "id": 32821,
+        "title": "Cover #32821",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32821",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32821/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/559",
+              "name": "Paul Pelletier",
+              "role": "penciler"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32821/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009724",
+              "name": "X-Force"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32821/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2578",
+              "name": "Gambit and the X-Ternals (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32821/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16078",
+              "name": "Gambit and the X-Ternals (1995) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32821/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/16078",
+          "name": "Gambit and the X-Ternals (1995) #2"
+        }
+      },
+      {
+        "id": 32822,
+        "title": "Where No External Has Gone Before",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32822",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32822/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2974",
+              "name": "Digital Chameleon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1224",
+              "name": "Marie Javins",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/354",
+              "name": "Tony Daniel",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+              "name": "Fabian Nicieza",
+              "role": "writer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32822/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009724",
+              "name": "X-Force"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32822/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2578",
+              "name": "Gambit and the X-Ternals (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32822/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16078",
+              "name": "Gambit and the X-Ternals (1995) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32822/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/16078",
+          "name": "Gambit and the X-Ternals (1995) #2"
+        }
+      },
+      {
+        "id": 32823,
+        "title": "X-Facts: Reality Checked",
+        "description": "Text piece about the Age of Apocolypse",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32823",
+        "type": "text article",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32823/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32823/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32823/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2578",
+              "name": "Gambit and the X-Ternals (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32823/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16078",
+              "name": "Gambit and the X-Ternals (1995) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32823/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/16078",
+          "name": "Gambit and the X-Ternals (1995) #2"
+        }
+      },
+      {
+        "id": 32824,
+        "title": "Cover #32824",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32824",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32824/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32824/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009724",
+              "name": "X-Force"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32824/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2578",
+              "name": "Gambit and the X-Ternals (1995)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32824/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16079",
+              "name": "Gambit and the X-Ternals (1995) #3"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32824/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/16079",
+          "name": "Gambit and the X-Ternals (1995) #3"
+        }
+      },
+      {
+        "id": 32825,
+        "title": "To the Limits of Infinity",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32825",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32825/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4101",
+              "name": "Electric Crayon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1224",
+              "name": "Marie Javins",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2086",
+              "name": "Joe Rosas",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5073",
+              "name": "Mike Thomas",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3578",
+              "name": "Matt Webb",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+              "name": "Fabian Nicieza",
+              "role": "writer"
+            }
+          ],
+          "returned": 10
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32825/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009724",
+              "name": "X-Force"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32825/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2578",
+              "name": "Gambit and the X-Ternals (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1684",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 3 (2006)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32825/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16079",
+              "name": "Gambit and the X-Ternals (1995) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4090",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 3 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32825/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/16079",
+          "name": "Gambit and the X-Ternals (1995) #3"
+        }
+      },
+      {
+        "id": 32826,
+        "title": "X-Facts: Where Have All The Heroes Gone?",
+        "description": "Text piece about X-Universe",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32826",
+        "type": "text article",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32826/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32826/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32826/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2578",
+              "name": "Gambit and the X-Ternals (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1684",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 3 (2006)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32826/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16079",
+              "name": "Gambit and the X-Ternals (1995) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4090",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 3 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32826/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/16079",
+          "name": "Gambit and the X-Ternals (1995) #3"
+        }
+      },
+      {
+        "id": 32827,
+        "title": "Cover #32827",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32827",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32827/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32827/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009724",
+              "name": "X-Force"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32827/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2578",
+              "name": "Gambit and the X-Ternals (1995)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32827/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16080",
+              "name": "Gambit and the X-Ternals (1995) #4"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32827/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/16080",
+          "name": "Gambit and the X-Ternals (1995) #4"
+        }
+      },
+      {
+        "id": 32828,
+        "title": "The Maze",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32828",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32828/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1224",
+              "name": "Marie Javins",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+              "name": "Fabian Nicieza",
+              "role": "writer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32828/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009724",
+              "name": "X-Force"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32828/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2578",
+              "name": "Gambit and the X-Ternals (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1685",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 4 (2006)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32828/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16080",
+              "name": "Gambit and the X-Ternals (1995) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5369",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 4 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32828/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/16080",
+          "name": "Gambit and the X-Ternals (1995) #4"
+        }
+      },
+      {
+        "id": 32829,
+        "title": "X-Facts: Final Reflections",
+        "description": "Text piece about the Age of Apocolypse",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32829",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32829/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32829/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32829/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2578",
+              "name": "Gambit and the X-Ternals (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1685",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 4 (2006)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32829/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16080",
+              "name": "Gambit and the X-Ternals (1995) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5369",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 4 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32829/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/16080",
+          "name": "Gambit and the X-Ternals (1995) #4"
+        }
+      }
+    ]
+  }
+}
