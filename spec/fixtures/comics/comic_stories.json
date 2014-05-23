@@ -1,0 +1,1985 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2014 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2014 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2014 MARVEL</a>",
+  "etag": "7a78d466a2acdbd9678ef169d010b49c4b863159",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 23,
+    "count": 20,
+    "results": [
+      {
+        "id": 37492,
+        "title": "",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37492",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37492/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+              "name": "Ian Churchill",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+              "name": "Scott Hanna",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37492/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37492/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37492/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37492/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37493,
+        "title": "[opening]",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37493",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37493/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+              "name": "Ian Churchill",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+              "name": "Scott Hanna",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37493/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37493/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37493/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37493/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37494,
+        "title": "Magneto and Rogue",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37494",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37494/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5757",
+              "name": "Sergio Melia",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37494/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37494/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37494/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37494/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37495,
+        "title": "X-Man",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37495",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37495/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2030",
+              "name": "Bob Wiacek",
+              "role": "inker"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37495/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009725",
+              "name": "X-Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37495/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37495/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37495/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37496,
+        "title": "Cyclops",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37496",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37496/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5757",
+              "name": "Sergio Melia",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37496/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37496/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37496/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37496/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37497,
+        "title": "Havok",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37497",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37497/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+              "name": "Ian Churchill",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/438",
+              "name": "Karl Kesel",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37497/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37497/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37497/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37497/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37498,
+        "title": "Mr. Sinister",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37498",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37498/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+              "name": "Ian Churchill",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/438",
+              "name": "Karl Kesel",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37498/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009447",
+              "name": "Mister Sinister"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37498/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37498/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37498/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37499,
+        "title": "Storm",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37499",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37499/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5757",
+              "name": "Sergio Melia",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37499/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+              "name": "Storm"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37499/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37499/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37499/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37500,
+        "title": "Quicksilver",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37500",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37500/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+              "name": "Terry Austin",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+              "name": "Ian Churchill",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37500/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+              "name": "Quicksilver"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37500/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37500/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37500/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37501,
+        "title": "Northstar and Aurora",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37501",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37501/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+              "name": "Ian Churchill",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/844",
+              "name": "James Pascoe",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37501/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009163",
+              "name": "Aurora"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009476",
+              "name": "Northstar"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37501/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37501/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37501/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37502,
+        "title": "Beast",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37502",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37502/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+              "name": "Terry Austin",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+              "name": "Ian Churchill",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37502/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37502/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37502/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37502/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37503,
+        "title": "The Four Horsemen",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37503",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37503/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4523",
+              "name": "Val Semeiks",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2030",
+              "name": "Bob Wiacek",
+              "role": "inker"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37503/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37503/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37503/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37503/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37504,
+        "title": "X-Calibre",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37504",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37504/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1163",
+              "name": "Tom Lyle",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1914",
+              "name": "Dan Panosian",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37504/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37504/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37504/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37504/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37505,
+        "title": "The Human High Council",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37505",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37505/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5757",
+              "name": "Sergio Melia",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37505/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37505/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37505/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37505/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37506,
+        "title": "Weapon X and Jean Grey",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37506",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37506/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+              "name": "Ian Churchill",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/844",
+              "name": "James Pascoe",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37506/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37506/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37506/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37506/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37507,
+        "title": "Gambit and the Externals",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37507",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37507/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+              "name": "Ian Churchill",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+              "name": "Scott Hanna",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37507/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37507/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37507/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37507/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37508,
+        "title": "Colossus",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37508",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37508/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5757",
+              "name": "Sergio Melia",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37508/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37508/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37508/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37508/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37509,
+        "title": "Angel",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37509",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37509/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5757",
+              "name": "Sergio Melia",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37509/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37509/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37509/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37509/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37510,
+        "title": "Sabretooth and Wildchild",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37510",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37510/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/19",
+              "name": "Tim Sale",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37510/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37510/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37510/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37510/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      },
+      {
+        "id": 37511,
+        "title": "Bishop",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37511",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37511/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+              "name": "Kelly Corvese",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+              "name": "Jaye Gardner",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/19",
+              "name": "Tim Sale",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5756",
+              "name": "Ashley Underwood",
+              "role": "colorist"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37511/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+              "name": "Bishop"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37511/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3614",
+              "name": "Age of Apocalypse: The Chosen (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1583",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37511/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+              "name": "Age of Apocalypse: The Chosen (1995) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2539",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/37511/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701",
+          "name": "Age of Apocalypse: The Chosen (1995) #1"
+        }
+      }
+    ]
+  }
+}
