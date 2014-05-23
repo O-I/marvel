@@ -15,6 +15,9 @@ doc
 # jeweler generated
 pkg
 
+# metric_fu generated
+tmp
+
 # for MacOS:
 .DS_Store
 
