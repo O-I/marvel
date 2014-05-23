@@ -54,7 +54,7 @@ describe Marvel::Client do
 
       it 'fetches a list of characters filtered by story id' do
         expect(client.story_characters(id).data.results.size).to eq 2
-        expect(client.story_characters(id).data.results.map(&:name).take(3))
+        expect(client.story_characters(id).data.results.map(&:name))
           .to eq ['Iron Man', 'Wolverine']
       end
 
@@ -75,7 +75,7 @@ describe Marvel::Client do
 
       it 'fetches a list of comics filtered by story id' do
         expect(client.story_comics(id).data.results.size).to eq 2
-        expect(client.story_comics(id).data.results.map(&:title).take(3))
+        expect(client.story_comics(id).data.results.map(&:title))
           .to eq ['House of M: World of M (Trade Paperback)',
                   'Wolverine (2003) #33']
       end
@@ -118,7 +118,7 @@ describe Marvel::Client do
 
       it 'fetches a list of events filtered by story id' do
         expect(client.story_events(id).data.results.size).to eq 1
-        expect(client.story_events(id).data.results.map(&:title).take(3))
+        expect(client.story_events(id).data.results.map(&:title))
           .to eq ['House of M']
       end
 
@@ -139,7 +139,7 @@ describe Marvel::Client do
 
       it 'fetches a list of series filtered by story id' do
         expect(client.story_series(id).data.results.size).to eq 2
-        expect(client.story_series(id).data.results.map(&:id).take(3))
+        expect(client.story_series(id).data.results.map(&:id))
           .to eq [1614, 632]
       end
 

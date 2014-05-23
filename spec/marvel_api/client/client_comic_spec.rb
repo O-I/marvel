@@ -98,7 +98,7 @@ describe Marvel::Client do
 
       it 'fetches a list of events filtered by comic id' do
         expect(client.comic_events(id).data.results.size).to eq 1
-        expect(client.comic_events(id).data.results.map(&:title).take(3))
+        expect(client.comic_events(id).data.results.map(&:title))
           .to eq ['Age of Apocalypse']
       end
 

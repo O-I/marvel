@@ -121,7 +121,7 @@ describe Marvel::Client do
 
       it 'fetches a list of events filtered by series id' do
         expect(client.series_events(id).data.results.size).to eq 2
-        expect(client.series_events(id).data.results.map(&:title).take(3))
+        expect(client.series_events(id).data.results.map(&:title))
           .to eq ['Avengers Disassembled', 'Maximum Security']
       end
 
