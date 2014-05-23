@@ -1,0 +1,1491 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2014 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2014 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2014 MARVEL</a>",
+  "etag": "6dbec8452a10bf9202fd98d5c8dd155be0f3a24a",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 7786,
+    "count": 20,
+    "results": [
+      {
+        "id": 29,
+        "title": "Caught in the heart of a nuclear explosion, mild-mannered scientist Bruce Banner finds himself ر during moments of extreme stres",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/29/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+              "name": "John Buscema",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/32",
+              "name": "Steve Ditko",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+              "name": "Gil Kane",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/29/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/29/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/28",
+              "name": "Essential Incredible Hulk Vol. I (2002)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/29/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/964",
+              "name": "Essential Incredible Hulk Vol. I (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/29/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/964",
+          "name": "Essential Incredible Hulk Vol. I (Trade Paperback)"
+        }
+      },
+      {
+        "id": 31,
+        "title": "Featuring the birth of an unlikely hero and the early adventures that paved the way for the mega-popular media icon that Spider-",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/31/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/32",
+              "name": "Steve Ditko",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/31/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/31/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/30",
+              "name": "Essential Spider-Man Vol. I (1999)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/31/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/967",
+              "name": "Essential Spider-Man Vol. I (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/31/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/967",
+          "name": "Essential Spider-Man Vol. I (Trade Paperback)"
+        }
+      },
+      {
+        "id": 32,
+        "title": "Spider-Man's earliest adventures continue with classic stories featuring the Vulture, Dr. Octopus, Mysterio and the Shocker.",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+              "name": "John Romita JR.",
+              "role": "penciller"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/31",
+              "name": "Essential Spider-Man Vol. III (1999)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/969",
+              "name": "Essential Spider-Man Vol. III (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/32/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/969",
+          "name": "Essential Spider-Man Vol. III (Trade Paperback)"
+        }
+      },
+      {
+        "id": 33,
+        "title": "In this volume, Peter faces some of his greatest challenges and his most harrowing foes such as Doc Ock and the Kingpin. Featuri",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/33/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+              "name": "John Buscema",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/389",
+              "name": "Jim Mooney",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+              "name": "John Romita JR.",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/33/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/33/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/32",
+              "name": "Essential Spider-Man Vol. IV (1999)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/33/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/970",
+              "name": "Essential Spider-Man Vol. IV (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/33/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/970",
+          "name": "Essential Spider-Man Vol. IV (Trade Paperback)"
+        }
+      },
+      {
+        "id": 34,
+        "title": "Spider-Man's earliest adventures continue with tales to surprise and delight. Appearances by Iceman, Morbius, the Prowler, Green",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/34/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+              "name": "Gil Kane",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+              "name": "John Romita JR.",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/34/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/34/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/33",
+              "name": "Essential Spider-Man Vol. V (1999)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/34/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/971",
+              "name": "Essential Spider-Man Vol. V (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/34/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/971",
+          "name": "Essential Spider-Man Vol. V (Trade Paperback)"
+        }
+      },
+      {
+        "id": 35,
+        "title": "Telepathic teacher Charles Xavier assembles his first recruits ر Cyclops, Angel, Iceman, Beast and Marvel Girl ر and trains them",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/35/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/956",
+              "name": "Werner Roth",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+              "name": "Roy Thomas",
+              "role": "writer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/35/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/35/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/34",
+              "name": "Essential Uncanny X-Men Vol. 1 (1999)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/35/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/972",
+              "name": "Essential Uncanny X-Men Vol. 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/35/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/972",
+          "name": "Essential Uncanny X-Men Vol. 1 (Trade Paperback)"
+        }
+      },
+      {
+        "id": 43,
+        "title": "Presenting the first adventures of Spider-Man, Wolverine, Daredevil, the Hulk, the Fantastic Four and other Marvel icons.",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/43",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/43/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/32",
+              "name": "Steve Ditko",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/43/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/43/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/42",
+              "name": "Fantastic Firsts Vol. I (1999)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/43/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/980",
+              "name": "Fantastic Firsts Vol. I (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/43/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/980",
+          "name": "Fantastic Firsts Vol. I (Trade Paperback)"
+        }
+      },
+      {
+        "id": 44,
+        "title": "One-eyed war-horse Nick Fury isn't quite ready to retire  ر and when it all hits the fan, S.H.I.E.L.D. realizes that there's onl",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/44/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/49",
+              "name": "Darick Robertson",
+              "role": "penciller"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/44/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/44/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/43",
+              "name": "Fury Vol. I (1999)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/44/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/981",
+              "name": "Fury Vol. I (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/44/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/981",
+          "name": "Fury Vol. I (Trade Paperback)"
+        }
+      },
+      {
+        "id": 58,
+        "title": "Nick Fury finds himself at odds with the covert company he's run for many years ر or thought he's run.",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/58",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/58/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+              "name": "John Buscema",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/61",
+              "name": "Jim Steranko",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+              "name": "Roy Thomas",
+              "role": "writer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/58/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/58/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/57",
+              "name": "Nick Fury: Agent of Sheild (1999)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/58/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/995",
+              "name": "Nick Fury: Agent of Sheild (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/58/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/995",
+          "name": "Nick Fury: Agent of Sheild (Trade Paperback)"
+        }
+      },
+      {
+        "id": 63,
+        "title": "Two unlucky cops draw the unenviable task of capturing the Punisher, while the ruthless Ma Gnucci and her gang will stop at noth",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/63/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/73",
+              "name": "Steve Dillon",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/63/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/63/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/62",
+              "name": "Punisher, the Vol. I: Welcome Back, Frank (2005)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/63/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1000",
+              "name": "Punisher, the Vol. I: Welcome Back, Frank (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/63/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1000",
+          "name": "Punisher, the Vol. I: Welcome Back, Frank (Trade Paperback)"
+        }
+      },
+      {
+        "id": 64,
+        "title": "Following a team-up with Spider-Man, the Punisher heads to the remote scrap of dirt known as Grand Nixon Island to take down an ",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/64/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/73",
+              "name": "Steve Dillon",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/64/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/64/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/63",
+              "name": "Punisher, the Vol. II: Army of One (1999)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/64/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1001",
+              "name": "Punisher, the Vol. II: Army of One (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/64/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1001",
+          "name": "Punisher, the Vol. II: Army of One (Trade Paperback)"
+        }
+      },
+      {
+        "id": 71,
+        "title": "In this shocking and moving story, the Green Goblin and Spider-Man face off atop the George Washington Bridge, with Gwen's life ",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/71/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+              "name": "Gerry Conway",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+              "name": "Gil Kane",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+              "name": "John Romita JR.",
+              "role": "penciller"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/71/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/71/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/70",
+              "name": "Spider-Man: The Death of Gwen Stacy (1999)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/71/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1008",
+              "name": "Spider-Man: The Death of Gwen Stacy (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/71/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1008",
+          "name": "Spider-Man: The Death of Gwen Stacy (Trade Paperback)"
+        }
+      },
+      {
+        "id": 72,
+        "title": "Tormented by his unstoppable alter ego, Bruce Banner has nowhere to hide. Having located the man-like monstrosity that is the Hu",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/72",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/72/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9",
+              "name": "Brian Azzarello",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10",
+              "name": "Richard Corben",
+              "role": "penciller"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/72/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/72/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/71",
+              "name": "Startling Stories: Banner (1999)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/72/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1009",
+              "name": "Startling Stories: Banner (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/72/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1009",
+          "name": "Startling Stories: Banner (Trade Paperback)"
+        }
+      },
+      {
+        "id": 107,
+        "title": "This collection gathers the team-ups and battles between Spider-Man and Superman, the Hulk and Batman, and the X-Men and the New",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/107/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/107/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/107/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/106",
+              "name": "Crossover Classics Vol. I: The Marvel/DC Collection (1999)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/107/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1046",
+              "name": "Crossover Classics Vol. I: The Marvel/DC Collection (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/107/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1046",
+          "name": "Crossover Classics Vol. I: The Marvel/DC Collection (Trade Paperback)"
+        }
+      },
+      {
+        "id": 108,
+        "title": "Featuring team-ups and battles between Hulk and Superman, Generation X and Gen 13, Team X and Team 7, Daredevil and Batman, and ",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/108/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/108/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/108/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/107",
+              "name": "Crossover Classics Vol. III (1999)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/108/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1047",
+              "name": "Crossover Classics Vol. III (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/108/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1047",
+          "name": "Crossover Classics Vol. III (Trade Paperback)"
+        }
+      },
+      {
+        "id": 115,
+        "title": "Re-presenting the formation of the Avengers, the revival of Captain America, enemies such as the Sub-Mariner, and Kang the Conqu",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/115/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/263",
+              "name": "Dick Ayers",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/305",
+              "name": "Don Heck",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2543",
+              "name": "Larry Ivie",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/945",
+              "name": "Larry Lieber",
+              "role": "writer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/115/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/115/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/114",
+              "name": "Essential Avengers Vol. I (1999)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/115/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1054",
+              "name": "Essential Avengers Vol. I (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/115/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1054",
+          "name": "Essential Avengers Vol. I (Trade Paperback)"
+        }
+      },
+      {
+        "id": 150,
+        "title": "Hope ر it's the one thing Proessor X offers to troubled mutants cast out from human society. But while they heal from their late",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/150",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/150/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+              "name": "Chuck Austen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/120",
+              "name": "Ron Garney",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/569",
+              "name": "Sean Phillips",
+              "role": "penciller"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/150/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/150/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/149",
+              "name": "Uncanny X-Men Vol. I: Hope (2003)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/150/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1089",
+              "name": "Uncanny X-Men Vol. I: Hope (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/150/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1089",
+          "name": "Uncanny X-Men Vol. I: Hope (Trade Paperback)"
+        }
+      },
+      {
+        "id": 186,
+        "title": "New Printing in time for the movie!\r\nCaught in the heart of a nuclear explosion, mild-mannered scientist Bruce Banner finds hims",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/186",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/186/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+              "name": "John Buscema",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/32",
+              "name": "Steve Ditko",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+              "name": "Gil Kane",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/186/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/186/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/168",
+              "name": "Essential Hulk Vol. 1 (3rd) (2003)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/186/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1108",
+              "name": "Essential Hulk Vol. 1 (3rd) (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/186/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1108",
+          "name": "Essential Hulk Vol. 1 (3rd) (Trade Paperback)"
+        }
+      },
+      {
+        "id": 188,
+        "title": "New Printing in time for the movie!\r\nThe second volume containing the Hulk’s early adventures with appearances by the Sub-Marine",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/188",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/188/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/198",
+              "name": "Marie Severin",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/199",
+              "name": "Herb Trimpe",
+              "role": "penciller"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/188/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/188/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/169",
+              "name": "Essential Hulk Vol. 2 (2rd) (2003)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/188/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1109",
+              "name": "Essential Hulk Vol. 2 (2rd) (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/188/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1109",
+          "name": "Essential Hulk Vol. 2 (2rd) (Trade Paperback)"
+        }
+      },
+      {
+        "id": 207,
+        "title": "This remastered edition collects the first-ever full reprinting of THE FANTASTIC FOUR (Vol. 1) #1-10, including never-before rep",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/207",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/207/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/207/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/207/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/180",
+              "name": "Marvel Masterworks: The Fantastic Four Vol. 1 (2003)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/207/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1120",
+              "name": "Marvel Masterworks: The Fantastic Four Vol. 1 (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/207/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1120",
+          "name": "Marvel Masterworks: The Fantastic Four Vol. 1 (Hardcover)"
+        }
+      }
+    ]
+  }
+}
