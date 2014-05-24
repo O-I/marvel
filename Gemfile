@@ -6,6 +6,7 @@ gem 'hashie'
 
 group :development do
   gem 'pry'
+  gem 'rspec'
   gem 'shoulda', '>= 0'
   gem 'rdoc', '~> 3.12'
   gem 'bundler', '~> 1.0'
