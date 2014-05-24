@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib"]
   s.authors = ["Rahul Hor\u{e9}"]
-  s.date = "2014-05-20"
+  s.date = "2014-05-24"
   s.description = "Marvel_API is a Ruby gem that lets you explore the Marvel Universe like never before."
   s.email = "hore.rahul@gmail.com"
   s.extra_rdoc_files = [
@@ -21,7 +21,9 @@ Gem::Specification.new do |s|
   s.files = [
     ".document",
     ".rspec",
+    ".travis.yml",
     "Gemfile",
+    "Guardfile",
     "LICENSE.txt",
     "README.md",
     "Rakefile",
@@ -32,12 +34,57 @@ Gem::Specification.new do |s|
     "lib/marvel/request.rb",
     "lib/marvel_api.rb",
     "marvel_api.gemspec",
-    "spec/marvel_api/client_spec.rb",
+    "spec/fixtures/characters/character.json",
+    "spec/fixtures/characters/character_comics.json",
+    "spec/fixtures/characters/character_events.json",
+    "spec/fixtures/characters/character_series.json",
+    "spec/fixtures/characters/character_stories.json",
+    "spec/fixtures/characters/characters.json",
+    "spec/fixtures/comics/comic.json",
+    "spec/fixtures/comics/comic_characters.json",
+    "spec/fixtures/comics/comic_creators.json",
+    "spec/fixtures/comics/comic_events.json",
+    "spec/fixtures/comics/comic_stories.json",
+    "spec/fixtures/comics/comics.json",
+    "spec/fixtures/creators/creator.json",
+    "spec/fixtures/creators/creator_comics.json",
+    "spec/fixtures/creators/creator_events.json",
+    "spec/fixtures/creators/creator_series.json",
+    "spec/fixtures/creators/creator_stories.json",
+    "spec/fixtures/creators/creators.json",
+    "spec/fixtures/events/event.json",
+    "spec/fixtures/events/event_characters.json",
+    "spec/fixtures/events/event_comics.json",
+    "spec/fixtures/events/event_creators.json",
+    "spec/fixtures/events/event_series.json",
+    "spec/fixtures/events/event_stories.json",
+    "spec/fixtures/events/events.json",
+    "spec/fixtures/series/serie.json",
+    "spec/fixtures/series/series.json",
+    "spec/fixtures/series/series_characters.json",
+    "spec/fixtures/series/series_comics.json",
+    "spec/fixtures/series/series_creators.json",
+    "spec/fixtures/series/series_events.json",
+    "spec/fixtures/series/series_stories.json",
+    "spec/fixtures/stories/stories.json",
+    "spec/fixtures/stories/story.json",
+    "spec/fixtures/stories/story_characters.json",
+    "spec/fixtures/stories/story_comics.json",
+    "spec/fixtures/stories/story_creators.json",
+    "spec/fixtures/stories/story_events.json",
+    "spec/fixtures/stories/story_series.json",
+    "spec/marvel_api/client/client_character_spec.rb",
+    "spec/marvel_api/client/client_comic_spec.rb",
+    "spec/marvel_api/client/client_creator_spec.rb",
+    "spec/marvel_api/client/client_event_spec.rb",
+    "spec/marvel_api/client/client_series_spec.rb",
+    "spec/marvel_api/client/client_story_spec.rb",
     "spec/marvel_api_spec.rb",
     "spec/spec_helper.rb"
   ]
   s.homepage = "http://github.com/O-I/marvel"
   s.licenses = ["MIT"]
+  s.required_ruby_version = Gem::Requirement.new(">= 1.9.3")
   s.rubygems_version = "2.2.2"
   s.summary = "Ruby bindings for the Marvel API"
 
@@ -54,7 +101,6 @@ Gem::Specification.new do |s|
       s.add_development_dependency(%q<rdoc>, ["~> 3.12"])
       s.add_development_dependency(%q<bundler>, ["~> 1.0"])
       s.add_development_dependency(%q<jeweler>, ["~> 1.8.7"])
-      s.add_development_dependency(%q<simplecov>, [">= 0"])
     else
       s.add_dependency(%q<faraday>, [">= 0"])
       s.add_dependency(%q<faraday_middleware>, [">= 0"])
@@ -65,7 +111,6 @@ Gem::Specification.new do |s|
       s.add_dependency(%q<rdoc>, ["~> 3.12"])
       s.add_dependency(%q<bundler>, ["~> 1.0"])
       s.add_dependency(%q<jeweler>, ["~> 1.8.7"])
-      s.add_dependency(%q<simplecov>, [">= 0"])
     end
   else
     s.add_dependency(%q<faraday>, [">= 0"])
@@ -77,6 +122,5 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<rdoc>, ["~> 3.12"])
     s.add_dependency(%q<bundler>, ["~> 1.0"])
     s.add_dependency(%q<jeweler>, ["~> 1.8.7"])
-    s.add_dependency(%q<simplecov>, [">= 0"])
   end
 end
