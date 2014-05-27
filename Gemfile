@@ -16,6 +16,7 @@ end
 group :test do
   gem 'rspec'
   gem 'webmock'
+  gem 'coveralls', require: false
   gem 'simplecov', require: false
   gem 'guard-rspec', require: false
 end
