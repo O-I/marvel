@@ -39,6 +39,7 @@ AUTH = '?ts=1&apikey=1234&hash=ffd275c5130566a2916217b101f26150'
 def stub_get(path, options = {})
   file = options.fetch(:returns)
   stub_request(:get, Marvel::Connection::BASE_API_URL + path + AUTH).
+    with(headers: Marvel::Connection::HEADERS).
     to_return(body: fixture(file))
 end
 
