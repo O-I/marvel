@@ -1,5 +1,6 @@
 # marvel_api
 [![Build Status](https://travis-ci.org/O-I/marvel.svg?branch=master)](https://travis-ci.org/O-I/marvel)
+[![Coverage Status](https://img.shields.io/coveralls/O-I/marvel.svg)](https://coveralls.io/r/O-I/marvel)
 
 Ruby bindings for the [Marvel API](http://developer.marvel.com/). Still under construction... Feel free to contribute! In the meantime, check out the [marvelite](https://github.com/antillas21/marvelite/) gem for something that's further along in development (and likely a lot stabler :-).
 
