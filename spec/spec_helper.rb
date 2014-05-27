@@ -47,12 +47,8 @@ end
 module Marvel
   module Request
     private
-    def auth
-      {
-        ts: '1',
-        apikey: api_key,
-        hash: hash('1')
-      }
+    def timestamp
+      '1'
     end
   end
 end
