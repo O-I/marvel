@@ -4,11 +4,16 @@ module Marvel
   module Connection
 
     BASE_API_URL = 'https://gateway.marvel.com/v1/public/'
+    HEADERS = {
+                accept: 'application/json',
+                user_agent: "marvel_api gem #{File.read('VERSION')}"
+              }
 
     private
 
     def connection
       options = {
+        headers: HEADERS,
         ssl: { verify: false },
         url: BASE_API_URL
       }
