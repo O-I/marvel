@@ -1,4 +1,10 @@
 require 'simplecov'
+require 'coveralls'
+
+SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter[
+  SimpleCov::Formatter::HTMLFormatter,
+  Coveralls::SimpleCov::Formatter
+]
 
 SimpleCov.start
 
@@ -17,7 +23,7 @@ RSpec.configure do |config|
   config.expect_with(:rspec) { |c| c.syntax = :expect }
 end
 
-WebMock.disable_net_connect!(allow_localhost: true)
+WebMock.disable_net_connect!(allow: 'coveralls.io')
 
 def marvel_test_client
   Marvel::Client.new.tap do |client|
