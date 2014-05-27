@@ -13,14 +13,12 @@ module Marvel
       response.body
     end
 
-    def auth
-      ts = timestamp
-      hsh = hash(ts)
-      { ts: ts, apikey: api_key, hash: hsh }
+    def auth(nonce = timestamp)
+      { ts: nonce, apikey: api_key, hash: hash(nonce) }
     end
 
-    def hash(ts)
-      Digest::MD5.hexdigest(ts + private_key + api_key)
+    def hash(nonce)
+      Digest::MD5.hexdigest(nonce + private_key + api_key)
     end
 
     def timestamp
