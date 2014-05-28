@@ -1,5 +1,9 @@
+require_relative 'response'
+
 module Marvel
   module Request
+    include Marvel::Response
+
     def get(path, options = {})
       request(:get, path, options)
     end
@@ -10,7 +14,7 @@ module Marvel
       response = connection.send(method) do |request|
         request.url(path, options.merge(auth))
       end
-      response.body
+      Marvel::Response.create(response.body)
     end
 
     def auth(nonce = timestamp)
