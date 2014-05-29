@@ -12,8 +12,8 @@ describe Marvel::Client do
       end
 
       it 'fetches a list of characters' do
-        expect(client.characters.data.results.size).to eq 20
-        expect(client.characters.data.results.map(&:name).take(3))
+        expect(client.characters.size).to eq 20
+        expect(client.characters.map(&:name).take(3))
           .to eq ['3-D Man', 'A-Bomb (HAS)', 'A.I.M.']
       end
 
@@ -21,8 +21,9 @@ describe Marvel::Client do
         expect(client.characters.status).to eq 'Ok'
       end
 
-      it 'returns a Hashie::Mash' do
-        expect(client.characters).to be_a Hashie::Mash
+      it 'returns an [ Hashie::Mash ]' do
+        expect(client.characters).to be_an Array
+        expect(client.characters.sample).to be_a Hashie::Mash
       end
     end
 
@@ -32,16 +33,17 @@ describe Marvel::Client do
       end
 
       it 'fetches a single character by id' do
-        expect(client.character(id).data.total).to eq 1
-        expect(client.character(id).data.results.pop.name).to eq 'Thanos'
+        expect(client.character(id).size).to eq 1
+        expect(client.character(id).pop.name).to eq 'Thanos'
       end
 
       it 'requests public/v1/characters/#{id} successfully' do
         expect(client.character(id).status).to eq 'Ok'
       end
 
-      it 'returns a Hashie::Mash' do
-        expect(client.character(id)).to be_a Hashie::Mash
+      it 'returns an [ Hashie::Mash ]' do
+        expect(client.character(id)).to be_an Array
+        expect(client.character(id).sample).to be_a Hashie::Mash
       end
     end
 
@@ -52,8 +54,8 @@ describe Marvel::Client do
       end
 
       it 'fetches a list of comics filtered by character id' do
-        expect(client.character_comics(id).data.results.size).to eq 20
-        expect(client.character_comics(id).data.results.map(&:title).take(3))
+        expect(client.character_comics(id).size).to eq 20
+        expect(client.character_comics(id).map(&:title).take(3))
           .to eq ['Thanos Annual (2014) #1',
                   'Thanos Rising (2013) #3',
                   'AVENGERS ASSEMBLE (2012) #3']
@@ -63,8 +65,9 @@ describe Marvel::Client do
         expect(client.character_comics(id).status).to eq 'Ok'
       end
 
-      it 'returns a Hashie::Mash' do
-        expect(client.character_comics(id)).to be_a Hashie::Mash
+      it 'returns an [ Hashie::Mash ]' do
+        expect(client.character_comics(id)).to be_an Array
+        expect(client.character_comics(id).sample).to be_a Hashie::Mash
       end
     end
 
@@ -75,8 +78,8 @@ describe Marvel::Client do
       end
 
       it 'fetches a list of events filtered by character id' do
-        expect(client.character_events(id).data.results.size).to eq 4
-        expect(client.character_events(id).data.results.map(&:title).take(3))
+        expect(client.character_events(id).size).to eq 4
+        expect(client.character_events(id).map(&:title).take(3))
           .to eq ['Blood and Thunder', 'Infinity Gauntlet', 'Infinity War']
       end
 
@@ -84,8 +87,9 @@ describe Marvel::Client do
         expect(client.character_events(id).status).to eq 'Ok'
       end
 
-      it 'returns a Hashie::Mash' do
-        expect(client.character_events(id)).to be_a Hashie::Mash
+      it 'returns an [ Hashie::Mash ]' do
+        expect(client.character_events(id)).to be_an Array
+        expect(client.character_events(id).sample).to be_a Hashie::Mash
       end
     end
 
@@ -96,8 +100,8 @@ describe Marvel::Client do
       end
 
       it 'fetches a list of series filtered by character id' do
-        expect(client.character_series(id).data.results.size).to eq 20
-        expect(client.character_series(id).data.results.map(&:title).take(3))
+        expect(client.character_series(id).size).to eq 20
+        expect(client.character_series(id).map(&:title).take(3))
           .to eq ['Alpha Flight (1983 - 1994)',
                   'Avengers & the Infinity Gauntlet (2011)',
                   'Avengers Annual (1967 - 1994)']
@@ -107,8 +111,9 @@ describe Marvel::Client do
         expect(client.character_series(id).status).to eq 'Ok'
       end
 
-      it 'returns a Hashie::Mash' do
-        expect(client.character_series(id)).to be_a Hashie::Mash
+      it 'returns an [ Hashie::Mash ]' do
+        expect(client.character_series(id)).to be_an Array
+        expect(client.character_series(id).sample).to be_a Hashie::Mash
       end
     end
 
@@ -119,8 +124,8 @@ describe Marvel::Client do
       end
 
       it 'fetches a list of stories filtered by character id' do
-        expect(client.character_stories(id).data.results.size).to eq 20
-        expect(client.character_stories(id).data.results.map(&:title).take(3))
+        expect(client.character_stories(id).size).to eq 20
+        expect(client.character_stories(id).map(&:title).take(3))
           .to eq ['Interior #695', 'Interior #1413', 'Interior #1603']
       end
 
@@ -128,8 +133,9 @@ describe Marvel::Client do
         expect(client.character_stories(id).status).to eq 'Ok'
       end
 
-      it 'returns a Hashie::Mash' do
-        expect(client.character_stories(id)).to be_a Hashie::Mash
+      it 'returns an [ Hashie::Mash ]' do
+        expect(client.character_stories(id)).to be_an Array
+        expect(client.character_stories(id).sample).to be_a Hashie::Mash
       end
     end
   end
