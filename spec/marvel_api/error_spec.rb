@@ -132,7 +132,9 @@ describe Marvel::Response::Error do
         expect(client.characters(comics: 'one').to_s)
           .to eq '409 You must pass at least one valid '\
                  'issue id if you set the issue filter.'
+      end
 
+      it 'returns a Marvel::Response::Error' do
         expect(client.characters(comics: 'one'))
           .to be_a Marvel::Response::Error
       end
