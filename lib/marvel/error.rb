@@ -1,15 +1,15 @@
 module Marvel
   module Response
     class Error < StandardError
+      attr_reader :code, :status
 
       def initialize(response_hash)
-        response_hash.each do |key, value|
-          instance_variable_set("@#{key}", value)
-        end
+        @code = response_hash['code']
+        @status = response_hash['status'] || response_hash['message']
       end
 
       def to_s
-        instance_variables.map { |var| instance_variable_get(var) } * ' '
+        "#{@code} #{@status}"
       end
     end
   end
