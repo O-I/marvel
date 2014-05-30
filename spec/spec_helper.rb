@@ -38,7 +38,7 @@ AUTH = '?ts=1&apikey=1234&hash=ffd275c5130566a2916217b101f26150'
 
 def stub_get(path, options = {})
   file = options.delete(:returns)
-  params = options.map { |k, v| "#{k}=#{v}" } * '&'
+  params = '&' + options.map { |k, v| "#{k}=#{v}" } * '&'
   endpoint = Marvel::Connection::BASE_API_URL + path + AUTH + params
   stub_request(:get, endpoint).
     with(headers: Marvel::Connection::HEADERS).
