@@ -19,20 +19,12 @@ module Marvel
     # Requests on the server side must be of the form
     # http://gateway.marvel.com/v1/comics/?ts=1&apikey=1234&hash=ffd275c5130566a2916217b101f26150
     # where ts is a timestamp
-    # where apikey is your public API key
-    # where hash is the MD5 hash of the concatenation of
-    # ts, your private API key, and your public API key
+    #       apikey is your public API key
+    #       hash is the MD5 hash of the concatenation of
+    #       ts, your private API key, and your public API key
 
-    # So basic request form for all methods looks like
-    # Faraday.get("#{BASE_URL}#{path}#{id}#{stub}#{auth}").body
-    # e.g., get_comics_by_character_id
-    # Faraday.get("#{BASE_URL}characters/#{id}/comics#{auth}").body
-
-    # TODO; MODULARIZE THIS!!!
-    # TODO; Refactor — tons of duplication
-
-    # All methods return a Hashie::Mash object
-    # representation of the original JSON response
+    # All methods return an Array of Hashie::Mash objects
+    # that represent the original JSON response
 
     # Characters:
 
