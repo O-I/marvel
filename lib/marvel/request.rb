@@ -1,4 +1,5 @@
 require_relative 'response'
+require_relative 'error'
 
 module Marvel
   module Request
@@ -14,7 +15,15 @@ module Marvel
       response = connection.send(method) do |request|
         request.url(path, options.merge(auth))
       end
-      Marvel::Response.create(response.body)
+      prepare(response)
+    end
+
+    def prepare(response)
+      if response.body['code'] == 200
+        Marvel::Response.create(response.body)
+      else
+        Marvel::Response::Error.new(response.body)
+      end
     end
 
     def auth(nonce = timestamp)
