@@ -23,7 +23,7 @@ end
 
 ## Usage
 
-Descriptions and examples of the supported actions are below. Note, all methods currently return an `Array` of `Hashie:Mash` objects if successful. For a more detailed explanation of available actions and an exhaustive list of acceptable query parameters, see Marvel's own developer [documentation](http://developer.marvel.com/docs). Each method described below links to the associated call in Marvel's interactive API tester.
+Descriptions and examples of the supported actions are below. Note, all methods currently return an `Array` of `Hashie:Mash` objects if successful; otherwise, a `Marvel::Response::Error` is returned. For a more detailed explanation of available actions and an exhaustive list of acceptable query parameters, see Marvel's own developer [documentation](http://developer.marvel.com/docs). Each method described below links to the associated call in Marvel's interactive API tester.
 
 ### Characters
 
