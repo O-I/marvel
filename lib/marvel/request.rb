@@ -12,17 +12,19 @@ module Marvel
     private
 
     def request(method, path, options = {})
+      etag = options.delete(:etag)
       response = connection.send(method) do |request|
         request.url(path, options.merge(auth))
+        request.headers['If-None-Match'] = etag if etag
       end
       prepare(response)
     end
 
     def prepare(response)
-      if response.body['code'] == 200
-        Marvel::Response.create(response.body)
-      else
-        Marvel::Response::Error.new(response.body)
+      case response.status
+      when 200 then Marvel::Response.create(response.body)
+      when 304 then '304 Not Modified'
+      else Marvel::Response::Error.new(response.body)
       end
     end
 
