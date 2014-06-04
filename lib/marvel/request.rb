@@ -21,10 +21,13 @@ module Marvel
     end
 
     def prepare(response)
-      case response.status
-      when 200 then Marvel::Response.create(response.body)
-      when 304 then '304 Not Modified'
-      else Marvel::Response::Error.new(response.body)
+      if response.status == 304
+        Marvel::Response::Error.new(
+          { 'code' => 304, 'status' => 'Not Modified' })
+      elsif response.body['code'] == 200
+        Marvel::Response.create(response.body)
+      else
+        Marvel::Response::Error.new(response.body)
       end
     end
 
