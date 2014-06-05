@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/O-I/marvel.svg?branch=master)](https://travis-ci.org/O-I/marvel)
 [![Coverage Status](https://img.shields.io/coveralls/O-I/marvel.svg)](https://coveralls.io/r/O-I/marvel)
 
-Ruby bindings for the [Marvel API](http://developer.marvel.com/). Still under construction... Feel free to contribute! In the meantime, check out the [marvelite](https://github.com/antillas21/marvelite/) gem for something that's further along in development (and likely a lot stabler :-).
+Ruby bindings for the [Marvel API](http://developer.marvel.com/). In active development. Feel free to contribute! Need Ruby 1.9.2 support or don't like Faraday? Check out the [marvelite](https://github.com/antillas21/marvelite/) gem for an alternative. (-:
 
 ## Installation
 
@@ -309,6 +309,17 @@ Descriptions and examples of the supported actions are below. Note, all methods 
 @client.story_series(126)
 @client.story_series(126, titleStartsWith: 'Infinity')
 ```
+
+### Etags
+
+Most successful responses contain an 'etag' attribute that can be used to check whether the content of the requested resource has remained the same since the last request. 
+
+```ruby
+thanos = @client.character(1009652)
+@client.character(1009652, etag: thanos.etag)
+```
+
+If the content has not changed, a `Marvel::Response::Error` with `code` 304 and `status` 'Not Modified' is returned and you can use your cached content knowing that it is up-to-date and that you saved some bandwidth. If the content has changed or the Etag is invalid, the resource you requested will be returned.
 
 ## Contributing to marvel_api
  
