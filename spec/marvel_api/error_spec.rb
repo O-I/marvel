@@ -1,4 +1,5 @@
 require 'spec_helper'
+require 'pry'
 
 describe Marvel::Response::Error do
   let(:client) { marvel_test_client }
@@ -146,6 +147,46 @@ describe Marvel::Response::Error do
       it 'returns a Marvel::Response::Error' do
         expect(client.characters(comics: 'one'))
           .to be_a Marvel::Response::Error
+      end
+    end
+
+    context 'with an Etag' do
+      let(:id) { 1009652 }
+
+      describe 'that is valid and up-to-date' do
+        let(:etag) { 'd3f102f7c8d0ef375f395733ae2ce06d1899a94f' }
+
+        before do
+          stub_get("characters/#{id}",
+                   etag: etag,
+                   response_code: 304,
+                   returns: nil)
+        end
+
+        it 'returns a 304 error' do
+          expect(client.character(id, etag: etag).to_s)
+            .to eq '304 Not Modified'
+        end
+
+        it 'returns a Marvel::Response::Error' do
+          expect(client.character(1009652, etag: etag))
+            .to be_a Marvel::Response::Error
+        end
+      end
+
+      describe 'that is invalid or expired' do
+        let(:etag) { 'invalid_or_expired_etag' }
+
+        before do
+          stub_get("characters/#{id}",
+                   etag: etag,
+                   returns: 'characters/character.json')
+        end
+
+        it 'fetches the requested resource' do
+          expect(client.character(id).status).to eq 'Ok'
+          expect(client.character(id).pop.name).to eq 'Thanos'
+        end
       end
     end
   end
