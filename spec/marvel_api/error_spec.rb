@@ -1,5 +1,4 @@
 require 'spec_helper'
-require 'pry'
 
 describe Marvel::Response::Error do
   let(:client) { marvel_test_client }
@@ -11,7 +10,7 @@ describe Marvel::Response::Error do
                  response_code: 404,
                  returns: 'errors/resource_not_found.json')
       end
-      
+
       it 'returns a 404 not found' do
         expect(client.character(1).to_s)
           .to eq '404 We couldn\'t find that character'
