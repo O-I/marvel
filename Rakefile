@@ -12,13 +12,15 @@ end
 require 'rake'
 
 require 'jeweler'
+require './lib/marvel/version.rb'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
   gem.name = 'marvel_api'
+  gem.version = Marvel::Version
   gem.homepage = 'http://github.com/O-I/marvel'
   gem.license = 'MIT'
   gem.summary = %Q{Ruby bindings for the Marvel API}
-  gem.description = %Q{Marvel_API is a Ruby gem that lets you explore the Marvel Universe like never before.}
+  gem.description = %Q{Explore the Marvel Universe like never before.}
   gem.email = 'hore.rahul@gmail.com'
   gem.authors = ['Rahul Horé']
   gem.required_ruby_version = '>= 1.9.3'
@@ -36,7 +38,7 @@ task :default => :spec
 
 require 'rdoc/task'
 Rake::RDocTask.new do |rdoc|
-  version = File.exist?('VERSION') ? File.read('VERSION') : ''
+  version = Marvel::Version
 
   rdoc.rdoc_dir = 'rdoc'
   rdoc.title = "marvel_api #{version}"

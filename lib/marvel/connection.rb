@@ -1,4 +1,5 @@
 require 'faraday_middleware'
+require_relative 'version'
 
 module Marvel
   module Connection
@@ -6,7 +7,7 @@ module Marvel
     BASE_API_URL = 'https://gateway.marvel.com/v1/public/'
     HEADERS = {
                 accept: 'application/json',
-                user_agent: "marvel_api gem #{File.read('VERSION')}"
+                user_agent: "marvel_api gem #{Marvel::Version}"
               }
 
     private
