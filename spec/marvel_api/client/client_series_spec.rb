@@ -19,6 +19,16 @@ describe Marvel::Client do
                   '15-Love GN-TPB (2013 - Present)']
       end
 
+      it 'can order list by startYear' do
+        sorted_list = client.series.sort_by {|entry| entry["startYear"]}
+        
+        sorted_start_years = sorted_list.map {|entry| entry["startYear"]}
+        unsorted_start_years = client.series.map {|entry| entry["startYear"]}
+
+        expect(sorted_start_years == unsorted_start_years).to eq(false)
+        expect(sorted_start_years == unsorted_start_years.sort).to eq(true)
+      end
+
       it 'requests public/v1/series successfully' do
         expect(client.series.status).to eq 'Ok'
       end

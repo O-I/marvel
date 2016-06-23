@@ -215,7 +215,7 @@ Descriptions and examples of the supported actions are below. Note, all methods 
 ```ruby
 @client.series
 @client.series(title: 'Uncanny X-Men')
-@client.series(titleStartsWith: 'Astonishing', orderBy: 'startDate', limit: 100)
+@client.series(titleStartsWith: 'Astonishing', orderBy: 'startYear', limit: 100)
 ```
 
 - Fetches a single comic series by id. [`GET /v1/public/series/{seriesId}`](http://developer.marvel.com/docs#!/public/getSeriesIndividual_get_26)
